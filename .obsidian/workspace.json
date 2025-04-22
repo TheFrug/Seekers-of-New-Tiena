@@ -25,14 +25,10 @@
             "id": "c2cdf8f365cb3206",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -157,17 +153,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline"
             }
           },
           {
             "id": "bdc2b2bbf627075d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "927064a813703bf2",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -213,25 +218,31 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "599edceece0a5f25",
+  "active": "c2cdf8f365cb3206",
   "lastOpenFiles": [
+    "Captain Bridget.md",
+    "___Havens/Seeker's Roost.md",
+    "Haven.md",
+    "README.md",
+    "Lazy GM Campaign Template/Locations/Attachments/taroduns-tomb-patreon.jpg.md",
+    "Lazy GM Campaign Template/Locations/Attachments",
+    "Lazy GM Campaign Template/Locations",
+    "Lazy GM Campaign Template",
+    "___Havens/Bromzheath.md",
+    "Test.md",
     "Testing Template.md",
-    "Test.md",
-    "Test.md",
     "z_Templates/Example Location.md",
     "z_Templates/NPCs.md",
     "z_Templates/Characters.md",
     "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
     "z_Assets/Misc/ImagePlaceholder.png.md",
     "z_Templates/NPC-Template.md",
-    "___Havens/Bromzheath.md",
     "Testing Templates.md",
     "z_Assets/Misc",
     "z_Assets",
     "z_Templates",
     "New folder",
     "___Havens/Androticus.md",
-    "Haven.md",
     "___Havens",
     "___Characters",
     "Seekers of New Tiena - Obsidian/README.md",
