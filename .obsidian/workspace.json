@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bromzheath.md",
+                "file": "z_Assets/Misc/ImagePlaceholder.png.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bromzheath"
+              "title": "ImagePlaceholder.png"
+            }
+          },
+          {
+            "id": "c2cdf8f365cb3206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1d2ef82af62a13ad",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bromzheath.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bromzheath"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -142,20 +157,47 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bromzheath.md",
+                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bromzheath"
+              "title": "Outline of Test"
+            }
+          },
+          {
+            "id": "bdc2b2bbf627075d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c41852eab4781bef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a11b8a0865cb0a",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,15 +206,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "70b3c785587f9755",
+  "active": "599edceece0a5f25",
   "lastOpenFiles": [
+    "Testing Template.md",
+    "Test.md",
+    "Test.md",
+    "z_Templates/Example Location.md",
+    "z_Templates/NPCs.md",
+    "z_Templates/Characters.md",
+    "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "z_Templates/NPC-Template.md",
+    "___Havens/Bromzheath.md",
+    "Testing Templates.md",
+    "z_Assets/Misc",
+    "z_Assets",
+    "z_Templates",
+    "New folder",
+    "___Havens/Androticus.md",
+    "Haven.md",
+    "___Havens",
+    "___Characters",
     "Seekers of New Tiena - Obsidian/README.md",
     "Seekers of New Tiena - Obsidian",
-    "Haven.md",
-    "Bromzheath.md",
     "Firbolgs.md",
     "Welcome.md"
   ]
