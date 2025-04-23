@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "7176229bb4fbdc04",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d095fa421e3604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ca7898a25396ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "___NPCs/Baron Clungunford Rose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baron Clungunford Rose"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "244c54f34cc38b65",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "77c2e931a536bae9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b0e30391d60f6bf1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "bb00feddafb828fd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "73b70cfdbcf1ce00",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "068da3df10505cf9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1bd1dc5af95e9288",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "___NPCs/Baron Clungunford Rose.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2e9015565d8c5097",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a366afb7cd741e69",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "a0db0a64faa0e820",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      },
+      {
+        "id": "c8027d27881b6ae5",
+        "type": "leaf",
+        "state": {
+          "type": "fantasy-statblocks-creature-pane",
+          "state": {},
+          "icon": "skull",
+          "title": "Combatant"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d2ca7898a25396ab",
+  "lastOpenFiles": [
+    "___NPCs",
+    "___Havens/Bromzheath.md",
+    "___NPCs/Baron Clungunford Rose.md",
+    "___Havens/Androticus.md",
+    "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
+    "z_Templates/NPCs.md",
+    "z_Templates/Example Location.md",
+    "z_Templates/NPC-Template.md",
+    "Test.md",
+    "Haven.md",
+    "Captain Bridget.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "z_Templates/Characters.md",
+    "___Havens/Seeker's Roost.md",
+    "Welcome.md",
+    "Firbolgs.md",
+    "___Havens",
+    "z_Assets/Misc",
+    "z_Assets",
+    "z_Templates"
+  ]
+}
