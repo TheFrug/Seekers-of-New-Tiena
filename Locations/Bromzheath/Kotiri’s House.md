@@ -1,0 +1,4 @@
+Near the edge if [[Bromzheath]] at the top of a hill rests a beautiful house that looks nothing like it’s neighbors. The houses in this area were imported from a far away place, being made out of massive hollow tree stumps. In contrast, this home is built on a sturdy foundation, with a clean cobblestone base and smooth burnt orange walls carved from trees of the nearby woods. The field that curves around it like a hug is lined with similarly elegant fences, and its main posts are engraved with the [[Byldamur Family]] logo, which also appears on every beam in the house itself. 
+
+This is the home of [[Kotiri Byldamur]], who lives here with her husband [[Darrach Barrason]] and twin children [[Maia Byldamur-Ashford]] and [[Jak Byldamur-Ashford]]. Together, they work the fields, take care of their animals, and enrich each other’s otherwise simple lives. 
+
