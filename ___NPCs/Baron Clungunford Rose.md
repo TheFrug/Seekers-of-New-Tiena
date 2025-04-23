@@ -1,2 +1,1 @@
-He’s a big dude!
-Ghsiwjfn
+Clungunford Rose is a  wealthy [[Firbolgs|Firbolg]] landowner and a local community leader in [[Bromzheath]].  He is descended from the last chieftain of the Firbolgs, [[Brave Rose]]. 

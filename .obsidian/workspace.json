@@ -25,10 +25,14 @@
             "id": "c2cdf8f365cb3206",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "___NPCs/Baron Clungunford Rose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baron Clungunford Rose"
             }
           }
         ],
@@ -153,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "___NPCs/Baron Clungunford Rose.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Baron Clungunford Rose"
             }
           },
           {
