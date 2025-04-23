@@ -157,9 +157,19 @@
           "icon": "skull",
           "title": "Combatant"
         }
+      },
+      {
+        "id": "97ec58e726620547",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
