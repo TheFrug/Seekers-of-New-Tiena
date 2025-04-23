@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Example Location.md",
+                "file": "z_Templates/NPC-Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example Location"
+              "title": "NPC-Template"
             }
           }
         ]
@@ -188,10 +188,19 @@
   },
   "active": "147aa208b18c7003",
   "lastOpenFiles": [
+    "z_Templates/NPCs.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "z_Templates/NPC-Template.md",
+    "z_Templates/Characters.md",
+    "___NPCs/Bromzheath/Brother Merric.md",
+    "___NPCs/_Seekers/William and Fergus.md",
+    "___NPCs/_Seekers/Haggai.md",
+    "___NPCs/_Seekers/Wyald.md",
+    "___NPCs/_Seekers/Gwendolyn.md",
+    "___NPCs/_Seekers/Galzus.md",
+    "z_Templates/Example Location.md",
     "Locations/Bromzheath/Kotiri’s House.md",
     "___Havens/Bromzheath.md",
-    "z_Templates/Characters.md",
-    "z_Assets/Misc/ImagePlaceholder.png.md",
     "Kotiri Byldamur.md",
     "Byldamur Family.md",
     "Haven.md",
@@ -210,13 +219,7 @@
     "___NPCs",
     "___Havens/Androticus.md",
     "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
-    "z_Templates/NPCs.md",
-    "z_Templates/Example Location.md",
-    "z_Templates/NPC-Template.md",
     "Test.md",
-    "___NPCs/_Seekers/Captain Bridget.md",
-    "Welcome.md",
-    "Firbolgs.md",
     "___Havens",
     "z_Assets/Misc",
     "z_Assets",
