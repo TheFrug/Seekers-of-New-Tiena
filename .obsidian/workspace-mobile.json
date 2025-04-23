@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___NPCs/Baron Clungunford Rose.md",
+                "file": "Pastor Edith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baron Clungunford Rose"
+              "title": "Pastor Edith"
             }
           }
         ]
@@ -188,9 +188,14 @@
   },
   "active": "d2ca7898a25396ab",
   "lastOpenFiles": [
+    "Earthmother’s Scythe.md",
+    "Pastor Edith.md",
+    "___NPCs/Baron Clungunford Rose.md",
+    "Church of Chauntea.md",
+    "/___NPCs/Baron Clungunford Rose.md",
+    "/___NPCs",
     "___NPCs",
     "___Havens/Bromzheath.md",
-    "___NPCs/Baron Clungunford Rose.md",
     "___Havens/Androticus.md",
     "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
     "z_Templates/NPCs.md",
