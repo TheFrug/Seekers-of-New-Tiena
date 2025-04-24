@@ -7,10 +7,10 @@ groups:
 job-title: 
 Race:
 ---
-# Galzus
+# {{title}}
 
 ## Description
-- **Name:** Galzus
+- **Name:** {{title}}
 - **Race/Species:** 
 - **Gender:** 
 - **Age:** 
