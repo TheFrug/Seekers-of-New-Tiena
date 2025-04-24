@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/NPC-Template.md",
+                "file": "___NPCs/_Seekers/Zod’s Build-em-er’s.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPC-Template"
+              "title": "Zod’s Build-em-er’s"
             }
           }
         ]
@@ -188,9 +188,13 @@
   },
   "active": "147aa208b18c7003",
   "lastOpenFiles": [
+    "Locations/_Seeker’s Roost/Captain’s Quarters.md",
+    "___NPCs/_Seekers/Zod’s Build-em-er’s.md",
+    "Locations/_Seeker’s Roost/Segojan’s Cave.md",
+    "z_Templates/NPC-Template.md",
+    "Locations/_Seeker’s Roost",
     "z_Templates/NPCs.md",
     "z_Assets/Misc/ImagePlaceholder.png.md",
-    "z_Templates/NPC-Template.md",
     "z_Templates/Characters.md",
     "___NPCs/Bromzheath/Brother Merric.md",
     "___NPCs/_Seekers/William and Fergus.md",
@@ -217,12 +221,8 @@
     "/___NPCs/Baron Clungunford Rose.md",
     "/___NPCs",
     "___NPCs",
-    "___Havens/Androticus.md",
-    "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
-    "Test.md",
     "___Havens",
     "z_Assets/Misc",
-    "z_Assets",
-    "z_Templates"
+    "z_Assets"
   ]
 }
