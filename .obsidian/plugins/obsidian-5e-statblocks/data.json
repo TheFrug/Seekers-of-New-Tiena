@@ -3,7 +3,7 @@
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",
-  "useDice": true,
+  "useDice": false,
   "renderDice": false,
   "export": true,
   "showAdvanced": false,
@@ -13,9 +13,10 @@
     "patch": 1
   },
   "paths": [
-    "/"
+    "/",
+    "___Beastiary"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
   "debug": false,
