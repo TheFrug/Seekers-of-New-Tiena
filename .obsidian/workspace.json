@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/NPC Template.md",
+                "file": "___NPCs/_Seekers/Wyald.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPC Template"
+              "title": "Wyald"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/NPC Template.md",
+                "file": "___NPCs/_Seekers/Wyald.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NPC Template"
+              "title": "Outline of Wyald"
             }
           },
           {
@@ -211,12 +211,13 @@
   },
   "active": "d487fd163cf85c51",
   "lastOpenFiles": [
-    "Untitled.md",
+    "z_Templates/NPC Template.md",
+    "___NPCs/Rifis.md",
+    "Statblock Formatting Example.md",
     "___Beastiary",
     "z_Assets/Misc/ImagePlaceholder.png.md",
     "Test.md",
     "___NPCs/_Seekers/Galzus.md",
-    "z_Templates/NPC Template.md",
     "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
     "z_Templates/NPC_Normal_Templater.md",
     "z_Templates/Characters.md",
@@ -224,7 +225,6 @@
     "z_Templates/NPCs.md",
     "z_Templates/NPC-Template.md",
     "Haven.md",
-    "___NPCs/Rifis.md",
     "___Locations/_Seeker’s Roost/Segojan’s Cave.md",
     "___Locations/Bromzheath/Kotiri’s House.md",
     "Byldamur Family.md",
