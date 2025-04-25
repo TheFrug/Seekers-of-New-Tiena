@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
+                "file": "___NPCs/Bromzheath/Brother Merric.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Walter 'The Whip' Wadsworth"
+              "title": "Brother Merric"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
+                "file": "___NPCs/Bromzheath/Brother Merric.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Walter 'The Whip' Wadsworth"
+              "title": "Outline of Brother Merric"
             }
           },
           {
@@ -211,8 +211,11 @@
   },
   "active": "d487fd163cf85c51",
   "lastOpenFiles": [
-    "z_Templates/dm/compendium/classes/ranger-xphb.md",
     "___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
+    "___NPCs/Bromzheath/Kotiri Byldamur.md",
+    "___NPCs/Bromzheath/Bywhl.md",
+    "___NPCs/Bromzheath/Pastor Edith.md",
+    "z_Templates/dm/compendium/classes/ranger-xphb.md",
     "[Firbolg.md",
     "Firbolg.md",
     "___NPCs/_Seekers/Zod’s Build-em-er’s.md",
@@ -223,8 +226,6 @@
     "___NPCs/_Seekers/Wyald.md",
     "___NPCs/Bromzheath/Baron Clungunford Rose.md",
     "___NPCs/Bromzheath/Brother Merric.md",
-    "___NPCs/Bromzheath/Bywhl.md",
-    "___NPCs/Bromzheath/Kotiri Byldamur.md",
     "Human.md",
     "Haven.md",
     "___NPCs/_Seekers/Captain Bridget.md",
@@ -236,7 +237,6 @@
     "z_Templates/dm/compendium/traps-hazards/falling-net-xdmg.md",
     "z_Templates/dm/compendium/traps-hazards/fire-casting-statue-xdmg.md",
     "z_Templates/dm/compendium/spells/misty-step-xphb.md",
-    "z_Templates/dm/compendium/spells/haste-xphb.md",
     "___Beastiary",
     "___NPCs/_Seekers",
     "___NPCs/Bromzheath",
