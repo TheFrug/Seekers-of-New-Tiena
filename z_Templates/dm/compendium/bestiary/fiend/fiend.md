@@ -1,0 +1,35 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+---
+# Index of Fiend
+
+- [Balor](./balor-xmm.md)
+- [Barbed Devil](./barbed-devil-xmm.md)
+- [Bearded Devil](./bearded-devil-xmm.md)
+- [Bone Devil](./bone-devil-xmm.md)
+- [Chain Devil](./chain-devil-xmm.md)
+- [Dretch](./dretch-xmm.md)
+- [Erinyes](./erinyes-xmm.md)
+- [Glabrezu](./glabrezu-xmm.md)
+- [Gnoll Warrior](./gnoll-warrior-xmm.md)
+- [Hell Hound](./hell-hound-xmm.md)
+- [Hezrou](./hezrou-xmm.md)
+- [Horned Devil](./horned-devil-xmm.md)
+- [Ice Devil](./ice-devil-xmm.md)
+- [Imp](./imp-xmm.md)
+- [Incubus](./incubus-xmm.md)
+- [Lamia](./lamia-xmm.md)
+- [Lemure](./lemure-xmm.md)
+- [Marilith](./marilith-xmm.md)
+- [Nalfeshnee](./nalfeshnee-xmm.md)
+- [Night Hag](./night-hag-xmm.md)
+- [Nightmare](./nightmare-xmm.md)
+- [Oni](./oni-xmm.md)
+- [Pit Fiend](./pit-fiend-xmm.md)
+- [Quasit](./quasit-xmm.md)
+- [Rakshasa](./rakshasa-xmm.md)
+- [Sahuagin Warrior](./sahuagin-warrior-xmm.md)
+- [Spirit Naga](./spirit-naga-xmm.md)
+- [Succubus](./succubus-xmm.md)
+- [Vrock](./vrock-xmm.md)

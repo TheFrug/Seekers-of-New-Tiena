@@ -4,7 +4,7 @@ is-npc: true
 player: 
 status: 
 groups: 
-job-title: 
+job-title: "[[fighter-xphb|Fighter]]"
 Race:
 ---
 # Galzus
