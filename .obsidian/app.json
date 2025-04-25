@@ -2,5 +2,6 @@
   "readableLineLength": false,
   "showLineNumber": true,
   "rightToLeft": false,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "alwaysUpdateLinks": true
 }

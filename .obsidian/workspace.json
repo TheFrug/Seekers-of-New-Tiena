@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___NPCs/Bromzheath/Kotiri Byldamur.md",
-                "mode": "source",
+                "file": "___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kotiri Byldamur"
+              "title": "Walter 'The Whip' Wadsworth"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___NPCs/Bromzheath/Kotiri Byldamur.md",
+                "file": "___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kotiri Byldamur"
+              "title": "Outline of Walter 'The Whip' Wadsworth"
             }
           },
           {
@@ -211,10 +211,22 @@
   },
   "active": "d487fd163cf85c51",
   "lastOpenFiles": [
-    "Human.md",
-    "Haven.md",
+    "z_Templates/dm/compendium/classes/ranger-xphb.md",
+    "___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
+    "[Firbolg.md",
+    "Firbolg.md",
+    "___NPCs/_Seekers/Zod’s Build-em-er’s.md",
     "___NPCs/_Seekers/Galzus.md",
     "___NPCs/_Seekers/Gwendolyn.md",
+    "___NPCs/_Seekers/Haggai.md",
+    "___NPCs/_Seekers/William and Fergus.md",
+    "___NPCs/_Seekers/Wyald.md",
+    "___NPCs/Bromzheath/Baron Clungunford Rose.md",
+    "___NPCs/Bromzheath/Brother Merric.md",
+    "___NPCs/Bromzheath/Bywhl.md",
+    "___NPCs/Bromzheath/Kotiri Byldamur.md",
+    "Human.md",
+    "Haven.md",
     "___NPCs/_Seekers/Captain Bridget.md",
     "z_Templates/dm/compendium/tables/ability-modifier-attack-roll-abilities-xphb.md",
     "z_Templates/dm/compendium/tables/ability-modifier-ability-check-examples-xphb.md",
@@ -225,18 +237,6 @@
     "z_Templates/dm/compendium/traps-hazards/fire-casting-statue-xdmg.md",
     "z_Templates/dm/compendium/spells/misty-step-xphb.md",
     "z_Templates/dm/compendium/spells/haste-xphb.md",
-    "z_Templates/dm/compendium/spells/resistance-xphb.md",
-    "z_Templates/dm/compendium/spells/sleet-storm-xphb.md",
-    "z_Templates/dm/compendium/spells/sorcerous-burst-xphb.md",
-    "z_Templates/dm/compendium/spells/dissonant-whispers-xphb.md",
-    "z_Templates/dm/compendium/spells/fear-xphb.md",
-    "z_Templates/dm/compendium/races/gnome-xphb.md",
-    "z_Templates/dm/compendium/items/armor-of-lightning-resistance-xdmg.md",
-    "z_Templates/dm/compendium/items/2-shield-xdmg.md",
-    "z_Templates/dm/compendium/bestiary/beast/allosaurus-xmm.md",
-    "z_Templates/dm/compendium/bestiary/beast/badger-xmm.md",
-    "z_Templates/dm/compendium/bestiary/beast/baboon-xmm.md",
-    "z_Templates/dm/compendium/classes/fighter-xphb.md",
     "___Beastiary",
     "___NPCs/_Seekers",
     "___NPCs/Bromzheath",
