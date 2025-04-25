@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___NPCs/_Seekers/Wyald.md",
+                "file": "z_Templates/NPC Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wyald"
+              "title": "NPC Template"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5
   },
   "right": {
     "id": "1d2ef82af62a13ad",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___NPCs/_Seekers/Wyald.md",
+                "file": "z_Templates/NPC Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wyald"
+              "title": "Outline of NPC Template"
             }
           },
           {
@@ -211,34 +211,35 @@
   },
   "active": "d487fd163cf85c51",
   "lastOpenFiles": [
+    "z_Templates/Statblock.md",
     "z_Templates/NPC Template.md",
+    "___NPCs/Bromzheath/Baron Clungunford Rose.md",
+    "___NPCs/Bromzheath/Brother Merric.md",
+    "z_Templates/Statblock Formatting Example.md",
+    "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
+    "Byldamur Family.md",
+    "Earthmother’s Scythe.md",
+    "False Earthmother’s Scythe.md",
+    "Firbolgs.md",
+    "Haven.md",
+    "Test.md",
+    "Welcome.md",
+    "___NPCs/_Seekers/Wyald.md",
     "___NPCs/Rifis.md",
-    "Statblock Formatting Example.md",
     "___Beastiary",
     "z_Assets/Misc/ImagePlaceholder.png.md",
-    "Test.md",
     "___NPCs/_Seekers/Galzus.md",
-    "z_Templates/YYYY-MM-DD Campaign Session Notes.md",
     "z_Templates/NPC_Normal_Templater.md",
     "z_Templates/Characters.md",
     "z_Templates/Example Location.md",
     "z_Templates/NPCs.md",
     "z_Templates/NPC-Template.md",
-    "Haven.md",
     "___Locations/_Seeker’s Roost/Segojan’s Cave.md",
     "___Locations/Bromzheath/Kotiri’s House.md",
-    "Byldamur Family.md",
     "___NPCs/_Seekers/Captain Bridget.md",
     "___NPCs/_Seekers/Zod’s Build-em-er’s.md",
-    "___NPCs/_Seekers/Wyald.md",
-    "___NPCs/_Seekers/William and Fergus.md",
-    "___NPCs/_Seekers/Haggai.md",
-    "___NPCs/Baron Clungunford Rose.md",
     "___NPCs/_Seekers",
-    "___NPCs/Bromzheath/Pastor Edith.md",
-    "___NPCs/Bromzheath/Baron Clungunford Rose.md",
     "___NPCs/Bromzheath",
-    "___Locations/Bromzheath/Church of Chauntea.md",
     "___Locations/Bromzheath",
     "___Locations",
     "___NPCs",
