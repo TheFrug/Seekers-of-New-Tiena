@@ -11,7 +11,7 @@ Race:
 
 ## Description
 - **Name:** Galzus
-- **Race/Species:** 
+- **Race/Species:** [[Human]]
 - **Gender:** 
 - **Age:** 
 - **Occupation/Class:** 

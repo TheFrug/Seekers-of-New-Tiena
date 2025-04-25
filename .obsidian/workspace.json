@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___NPCs/_Seekers/Galzus.md",
+                "file": "___NPCs/Bromzheath/Kotiri Byldamur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galzus"
+              "title": "Kotiri Byldamur"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___NPCs/_Seekers/Galzus.md",
+                "file": "___NPCs/Bromzheath/Kotiri Byldamur.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Galzus"
+              "title": "Outline of Kotiri Byldamur"
             }
           },
           {
@@ -211,8 +211,10 @@
   },
   "active": "d487fd163cf85c51",
   "lastOpenFiles": [
-    "___NPCs/_Seekers/Gwendolyn.md",
+    "Human.md",
+    "Haven.md",
     "___NPCs/_Seekers/Galzus.md",
+    "___NPCs/_Seekers/Gwendolyn.md",
     "___NPCs/_Seekers/Captain Bridget.md",
     "z_Templates/dm/compendium/tables/ability-modifier-attack-roll-abilities-xphb.md",
     "z_Templates/dm/compendium/tables/ability-modifier-ability-check-examples-xphb.md",
@@ -235,8 +237,6 @@
     "z_Templates/dm/compendium/bestiary/beast/badger-xmm.md",
     "z_Templates/dm/compendium/bestiary/beast/baboon-xmm.md",
     "z_Templates/dm/compendium/classes/fighter-xphb.md",
-    "z_Templates/Statblock.md",
-    "z_Templates/NPC Template.md",
     "___Beastiary",
     "___NPCs/_Seekers",
     "___NPCs/Bromzheath",
