@@ -21,16 +21,16 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 `dice: [](bag-of-tricks-rust-xdmg.md#^1-creature)`
 
-| dice: 1d8 | Creature |
-|-----------|----------|
-| 1 | [Rat](compendium/bestiary/beast/rat-xmm.md) |
-| 2 | [Owl](compendium/bestiary/beast/owl-xmm.md) |
-| 3 | [Mastiff](compendium/bestiary/beast/mastiff-xmm.md) |
-| 4 | [Goat](compendium/bestiary/beast/goat-xmm.md) |
-| 5 | [Giant Goat](compendium/bestiary/beast/giant-goat-xmm.md) |
-| 6 | [Giant Boar](compendium/bestiary/beast/giant-boar-xmm.md) |
-| 7 | [Lion](compendium/bestiary/beast/lion-xmm.md) |
-| 8 | [Brown Bear](compendium/bestiary/beast/brown-bear-xmm.md) |
+| dice: 1d8 | Creature                                                  |
+| --------- | --------------------------------------------------------- |
+| 1         | [Rat](compendium/bestiary/beast/rat-xmm.md)               |
+| 2         | [Owl](compendium/bestiary/beast/owl-xmm.md)               |
+| 3         | [Mastiff](compendium/bestiary/beast/mastiff-xmm.md)       |
+| 4         | [Goat](compendium/bestiary/beast/goat-xmm.md)             |
+| 5         | [Giant Goat](compendium/bestiary/beast/giant-goat-xmm.md) |
+| 6         | [Giant Boar](compendium/bestiary/beast/giant-boar-xmm.md) |
+| 7         | [Lion](compendium/bestiary/beast/lion-xmm.md)             |
+| 8         | [Brown Bear](compendium/bestiary/beast/brown-bear-xmm.md) |
 ^1-creature
 
 *Source: SRD 5.2*

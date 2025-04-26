@@ -98,11 +98,32 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Archmage",
+        "initiative": 5,
+        "static": false,
+        "modifier": 2,
+        "hp": 99,
+        "currentMaxHP": 99,
+        "cr": "12",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_28dabaf8f869",
+        "currentHP": 99,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "18d8 + 18"
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
-    "logFile": "",
+    "logFile": null,
     "rollHP": false
   },
   "condense": false,

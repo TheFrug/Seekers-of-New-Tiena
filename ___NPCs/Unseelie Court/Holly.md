@@ -1,21 +1,21 @@
 ---
 type: character
 is-npc: true
-player: Robert
+player: 
 status: Alive
-groups: Seekers
-job-title: Wizard
-Race: Human
+groups: Unseelie Court
+job-title: 
+Race: Fey
 ---
-# Lucian Castemur Duskwood
+# Holly
 
 ## Description
-- **Name:** Lucian Castemur Duskwood
-- **Race/Species:** 
-- **Gender:** 
-- **Age:** 
+- **Name:** Holly
+- **Race/Species:** Fey (Ratoska)
+- **Gender:** Female
+- **Age:** 175
 - **Occupation/Class:** 
-- **Affiliation:** 
+- **Affiliation:** [[Unseelie Court]]
 - **Alignment:** 
 - **Appearance:**
 

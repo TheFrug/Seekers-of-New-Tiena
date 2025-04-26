@@ -4,24 +4,145 @@
     "type": "split",
     "children": [
       {
-        "id": "45843623d026ae4c",
+        "id": "6f5d367f75ed22e0",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "d487fd163cf85c51",
+            "id": "d7080e80047b96e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "___NPCs/Bromzheath/Kotiri Byldamur.md",
-                "mode": "preview",
+                "file": "Session 11 Prep.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kotiri Byldamur"
+              "title": "Session 11 Prep"
+            }
+          },
+          {
+            "id": "6b4429120beab165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/dm/compendium/bestiary/humanoid/archmage-xmm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "archmage-xmm"
             }
           }
         ]
+      },
+      {
+        "id": "7422162c0fa6f4af",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "c95c016fba196fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/dm/compendium/items/bag-of-tricks-rust-xdmg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bag-of-tricks-rust-xdmg"
+            }
+          },
+          {
+            "id": "58adbf0e77b30a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/dm/compendium/bestiary/monstrosity/wererat-xmm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wererat-xmm"
+            }
+          },
+          {
+            "id": "ddcaf140bb056dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "___NPCs/Unseelie Court/Dionaea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dionaea"
+            }
+          },
+          {
+            "id": "ae2ec6bb8497269c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/dm/compendium/bestiary/humanoid/archmage-xmm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "archmage-xmm"
+            }
+          },
+          {
+            "id": "54e19e7166bec7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/dm/rules/diseases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diseases"
+            }
+          },
+          {
+            "id": "af9ab11ac2d67af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "___Locations/Bromzheath/Church of Chauntea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Church of Chauntea"
+            }
+          },
+          {
+            "id": "fcefadcc670626fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "___Factions/Bromzheath Arc/Cult of Talona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cult of Talona"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "frightened",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Session 11 Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for Session 11 Prep"
             }
           },
           {
@@ -142,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "___NPCs/Bromzheath/Kotiri Byldamur.md",
+                "file": "Session 11 Prep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kotiri Byldamur"
+              "title": "Outline of Session 11 Prep"
             }
           },
           {
@@ -171,8 +292,7 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c41852eab4781bef",
@@ -209,43 +329,44 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "d487fd163cf85c51",
+  "active": "d7080e80047b96e0",
   "lastOpenFiles": [
-    "___NPCs/Bromzheath/Bywhl.md",
-    "___NPCs/Bromzheath/Kotiri Byldamur.md",
-    "___NPCs/Bromzheath/Pastor Edith.md",
-    "z_Templates/dm/compendium/decks/deck-of-illusions-xdmg.md",
-    "z_Templates/dm/rules/skills.md",
-    "z_Templates/dm/compendium/classes/wizard-xphb.md",
-    "z_Templates/dm/compendium/classes/fighter-xphb-champion-xphb.md",
-    "___NPCs/Bromzheath/Brother Merric.md",
-    "___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
-    "z_Templates/dm/compendium/classes/ranger-xphb.md",
-    "[Firbolg.md",
-    "Firbolg.md",
-    "___NPCs/_Seekers/Zod’s Build-em-er’s.md",
-    "___NPCs/_Seekers/Galzus.md",
-    "___NPCs/_Seekers/Gwendolyn.md",
-    "___NPCs/_Seekers/Haggai.md",
-    "___NPCs/_Seekers/William and Fergus.md",
-    "___NPCs/_Seekers/Wyald.md",
-    "___NPCs/Bromzheath/Baron Clungunford Rose.md",
-    "Human.md",
-    "Haven.md",
-    "___NPCs/_Seekers/Captain Bridget.md",
-    "z_Templates/dm/compendium/tables/ability-modifier-attack-roll-abilities-xphb.md",
-    "z_Templates/dm/compendium/tables/ability-modifier-ability-check-examples-xphb.md",
-    "z_Templates/dm/compendium/tables/ability-modifier-saving-throw-examples-xphb.md",
-    "z_Templates/dm/compendium/tables/ability-score-point-costs-xphb.md",
+    "Ratmancer.md",
+    "Session 11 Prep.md",
+    "___NPCs/Unseelie Court/Dionaea.md",
+    "z_Templates/dm/compendium/spells/acid-arrow-xphb.md",
+    "z_Templates/dm/compendium/spells/charm-person-xphb.md",
+    "z_Templates/dm/compendium/bestiary/construct/animated-armor-xmm.md",
+    "z_Templates/dm/compendium/bestiary/humanoid/archmage-xmm.md",
+    "Untitled.md",
+    "___Items/Relics/Earthmother’s Scythe.md",
+    "z_Templates/dm/compendium/spells/inflict-wounds-xphb.md",
+    "frightened.md",
+    "z_Templates/dm/compendium/spells/light-xphb.md",
+    "z_Templates/dm/rules/conditions.md",
+    "Ricky Rat.md",
+    "___Locations/Bromzheath/Church of Chauntea.md",
+    "z_Templates/dm/rules/diseases.md",
+    "___Factions/Bromzheath Arc/Cult of Talona.md",
+    "z_Templates/dm/compendium/bestiary/humanoid/humanoid.md",
+    "z_Templates/dm/compendium/spells/stoneskin-xphb.md",
+    "z_Templates/dm/compendium/bestiary/beast/swarm-of-rats-xmm.md",
+    "z_Templates/dm/compendium/bestiary/monstrosity/wererat-xmm.md",
+    "z_Templates/dm/rules/variant-rules/hit-points-xphb.md",
+    "z_Templates/dm/rules/item-mastery.md",
+    "z_Assets/Images/Dionaea.png",
+    "z_Templates/Markdown Templates/Insert Monster Statblock.md",
+    "___NPCs/Rifis.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "___NPCs/Deities",
+    "___Terms",
+    "___Factions/Bromzheath Arcx/Untitled",
+    "___Factions/Bromzheath Arc",
+    "___Factions",
+    "___NPCs/Unseelie Court",
     "___Beastiary",
     "___NPCs/_Seekers",
     "___NPCs/Bromzheath",
-    "___Locations/Bromzheath",
-    "___Locations",
-    "___NPCs",
-    "Lazy GM Campaign Template/Locations/Attachments",
-    "Lazy GM Campaign Template/Locations",
-    "Lazy GM Campaign Template",
-    "z_Assets/Misc"
+    "___Locations/Bromzheath"
   ]
 }
