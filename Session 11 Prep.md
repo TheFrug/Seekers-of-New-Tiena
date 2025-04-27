@@ -125,7 +125,7 @@ spells:
 - The Ratmancer is a 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell)
 - <description>  
 - Cantrips: Decompose, Sacred Flame, Shillelagh
-- 1st level: inflict wounds, detect magic, ray of sickness
+- 1st level: inflict wounds, detect magic, ray of sickness, shield
 - 2nd level: spike growth, ray of enfeeblement
 - 3rd level: stinking cloud
 traits:
@@ -141,11 +141,11 @@ reactions:
 NPCs: 
  - [[Ricky Rat]]: Caravan guard who has now turned into a [[wererat-xmm|Wererat]] and is desperately trying to break into the office at the command of his new master, a cultist who can psychically control rats and wererats.
 	 - Goal: Get into Edith's Office and steal the [[Earthmother’s Scythe]]
-	 - Ricky Rat is being controlled by the [[Ratmancer]], a cultist of Talona
+	 - Ricky Rat is being controlled by the [[Ratmancer]], a [[Cult of Talona|cultist]] of [[Talona]]
 	 - If Ricky gets inside, he inspects the scythe for a moment before escaping through the stained-glass window in her office
  - [[Ratmancer]]: Is sitting on a swarm of rats atop the roof of the church commanding all nearby rats to do their bidding. They cackle with a rasp at the flowers around them growing on the roof as they slowly wilt from the mere presence of the Ratmancer
 	 - Use [[Ricky Rat]], the caravan guard the Ratmancer attacked the previous night, in order to steal the [[Earthmother’s Scythe]]
- - Clungunford's Farmboys: Four Firbolg farmhands went into town to investigate the situation with Edith and Merric. Some time after 
+ - Clungunford's Farmboys: Four Firbolg farmhands went into town to investigate the situation with Edith and Merric. Some time after arriving and seeing the crowd, two of them abandoned the mission to chill in the tavern
  - [[Brother Merric]]: Shaggy-haired halfling [[cleric-xphb|Cleric]] of [[Chauntea]] with ties to the [[Cult of Talona]]. The party instructed him to defend the church and the unconscious [[Pastor Edith]] with his life, and to not let anyone into the church
 	 - Keep Edith safe at all costs. 
  - [[Pastor Edith]]: Elder Firbolg [[cleric-xphb|Cleric]] of [[Chauntea]]. Edith was last seen unconscious after being struck by a [[Memory Bolt]] and fainting, but was healed by Malachi and left with Brother Merric.
@@ -156,7 +156,7 @@ NPCs:
 Tip
 ![[The Eight Steps of Lazy RPG Prep#Outline Potential Scenes]]
 %%
- - Ricky Rat's Break-in
+ - Ricky Rat's Break-in and Ratmancer's attempted escape 
  - Brother Merric's arrest:
 	 - Upon arrival to the scene, [[Baron Clungunford Rose]] demands that Brother Merric be detained in the holding house on suspicion of enabling an attack on the [[Church of Chauntea]]
 	 - Evidence: Blocking entry into the church, 
