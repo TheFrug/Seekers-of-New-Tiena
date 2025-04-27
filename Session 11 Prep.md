@@ -165,9 +165,15 @@ Tip
  - Ricky Rat's Break-in and Ratmancer's attempted escape 
  - Brother Merric's arrest:
 	 - Upon arrival to the scene, [[Baron Clungunford Rose]] demands that Brother Merric be detained in the holding house on suspicion of enabling an attack on the [[Church of Chauntea]]
-	 - Evidence: Blocking entry into the church, 
+	 - Evidence: Blocking entry into the church, being a rat
+	 - Tells party to return home for rest and asks that they investigate in the morning.
  - Calendula's Nightmare manipulated by [[Dionaea]]
- - 
+ - [[Brenwin Al-avik]] has [[Adamantium Sandpaper]] for Zod!, Ricky might be in chains to be cured in [[Brenwin's homeland]], which has advanced healing magic owing to their worship of the [[Sun God]] and the [[Wind God]].
+ - Clungunford mourns his dead giant boar and his prized boar, [[old Mabel]], who has gone missing. DC 18 survival check to discern that the boar was eaten by something other than swarm of rats. Clungunford insists the incidents were connected, and directs the party to find the hideout of the [[Cult of Talona]].
+ - If party tracks boar out of town and towards forest, they can potentially run into:
+	 - A Troupe of Goblins hopelessly attacks the party, claiming “Boss said if I sacked ya, I’d get five promotions!”
+		- The one that Calendula searches carries a note that looks like pixie gobldegoop, a type of fae script that reveals itself upon a certain time or after a certain trigger (once Calendula is alone). It reads:
+		- “Hey Calendula! How’d I know you’d search this guy first? I know I have a lot of explaining to do, being not dead and all that. My camp is in the woods, the same place these gobbos came from. One of them left a trail of feydust. Follow it and you’ll find me.”
 
 ## To Do
 
@@ -223,7 +229,7 @@ Tip
 
 - **Zod:** 
 	- Magic Salamander that does something useful and eats wood!
-	- 
+	- [[Adamantium Sandpaper]]: Sandpaper that can smooth *any* surface 
 - **Calendula:** 
 	- [[bag-of-tricks-rust-xdmg|Bag of Tricks (Rust)]]
 	- 
