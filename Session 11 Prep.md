@@ -63,6 +63,8 @@ After finishing their heroic battle with the Bulette, having defended and cared 
  - **Turn Behaviors:**
 	 - Turn 1: Wererat wants inside the office, Swarm of Rats eating Tonks disperse around the church
 	 - Turn 2: 
+	 - Turn 3: 
+	 - Turn 4: 
 
 ```statblock
 monster: Wererat
@@ -143,9 +145,13 @@ NPCs:
 	 - Goal: Get into Edith's Office and steal the [[Earthmother’s Scythe]]
 	 - Ricky Rat is being controlled by the [[Ratmancer]], a [[Cult of Talona|cultist]] of [[Talona]]
 	 - If Ricky gets inside, he inspects the scythe for a moment before escaping through the stained-glass window in her office
- - [[Ratmancer]]: Is sitting on a swarm of rats atop the roof of the church commanding all nearby rats to do their bidding. They cackle with a rasp at the flowers around them growing on the roof as they slowly wilt from the mere presence of the Ratmancer
-	 - Use [[Ricky Rat]], the caravan guard the Ratmancer attacked the previous night, in order to steal the [[Earthmother’s Scythe]]
- - Clungunford's Farmboys: Four Firbolg farmhands went into town to investigate the situation with Edith and Merric. Some time after arriving and seeing the crowd, two of them abandoned the mission to chill in the tavern
+	 - If the Ratmancer is killed or is otherwise unable to maintain control of Ricky, he will turn himself in
+ - [[Ratmancer]]: Is sitting on a swarm of rats atop the roof of the church commanding all nearby rats to do their bidding. Relishing in death and plague, the Ratmancer grins at the flowers around them as they slowly wilt from their mere presence
+	 - Goal: Use [[Ricky Rat]], the caravan guard the Ratmancer attacked the previous night, in order to steal the [[Earthmother’s Scythe]]
+	 - The Ratmancer stays hidden atop the roof until discovered, at which point they will fight for as long as they still think they can attain the Earthmother’s Scythe
+	 - The Ratmancer hates Chauntea, and will not hesitate to ruin the gardens with their plague abilities to hasten their escape
+ - Clungunford's Farmboys: Four Firbolg farmhands went into town to investigate the situation with Edith and Merric. They are loyal to Clungunford first, but two are also devout Chaunteand.
+ - Some time after arriving and seeing the crowd, two of them abandoned the mission to chill in the tavern. The other two made it into the Church
  - [[Brother Merric]]: Shaggy-haired halfling [[cleric-xphb|Cleric]] of [[Chauntea]] with ties to the [[Cult of Talona]]. The party instructed him to defend the church and the unconscious [[Pastor Edith]] with his life, and to not let anyone into the church
 	 - Keep Edith safe at all costs. 
  - [[Pastor Edith]]: Elder Firbolg [[cleric-xphb|Cleric]] of [[Chauntea]]. Edith was last seen unconscious after being struck by a [[Memory Bolt]] and fainting, but was healed by Malachi and left with Brother Merric.
