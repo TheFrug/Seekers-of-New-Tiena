@@ -1,0 +1,1 @@
+Made from the dragon Bant's scales, this sandpaper can smooth almost any surface, but wears with time. 

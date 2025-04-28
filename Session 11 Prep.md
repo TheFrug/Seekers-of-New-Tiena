@@ -9,8 +9,7 @@ tags:
   - monster/environment/urban
   - monster/size/small-or-medium
   - monster/type/monstrosity
-aliases:
-  - Wererat
+aliases: []
 ---
 # Title: 
 
@@ -59,12 +58,14 @@ After finishing their heroic battle with the Bulette, having defended and cared 
 	 - Rose Farmhands arrive, two of them bugger off to the tavern to wait out the situation after a long day's work
 	 - Last two successfully make it to the door, and Merric uses magic to tell them to come to the back door
  - **Lighting:** The moonlight glimmers through the stained-glass mural of Chauntea displayed high in the walls of the [[Church of Chauntea]], casting dim light on the scene. 
- - **Enemies:** Ricky Rat, [[Ratmancer]] on the roof of the Church, surrounded by a [[swarm-of-rats-xmm|Swarm of Rats]] guarded by two [[Cult of Talona|cultists]] of [[Talona]], a [[swarm-of-rats-xmm|Swarm of Rats]] feasting on a large Firbolg farmhand, [[Tonks]].
+ - **Enemies:** Ricky Rat, [[Ratmancer]] on the roof of the Church, surrounded by a [[swarm-of-rats-xmm|Swarm of Rats]] guarded by two [[Cult of Talona|cultists]] of [[Talona]], a [[swarm-of-rats-xmm|Swarm of Rats]] feasting on a large [[Firbolg]] farmhand, [[Tonks]].
  - **Turn Behaviors:**
 	 - Turn 1: Wererat wants inside the office, Swarm of Rats eating Tonks disperse around the church
 	 - Turn 2: 
-	 - Turn 3: 
+	 - Turn 3: Rats open the hatch to Merric's Hovel, exposing him to the Ratmancer's thrall
 	 - Turn 4: 
+
+
 
 ```statblock
 monster: Wererat
@@ -155,6 +156,7 @@ NPCs:
  - [[Brother Merric]]: Shaggy-haired halfling [[cleric-xphb|Cleric]] of [[Chauntea]] with ties to the [[Cult of Talona]]. The party instructed him to defend the church and the unconscious [[Pastor Edith]] with his life, and to not let anyone into the church
 	 - Keep Edith safe at all costs. 
  - [[Pastor Edith]]: Elder Firbolg [[cleric-xphb|Cleric]] of [[Chauntea]]. Edith was last seen unconscious after being struck by a [[Memory Bolt]] and fainting, but was healed by Malachi and left with Brother Merric.
+	 - Edith is missing, having been carried off by wererats shortly before the party arrove, taking advantage of both the Ratmancer's mind control on Merric, as well as the panic from the Bulette.
 
 # Outline Potential Scenes
 
@@ -162,13 +164,15 @@ NPCs:
 Tip
 ![[The Eight Steps of Lazy RPG Prep#Outline Potential Scenes]]
 %%
+
+ - [[Holly]] the [[Ratoska]] reveals that her employer was [[Bobby Sparkles]]
  - Ricky Rat's Break-in and Ratmancer's attempted escape 
  - Brother Merric's arrest:
 	 - Upon arrival to the scene, [[Baron Clungunford Rose]] demands that Brother Merric be detained in the holding house on suspicion of enabling an attack on the [[Church of Chauntea]]
 	 - Evidence: Blocking entry into the church, being a rat
 	 - Tells party to return home for rest and asks that they investigate in the morning.
  - Calendula's Nightmare manipulated by [[Dionaea]]
- - [[Brenwin Al-avik]] has [[Adamantium Sandpaper]] for Zod!, Ricky might be in chains to be cured in [[Brenwin's homeland]], which has advanced healing magic owing to their worship of the [[Sun God]] and the [[Wind God]].
+ - [[Brenwin Al-avik]] has [[Bantium Sandpaper]] for Zod!, Ricky might be in chains to be cured in [[Brenwin's homeland]], which has advanced healing magic owing to their worship of the [[Sun God]] and the [[Wind God]].
  - Clungunford mourns his dead giant boar and his prized boar, [[old Mabel]], who has gone missing. DC 18 survival check to discern that the boar was eaten by something other than swarm of rats. Clungunford insists the incidents were connected, and directs the party to find the hideout of the [[Cult of Talona]].
  - If party tracks boar out of town and towards forest, they can potentially run into:
 	 - A Troupe of Goblins hopelessly attacks the party, claiming “Boss said if I sacked ya, I’d get five promotions!”
@@ -229,7 +233,7 @@ Tip
 
 - **Zod:** 
 	- Magic Salamander that does something useful and eats wood!
-	- [[Adamantium Sandpaper]]: Sandpaper that can smooth *any* surface 
+	- [[Bantium Sandpaper]]: Sandpaper that can smooth *any* surface 
 - **Calendula:** 
 	- [[bag-of-tricks-rust-xdmg|Bag of Tricks (Rust)]]
 	- 
