@@ -240,3 +240,12 @@ Tip
 - **Malachi:** 
 	- [[Potion of Pugilism]]: drink for 10 minutes of 1d6 to
 	- 
+# Session Notes
+
+### Scene 1 - Encounter in the Church
+- [[Ricky Rat]] made it into office, saw scythe, escaped out the window calling it a "useless twig". Afterwards, he regained his senses and turned himself into the [[Brenwin's Caravan]], who promptly tied him up in [[Bantium]] Chains to be cured back home
+- [[Zod Byldamur|Zod]] seized the opportunity to take the [[False Earthmother’s Scythe|scythe]], and the investigating townsfolk discovered this in the morning, assuming the [[Talona]] people took it (make note for Cult of talona)
+- [[The Ratmancer]] escaped, turning into a rat and heading away among his swarm of rats. [[Lucian's Summons|Owlburg]] followed the group in the night, and will report back to Lucian in the morning
+- [[Brother Merric]] bit [[Malachi]], and he contracted a dormant wererat lycanthropy. A Ratmancer aware of his condition can use their rat control powers to trigger a transformation, enthralling Malachi
+- [[The Ratmancer]], wanting to cover his escape and send a grim message, used [[blight-xphb|Blight]] to erode and destroy the roof of the [[Church of Chauntea]], collapsing the roof to the main worship area
+- [[Pastor Edith]] was taken by Wererat cultists who dragged her back to their [[Temple of Talona]]. Before reaching 
