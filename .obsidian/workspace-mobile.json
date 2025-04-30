@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f5b8d2104cb94c4",
+            "id": "1deb6502daccd8fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Memory Bolt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Memory Bolt"
             }
           }
         ]
@@ -182,17 +186,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f5b8d2104cb94c4",
+  "active": "1deb6502daccd8fd",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Memory Bolt.md",
+    "___NPCs/Deities/Volke.md",
     "The Eight Steps of Lazy RPG Prep.md",
     "Session 11 Prep.md",
-    "conflict-files-obsidian-git.md",
     "Bantium.md",
     "/Session 11 Prep.md",
     "/Bantium.md",
     "Test.md",
     "curse.md",
-    "Memory Bolt.md",
     "___NPCs/Deities/Talona.md",
     "Ratmancer.md",
     "Brenwin's homeland.md",
@@ -214,7 +219,6 @@
     "___Items/Treasure",
     "/___Items",
     "z_Templates/Markdown Templates/Session-prep.md",
-    "___NPCs/Deities/Chauntea.md",
     "z_Assets/Images/Dionaea.png",
     "z_Assets/Images",
     "___Terms",
