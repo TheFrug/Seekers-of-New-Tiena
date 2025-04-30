@@ -47,11 +47,14 @@ The entire session will be the players gathering testimony for the trial of Merr
 
 Merric will either be exiled, or he will be freed. There is a chance if he is freed that the Firbolgs will require that he undergo treatment for his lycanthropy, which the party can weigh in on.
 
+Plaintiffs: [[Walter 'The Whip' Wadsworth|The Whip]], [[Baron Clungunford Rose|Clungunford]], 
+
 ### Herbalist Shop
 
-The Herbalist is a Firbolg who has more devotion to a new god of agriculture, who is revealed to be her patron, a Fae who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
+The Herbalist is a [[Firbolg]] who has more devotion to a new god of agriculture, who is revealed to be her patron, a Fae who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
 
 - Secret: The herbalist knows about Merric because Pastor Edith brought Merric to her to ask if she could cure him, but Merric never went through with the treatment, as he likes being a Wererat
+- Secret: The herbalist had a [[Fey]] friend named [[Airmed]], a beautiful [[Seelie Court|Seelie]] pixie who devoted her life to herbalism, learning the medicinal and poisoning properties of 365 different herbs across [[Tiena]]. 
 
 
 ### Church of Chauntea Wreckage
