@@ -24,12 +24,14 @@ Race: "[[Firbolg]]"
 
 ## Roleplaying
  - **Wants and Needs:** Re-create Airmed's herb collection
- - **Secret or Obstacle:**
- - **Carrying:**
+ - **Secret or Obstacle:** 
+ - **Carrying:** 
 
 
 ## Involvement
 
+### Quest
+- 
 
 ## Connections
 

@@ -1,6 +1,7 @@
 In the center of town, built near cobblestone roads and sticking out next to its more contemporary neighbors is the Church of Chauntea. The building is made entirely from wood, with a layer of grass and flowers growing all over it, save for its beautiful painted murals of the Earthmother.
 
 The interior has three main sections: the worship area, Edith's Office, and the kitchen, as well as a hatch leading into Merric's hovel
+
 ### Worship Area
 
 The main entryway to the Church leads into the Worship Area, which is a wide hall with two columns of humble wooden pews contrasted against the elegant stained-glass mural of The Earthmother, [[Chauntea]], who is depicted as a beautiful woman who just screams "mom". In the back left corner of the area is a hatch covered by the end of a long carpet. This hatch leads into [[Brother Merric]]'s underground hovel.
@@ -20,3 +21,5 @@ The left wing of the Church ends in a large door that leads into a shed with ele
 ## Orphanage
 
 An orphanage full of fuzzy little firbolg kids! There is also an elf kid with a crushed leg who was healed by [[Malachi]], as well as an adorable gnome kiddo who's parents were crushed by elephants.
+
+## Merric's Hovel
