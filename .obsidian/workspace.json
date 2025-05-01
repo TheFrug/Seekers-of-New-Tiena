@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Bevin Gladstar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bevin Gladstar"
+            }
+          },
+          {
+            "id": "f3d596c4b9eae164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Session 12 Prep.md",
                 "mode": "source",
                 "source": false
@@ -20,22 +34,9 @@
               "icon": "lucide-file",
               "title": "Session 12 Prep"
             }
-          },
-          {
-            "id": "dac040abb1b6a583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_World/___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Walter 'The Whip' Wadsworth"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,10 +223,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "eac912f92d44d6da",
+  "active": "f3d596c4b9eae164",
   "lastOpenFiles": [
-    "_World/___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
+    "Bevin Gladstar.md",
     "Session 12 Prep.md",
+    "_World/___Terms/Races&People/Firbolg.md",
+    "_World/___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
     "_World/___Terms/Races&People/Categories/Fey.md",
     "Mechanics/z_Templates/dm/compendium/backgrounds/acolyte-xphb.md",
     "Mechanics/z_Templates/dm/compendium/backgrounds/soldier-xphb.md",
@@ -235,7 +238,6 @@
     "Mechanics/z_Templates/dm/compendium/bestiary/celestial/couatl-xmm.md",
     "Mechanics/z_Assets/Images/Dionaea.png",
     "_World/___Terms/Races&People/Human.md",
-    "_World/___Terms/Races&People/Firbolg.md",
     "_World/___Terms/Vocab/Tiena.md",
     "_World/___Terms/Vocab/Memory Bolt.md",
     "_World/___Terms/Vocab/Haven.md",
@@ -250,7 +252,6 @@
     "Mechanics/z_Templates/dm/compendium/items/torpor-xdmg.md",
     "_World/___Factions/_Important/The party.md",
     "_World/___Factions/_Important/Seelie Court.md",
-    "_World/___Factions/Bromzheath Arc/Cult of Talona.md",
     "_World/___Terms/Races&People/Categories",
     "_World/Plot",
     "Untitled",

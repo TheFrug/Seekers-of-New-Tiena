@@ -51,10 +51,19 @@ Plaintiffs: [[Walter 'The Whip' Wadsworth|The Whip]], [[Baron Clungunford Rose|C
 
 ### Herbalist Shop
 
-The Herbalist is a [[Firbolg]] who has more devotion to a new god of agriculture, who is revealed to be her patron, a Fae who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
+[[Bevin Gladstar]] is a [[Firbolg]] who has more devotion to a new god of agriculture, who is revealed to be her patron, a Fey who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
 
-- Secret: The herbalist knows about Merric because Pastor Edith brought Merric to her to ask if she could cure him, but Merric never went through with the treatment, as he likes being a Wererat
-- Secret: The herbalist had a [[Fey]] friend named [[Airmed]], a beautiful [[Seelie Court|Seelie]] pixie who devoted her life to herbalism, learning the medicinal and poisoning properties of 365 different herbs across [[Tiena]]. 
+#### NPCs
+
+- [[Bevin Gladstar]]: A Firbolg woman with fey markings and tattoos across her hands and face, although her face is partially obscured by a mysterious shroud. Bevin is gruff, and has been in a slump since their herb garden stopped developing as they wish. 
+- Apprentice, young firbolg teen girl who has a bit of a 'ttude
+
+#### Secrets
+
+- [[Bevin Gladstar]] knows about Merric because Pastor Edith brought Merric to Bevin to ask if they could cure him, but Merric never went through with the treatment, as he likes being a Wererat
+- [[Bevin Gladstar]] had a [[Fey]] friend named [[Airmed]], a beautiful [[Seelie Court|Seelie]] pixie who devoted her life to herbalism, learning the medicinal and poisoning properties of 365 different herbs across [[Tiena]]. She became Bevin Gladstar's patron on a whim, and while Bevin has been provided the powers of a low-level warlock, they have lost touch with these since Airmed became impossible to reach.
+- The reason Bevin's garden is not doing well is because they are one of the citizens of Bromzheath targeted by [[Baron Clungunford Rose]]'s selective use of the [[Earthmother’s Scythe]]. The Rose family conspired to ruin their herbology shop because of A. its connection to the Fey and B. because the more effective it became, the less that the people of Bromzheath would have need for the [[Church of Chauntea]]'s magic. This is all what Bevin suspects, although they have no proof.
+- Merric's compost farm has been helpful to [[Bevin Gladstar]]'s garden ever since Clungunford stopped consecrating it. This might help the players convince them to testify.
 
 
 ### Church of Chauntea Wreckage
