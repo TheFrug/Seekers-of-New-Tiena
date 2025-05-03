@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/DM/Session Prep/Session 12 Prep.md",
+                "file": "_World/___NPCs/Unseelie Court/Flint Reverie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12 Prep"
+              "title": "Flint Reverie"
+            }
+          },
+          {
+            "id": "b170a0a2147fe058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bobby Sparkles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bobby Sparkles"
+            }
+          },
+          {
+            "id": "9e27a95f65a5a981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ratoska.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ratoska"
+            }
+          },
+          {
+            "id": "c52ae9aedc657a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Session Prep/Session 11 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 11 Prep"
             }
           },
           {
@@ -33,20 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "template-scene outline"
-            }
-          },
-          {
-            "id": "c52ae9aedc657a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/DM/Session Prep/Session 11 Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 11 Prep"
             }
           },
           {
@@ -95,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frightened",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/DM/Session Prep/Session 12 Prep.md",
+                "file": "_World/___NPCs/Unseelie Court/Flint Reverie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 12 Prep"
+              "title": "Backlinks for Flint Reverie"
             }
           },
           {
@@ -252,37 +280,38 @@
   },
   "active": "f3d596c4b9eae164",
   "lastOpenFiles": [
-    "Mechanics/z_Templates/Markdown Templates/template-scene outline.md",
-    "Mechanics/DM/Session Prep/Session 12 Prep.md",
+    "_World/___Characters/Calendula Serenada.md",
+    "_World/___NPCs/Unseelie Court/Flint Reverie.md",
+    "_World/___NPCs/Unseelie Court/Dionaea.md",
+    "_World/___NPCs/Unseelie Court/Holly.md",
+    "Bobby Sparkles.md",
     "Bevin Gladstar.md",
-    "Mechanics/DM/Session Prep/Session 11 Prep.md",
+    "Wererat.md",
+    "Ratmancer.md",
+    "Ratoska.md",
+    "Effluvia Bloom.md",
+    "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
+    "_World/___NPCs/Unseelie Court/Janaff.md",
+    "_World/___Terms/Races&People/Fae.md",
+    "_World/___Terms/Races&People/Categories/Fey.md",
+    "_World/___NPCs/Pantheon/Volke.md",
+    "_World/___NPCs/Pantheon/Talona.md",
+    "_World/___NPCs/Pantheon/Chauntea.md",
+    "_World/___NPCs/Pantheon/Malar.md",
+    "DM/Session Prep/Session 12 Prep.md",
+    "DM/Session Prep/Session 11 Prep.md",
+    "Mechanics/z_Templates/Markdown Templates/template-scene outline.md",
     "_World/___Locations/Bromzheath/Church of Chauntea.md",
     "Brenwin's homeland.md",
     "Untitled",
     "Mechanics/DM/Scenes",
-    "Mechanics/DM/Session Prep",
-    "Mechanics/DM",
-    "Wererat.md",
-    "Effluvia Bloom.md",
+    "DM/Session Prep",
+    "DM",
     "Vernon.md",
     "_World/___Factions/Bromzheath Arc/Rose Family.md",
     "Disease.md",
-    "_World/___Characters/Calendula Serenada.md",
     "_World/___Terms/Races&People/Firbolg.md",
-    "_World/___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
-    "_World/___Terms/Races&People/Categories/Fey.md",
-    "Mechanics/z_Templates/dm/compendium/backgrounds/acolyte-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/backgrounds/soldier-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/backgrounds/sage-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/backgrounds/criminal-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/backgrounds/backgrounds.md",
-    "Mechanics/z_Templates/dm/compendium/bestiary/celestial/couatl-xmm.md",
     "Mechanics/z_Assets/Images/Dionaea.png",
-    "_World/___Terms/Races&People/Human.md",
-    "_World/___Terms/Vocab/Tiena.md",
-    "_World/___Terms/Vocab/Memory Bolt.md",
-    "_World/___Terms/Vocab/Haven.md",
-    "_World/___Factions/_Important/Byldamur Family.md",
     "_World/___Terms/Races&People/Categories",
     "_World/Plot",
     "Mechanics",

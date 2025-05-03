@@ -11,7 +11,7 @@ Race: Fey
 
 ## Description
 - **Name:** Dionaea
-- **Race/Species:** Fey (Queen)
+- **Race/Species:** Fae (Queen)
 - **Gender:** Nah
 - **Age:** She doesn't like to talk about it (older than the continent, perhaps)
 - **Occupation/Class:** Patron

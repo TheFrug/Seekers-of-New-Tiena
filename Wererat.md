@@ -28,12 +28,12 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
 monster: Wererat
 ```
 
-## Lyanthropy
+## Lycanthropy
 
 If a wererat transmits lycanthropy through a bite, the target becomes a 'dormant' wererat. The most impactful symptoms at this stage is a craving for cheese.
 Their full transformation occurs under the next full moon or when a Ratmancer commands it, although a Ratmancer can only transform someone it knows is a Wererat.
 
-### Cures
+### Cures/Treatment
 - Wererat lycanthropy can be cured by the divine might of healing gods such as [[Ra]]. 
 - Dormant/weak lycanthropy can also be cured via herbal remedy involving a ritual using the blood of the lycanthrope who sired.
 	- [[Bevin Gladstar]] knows how to do it

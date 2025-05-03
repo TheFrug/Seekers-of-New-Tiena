@@ -5,17 +5,17 @@ player:
 status: Alive
 groups: Unseelie Court
 job-title: 
-Race: Fey
+Race: Fae
 ---
 # Janaff
 
 ## Description
 - **Name:** Janaff
-- **Race/Species:** 
-- **Gender:** 
+- **Race/Species:** [[Fae]]
+- **Gender:** Male
 - **Age:** 
 - **Occupation/Class:** 
-- **Affiliation:** 
+- **Affiliation:** Unseelie
 - **Alignment:** 
 - **Appearance:**
 
