@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/Session Prep/Session 12 Prep.md",
+                "file": "Ratoska.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12 Prep"
+              "title": "Ratoska"
+            }
+          },
+          {
+            "id": "5c3cc33a4654a325",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,14 +186,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f039de2ba48ed8ea",
+  "active": "5c3cc33a4654a325",
   "lastOpenFiles": [
+    "Ratoska.md",
+    "_World/___NPCs/Bromzheath/Bywhl.md",
     "_World/___NPCs/Bromzheath/Brother Merric.md",
+    "_World/___NPCs/Bromzheath/Baron Clungunford Rose.md",
+    "DM/Session Prep/Session 12 Prep.md",
     "Mechanics/z_Templates/dm/compendium/tables/choose-languages-rare-languages-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/mass-suggestion-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/incendiary-cloud-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/flesh-to-stone-xphb.md",
-    "Ratoska.md",
     "Mechanics/z_Templates/dm/compendium/tables/the-six-abilities-ability-descriptions-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/plant-growth-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/gaseous-form-xphb.md",
@@ -200,9 +214,6 @@
     "Mechanics/z_Templates/dm/rules/variant-rules/experience-points-xphb.md",
     "Mechanics/z_Templates/dm/rules/variant-rules/swim-speed-xphb.md",
     "Mechanics/z_Templates/dm/rules/variant-rules/monster-xphb.md",
-    "Mechanics/z_Templates/dm/rules/variant-rules/climb-speed-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/enlarge-reduce-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/project-image-xphb.md",
     "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
     "Mechanics/z_Assets/Images/Dionaea.png",
     "DM/Session Prep",
