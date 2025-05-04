@@ -17,11 +17,15 @@ Tip
 	- Had a bad time in the Church last session, and has been both bit by [[Wererat]] [[Brother Merric]], as well as swallowed an entire diseased rat, contracting [[Effluvia Bloom]] 
 	- Observe [[Brother Merric]]'s trail, but probably not fight for him (we can convince him otherwise!)
 - [[Calendula Serenada]]: After being soft-exiled from her [[Seelie Court|Seelie]] [[Feywild]] home, Calendula spent some years among mortals, capturing their attention and swindling them for her amusement. However, now that she's caught wind of her best friend, [[Flint Reverie]] being alive after years missing, she is determined to find him, although doing so will lead her back into the Seelie-Unseelie conflict that saw her exiled.
-	- 
+	- Head to: Rose Estate or Wererat Hideout
+	- Claudia: Get Malachi checked out
+	- Learn more from [[Holly]]: how does she know Calendula? Intel on Queen of Unseelie ([[Dionaea]]) 
 - [[Zod Byldamur]]: Imposing in stature, Zod Byldamur is a mountain built upon years of labor as a construction worker, craftsman, and community pillar. After his resurrection, Zod was crushed by the despair of the fall of his life's work, [[Androticus]], as well as the deaths of his family. However, now that he has discovered his sister, [[Kotiri Byldamur|Kotiri]], after years apart, he has found a new motivation to use his intellect and talents to improve the lives of others.
-	- Get ready to beat up whatever is in Edith's office!
-	- Brainstorm a plan to get the [[Earthmother’s Scythe]]
+	- Find [[Pastor Edith]]
+	- Get Brother Merric out of jai
+	- Make gifts for everyone!
 	- Get a new cool item!
+	- Kill Stuff
 
 # Create a Strong Start
 
