@@ -114,6 +114,7 @@ monster: Zombie
 - Cure Malachi of his [[Effluvia Bloom]]
 - Teach Malachi how he can cure his wererat lycanthropy
 - Introduce [[Bevin Gladstar]], and by extension the story of [[Airmed]], a benevolent Seelie fey
+- Establish that the [[Cult of Talona]] has been a cause of strife in the region for decades, but hasn’t been stopped
 
 ### READ ALOUD
 
