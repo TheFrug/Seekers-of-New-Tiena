@@ -25,14 +25,32 @@
             "id": "5c3cc33a4654a325",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_World/___Factions/Bromzheath Arc/Centaur Tribe.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Centaur Tribe"
+            }
+          },
+          {
+            "id": "5591fd165359398d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template-Faction"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,8 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c3cc33a4654a325",
+  "active": "accdfa39f7a90a3a",
   "lastOpenFiles": [
+    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
+    "Mechanics/z_Templates/Markdown Templates/template-scene outline.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
+    "_World/___Factions/Bromzheath Arc/Centaur Tribe.md",
     "Ratoska.md",
     "_World/___NPCs/Bromzheath/Bywhl.md",
     "_World/___NPCs/Bromzheath/Brother Merric.md",
@@ -207,13 +229,9 @@
     "_World/___Havens/Bromzheath.md",
     "Mechanics/z_Templates/dm/compendium/spells/guardian-of-faith-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/heal-xphb.md",
-    "_World/___Factions/Bromzheath Arc/Centaur Tribe.md",
     "Mechanics/z_Templates/dm/rules/variant-rules/condition-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/simulacrum-xphb.md",
     "Mechanics/z_Templates/dm/compendium/tables/ability-modifier-saving-throw-examples-xphb.md",
-    "Mechanics/z_Templates/dm/rules/variant-rules/experience-points-xphb.md",
-    "Mechanics/z_Templates/dm/rules/variant-rules/swim-speed-xphb.md",
-    "Mechanics/z_Templates/dm/rules/variant-rules/monster-xphb.md",
     "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
     "Mechanics/z_Assets/Images/Dionaea.png",
     "DM/Session Prep",
