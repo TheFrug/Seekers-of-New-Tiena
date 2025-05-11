@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
+                "file": "_World/___Factions/Bromzheath Arc/Rose Family.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template-Faction"
+              "title": "Rose Family"
             }
           }
         ],
@@ -204,16 +204,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "accdfa39f7a90a3a",
+  "active": "5591fd165359398d",
   "lastOpenFiles": [
+    "Bromzheath Militia.md",
+    "_World/___Terms/Races&People/Firbolg.md",
+    "Firbolgs.md",
+    "_World/___Factions/Bromzheath Arc/Rose Family.md",
+    "Baron Clungunford RoseClungunford’s.md",
+    "_World/___NPCs/Bromzheath/Baron Clungunford Rose.md",
+    "_World/___Factions/Bromzheath Arc/Ebenezer's Pack.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
     "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
     "Mechanics/z_Templates/Markdown Templates/template-scene outline.md",
-    "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
     "_World/___Factions/Bromzheath Arc/Centaur Tribe.md",
     "Ratoska.md",
     "_World/___NPCs/Bromzheath/Bywhl.md",
     "_World/___NPCs/Bromzheath/Brother Merric.md",
-    "_World/___NPCs/Bromzheath/Baron Clungunford Rose.md",
     "DM/Session Prep/Session 12 Prep.md",
     "Mechanics/z_Templates/dm/compendium/tables/choose-languages-rare-languages-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/mass-suggestion-xphb.md",
@@ -226,12 +232,6 @@
     "Mechanics/z_Templates/dm/compendium/spells/message-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/regenerate-xphb.md",
     "Mechanics/z_Templates/dm/compendium/traps-hazards/poisoned-needle-xdmg.md",
-    "_World/___Havens/Bromzheath.md",
-    "Mechanics/z_Templates/dm/compendium/spells/guardian-of-faith-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/heal-xphb.md",
-    "Mechanics/z_Templates/dm/rules/variant-rules/condition-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/simulacrum-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/tables/ability-modifier-saving-throw-examples-xphb.md",
     "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
     "Mechanics/z_Assets/Images/Dionaea.png",
     "DM/Session Prep",

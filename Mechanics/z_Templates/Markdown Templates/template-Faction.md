@@ -1,10 +1,9 @@
-# Faction: {{Faction Name}}
 
 ## Overview
 - **Type**: (Guild, Cult, Mercenary Band, Noble House, etc.)
-- **Public Perception**: (Feared, Respected, Secretive, etc.)
-- **Symbol/Iconography**: (Brief visual description)
-
+- **Reputation**: (Feared, Respected, Secretive, etc.)
+- **Aesthetic**: (Brief visual description)
+- **Symbol/Icon**: (Brief Visual Description)
 ## Leadership & Power Structure
 - **Leader**: (Name, title, personality traits)
 - **Chain of Command**:
