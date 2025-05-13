@@ -6,9 +6,9 @@
 - **Symbol/Icon**: (Brief Visual Description)
 ## Leadership & Power Structure
 - **Leader**: (Name, title, personality traits)
-- **Chain of Command**:
-  - (2nd in command and notable lieutenants)
-  - (Field agents, foot soldiers, etc.)
+- **Power Structure**:
+  - 
+  - 
 - **Base of Operations**: (Headquarters, territory, influence zones)
 
 ## Goals

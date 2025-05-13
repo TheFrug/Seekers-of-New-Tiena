@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_World/___Factions/Bromzheath Arc/Rose Family.md",
+                "file": "_World/___Factions/_Important/The Seekers of New Tiena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rose Family"
+              "title": "The Seekers of New Tiena"
             }
           }
         ],
@@ -206,32 +206,36 @@
   },
   "active": "5591fd165359398d",
   "lastOpenFiles": [
+    "_World/___Factions/_Important/The party.md",
+    "Bevin Gladstar.md",
+    "_World/___Factions/_Important/The Seekers of New Tiena.md",
+    "_World/___NPCs/_Seekers/Seekers",
+    "_World/___NPCs/_Seekers/Operatives",
+    "_World/___Terms/Races&People/Types of Fae",
+    "_World/___NPCs/Bromzheath/Brother Merric.md",
+    "_World/___NPCs/Bromzheath/Pastor Edith.md",
+    "_World/___NPCs/_Seekers/Workforce/Zod’s Build-em-er’s.md",
+    "_World/___NPCs/_Seekers/Operatives/Rhemus Quilbeard.md",
+    "_World/___NPCs/_Seekers/Workforce",
+    "_World/___NPCs/_Seekers/Operatives/Captain Bridget.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
+    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
+    "_World/___Factions/Bromzheath Arc/Rose Family.md",
     "Bromzheath Militia.md",
     "_World/___Terms/Races&People/Firbolg.md",
     "Firbolgs.md",
-    "_World/___Factions/Bromzheath Arc/Rose Family.md",
     "Baron Clungunford RoseClungunford’s.md",
     "_World/___NPCs/Bromzheath/Baron Clungunford Rose.md",
     "_World/___Factions/Bromzheath Arc/Ebenezer's Pack.md",
-    "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
-    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
     "Mechanics/z_Templates/Markdown Templates/template-scene outline.md",
     "_World/___Factions/Bromzheath Arc/Centaur Tribe.md",
-    "Ratoska.md",
+    "_World/___Terms/Races&People/Types of Fae/Ratoska.md",
     "_World/___NPCs/Bromzheath/Bywhl.md",
-    "_World/___NPCs/Bromzheath/Brother Merric.md",
     "DM/Session Prep/Session 12 Prep.md",
     "Mechanics/z_Templates/dm/compendium/tables/choose-languages-rare-languages-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/mass-suggestion-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/incendiary-cloud-xphb.md",
     "Mechanics/z_Templates/dm/compendium/spells/flesh-to-stone-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/tables/the-six-abilities-ability-descriptions-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/plant-growth-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/gaseous-form-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/fear-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/message-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/regenerate-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/traps-hazards/poisoned-needle-xdmg.md",
     "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
     "Mechanics/z_Assets/Images/Dionaea.png",
     "DM/Session Prep",
@@ -239,10 +243,6 @@
     "Mechanics/z_Templates/dm/compendium/bestiary/humanoid",
     "Mechanics/z_Templates/dm/compendium/bestiary/construct",
     "Mechanics/z_Templates/dm/compendium/bestiary/celestial",
-    "Mechanics/z_Templates/dm/compendium/bestiary/dragon",
-    "Mechanics/z_Templates/dm/compendium/bestiary/undead",
-    "Mechanics/z_Templates/dm/compendium/bestiary/fiend",
-    "Mechanics/z_Templates/dm/compendium/bestiary/elemental",
-    "Mechanics/z_Templates/dm/compendium/bestiary/ooze"
+    "Mechanics/z_Templates/dm/compendium/bestiary/dragon"
   ]
 }
