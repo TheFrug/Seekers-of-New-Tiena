@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f039de2ba48ed8ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ratoska.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ratoska"
-            }
-          },
-          {
-            "id": "5c3cc33a4654a325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_World/___Factions/Bromzheath Arc/Centaur Tribe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Centaur Tribe"
-            }
-          },
-          {
             "id": "5591fd165359398d",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "The Seekers of New Tiena"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
