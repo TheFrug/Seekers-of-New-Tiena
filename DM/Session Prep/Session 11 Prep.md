@@ -65,8 +65,6 @@ After finishing their heroic battle with the Bulette, having defended and cared 
 	 - Turn 3: Rats open the hatch to Merric's Hovel, exposing him to the Ratmancer's thrall
 	 - Turn 4: 
 
-
-
 ```statblock
 monster: Wererat
 ```
@@ -138,7 +136,7 @@ actions:
 - [Quarterstaff, "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d8 + 2, 2d8 + 4 with Shillelagh) bludgeoning damage. On hit, targets must make a DC 12 CON save or be poisoned"] 
 - [Poisoned Crossbow, "*Ranged Weapon Attack:* +3 to hit, reach 45 ft., one creature. *Hit:* 6 (1d8 + 2) slashing damage + 3 (1d6) poison damage."] 
 reactions:
-- [Rat Shield, When attacked, the Ratmancer may command a swarm of rats to defend them, gaining +5 AC.]
+- [Rat Shield, When attacked the Ratmancer may command a swarm of rats to defend them, gaining +5 AC.]
 ```
 
 NPCs: 

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3d596c4b9eae164",
+            "id": "9524aa3141486c39",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,73 +22,17 @@
             }
           },
           {
-            "id": "b170a0a2147fe058",
+            "id": "d1b497652ad812d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bobby Sparkles.md",
+                "file": "DM/Session Prep/Session 12 Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bobby Sparkles"
-            }
-          },
-          {
-            "id": "9e27a95f65a5a981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ratoska.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ratoska"
-            }
-          },
-          {
-            "id": "c52ae9aedc657a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/Session Prep/Session 11 Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 11 Prep"
-            }
-          },
-          {
-            "id": "f408ef85b155fddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/z_Templates/Markdown Templates/template-scene outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "template-scene outline"
-            }
-          },
-          {
-            "id": "cc32c79a9ba0af02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bevin Gladstar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bevin Gladstar"
+              "title": "Session 12 Prep"
             }
           }
         ]
@@ -278,45 +222,45 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f3d596c4b9eae164",
+  "active": "9524aa3141486c39",
   "lastOpenFiles": [
-    "_World/___NPCs/Unseelie Court/Flint Reverie.md",
-    "_World/___Characters/Calendula Serenada.md",
-    "_World/___NPCs/Unseelie Court/Dionaea.md",
-    "_World/___NPCs/Unseelie Court/Holly.md",
-    "Bobby Sparkles.md",
-    "Bevin Gladstar.md",
-    "Wererat.md",
-    "Ratmancer.md",
-    "Ratoska.md",
-    "Effluvia Bloom.md",
-    "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
-    "_World/___NPCs/Unseelie Court/Janaff.md",
-    "_World/___Terms/Races&People/Fae.md",
-    "_World/___Terms/Races&People/Categories/Fey.md",
-    "_World/___NPCs/Pantheon/Volke.md",
-    "_World/___NPCs/Pantheon/Talona.md",
-    "_World/___NPCs/Pantheon/Chauntea.md",
-    "_World/___NPCs/Pantheon/Malar.md",
-    "DM/Session Prep/Session 12 Prep.md",
+    "_World/___NPCs/_Seekers/Haggai.md",
+    "Tellers.md",
+    "Abbott.md",
+    "_World/___Terms/Vocab/Bantium.md",
+    "_World/___Terms/Races&People/Wererat.md",
+    "_World/___Terms/Races&People/Types of Fae/Ratoska.md",
+    "_World/___Terms/Races&People/Types of Fae",
+    "_World/___NPCs/_Seekers/Workforce/Zod’s Build-em-er’s.md",
+    "_World/___NPCs/_Seekers/Workforce",
+    "_World/___NPCs/_Seekers/Seekers/Haggai.md",
+    "_World/___NPCs/_Seekers/Seekers/Wyald.md",
+    "_World/___NPCs/_Seekers/Seekers/Gwendolyn.md",
+    "_World/___NPCs/_Seekers/Seekers/William and Fergus.md",
+    "_World/___NPCs/_Seekers/Seekers/Galzus.md",
+    "_World/___NPCs/_Seekers/Seekers",
+    "_World/___NPCs/_Seekers/Operatives/Rhemus Quilbeard.md",
+    "_World/___NPCs/_Seekers/Operatives/Captain Bridget.md",
+    "_World/___NPCs/_Seekers/Operatives",
+    "_World/___NPCs/Unseelie Court/Bobby Sparkles.md",
+    "_World/___Factions/_Important/The Seekers of New Tiena.md",
     "DM/Session Prep/Session 11 Prep.md",
-    "Mechanics/z_Templates/Markdown Templates/template-scene outline.md",
-    "_World/___Locations/Bromzheath/Church of Chauntea.md",
-    "Brenwin's homeland.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Statblock.md",
+    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
+    "DM/Session Prep/Session 12 Prep.md",
+    "Bobby Sparkles.md",
+    "Ratoska.md",
+    "_World/___Characters/Calendula Serenada.md",
+    "_World/___Characters/Malachi.md",
+    "_World/___Characters/Lucian Castemur Duskwood.md",
+    "_World/___Characters/Zod Byldamur.md",
+    "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
     "Untitled",
     "Mechanics/DM/Scenes",
     "DM/Session Prep",
     "DM",
-    "Vernon.md",
-    "_World/___Factions/Bromzheath Arc/Rose Family.md",
-    "Disease.md",
-    "_World/___Terms/Races&People/Firbolg.md",
     "Mechanics/z_Assets/Images/Dionaea.png",
     "_World/___Terms/Races&People/Categories",
-    "_World/Plot",
-    "Mechanics",
-    "_World",
-    "_World/___NPCs/Misc",
-    "___Terms/Materials"
+    "_World/Plot"
   ]
 }

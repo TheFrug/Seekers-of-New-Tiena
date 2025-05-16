@@ -10,7 +10,6 @@
 Tip
 ![[The Eight Steps of Lazy RPG Prep#Review the Characters]]
 %%
-
 - [[Lucian Castemur Duskwood]]: A human wizard of noble blood, Lucian is driven to learn the precise truth behind the blast that ended his life ten years ago, hoping to one day restore his family's prestige.
 	- Search and Rescue [[Pastor Edith]]
 - [[Malachi]]: The sole survivor of his [[Xenobium]] of [[Tellers]], the monk Malachi, is a passive observer most of the time, but he sometimes acts in unexpected ways when his heart directs it, which runs counter to the beliefs that were ingrained in him since childhood. 
@@ -22,7 +21,7 @@ Tip
 	- Learn more from [[Holly]]: how does she know Calendula? Intel on Queen of Unseelie ([[Dionaea]]) 
 - [[Zod Byldamur]]: Imposing in stature, Zod Byldamur is a mountain built upon years of labor as a construction worker, craftsman, and community pillar. After his resurrection, Zod was crushed by the despair of the fall of his life's work, [[Androticus]], as well as the deaths of his family. However, now that he has discovered his sister, [[Kotiri Byldamur|Kotiri]], after years apart, he has found a new motivation to use his intellect and talents to improve the lives of others.
 	- Find [[Pastor Edith]]
-	- Get Brother Merric out of jai
+	- Get Brother Merric out of jail
 	- Make gifts for everyone!
 	- Get a new cool item!
 	- Kill Stuff
