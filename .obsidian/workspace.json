@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/Session Prep/Session 12 Prep.md",
+                "file": "_World/___Factions/Bromzheath Arc/Cult of Talona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12 Prep"
+              "title": "Cult of Talona"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/Session Prep/Session 12 Prep.md",
+                "file": "_World/___Factions/Bromzheath Arc/Cult of Talona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 12 Prep"
+              "title": "Backlinks for Cult of Talona"
             }
           },
           {
@@ -184,8 +184,19 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "2c4d76edfd4bc61e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "c41852eab4781bef",
@@ -224,43 +235,45 @@
   },
   "active": "9524aa3141486c39",
   "lastOpenFiles": [
-    "_World/___NPCs/_Seekers/Haggai.md",
-    "Tellers.md",
-    "Abbott.md",
-    "_World/___Terms/Vocab/Bantium.md",
-    "_World/___Terms/Races&People/Wererat.md",
-    "_World/___Terms/Races&People/Types of Fae/Ratoska.md",
-    "_World/___Terms/Races&People/Types of Fae",
-    "_World/___NPCs/_Seekers/Workforce/Zod’s Build-em-er’s.md",
-    "_World/___NPCs/_Seekers/Workforce",
-    "_World/___NPCs/_Seekers/Seekers/Haggai.md",
-    "_World/___NPCs/_Seekers/Seekers/Wyald.md",
-    "_World/___NPCs/_Seekers/Seekers/Gwendolyn.md",
-    "_World/___NPCs/_Seekers/Seekers/William and Fergus.md",
-    "_World/___NPCs/_Seekers/Seekers/Galzus.md",
-    "_World/___NPCs/_Seekers/Seekers",
-    "_World/___NPCs/_Seekers/Operatives/Rhemus Quilbeard.md",
-    "_World/___NPCs/_Seekers/Operatives/Captain Bridget.md",
-    "_World/___NPCs/_Seekers/Operatives",
-    "_World/___NPCs/Unseelie Court/Bobby Sparkles.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
     "_World/___Factions/_Important/The Seekers of New Tiena.md",
-    "DM/Session Prep/Session 11 Prep.md",
-    "Mechanics/z_Templates/Markdown Templates/template-Statblock.md",
-    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
-    "DM/Session Prep/Session 12 Prep.md",
-    "Bobby Sparkles.md",
-    "Ratoska.md",
-    "_World/___Characters/Calendula Serenada.md",
+    "Mechanics/z_Templates/dm/compendium/items/items.md",
+    "_World/___Factions/Bromzheath Arc/Rose Family.md",
+    "_World/___Terms/Races&People/Firbolg.md",
+    "_World/___Locations/Unvisited/Feywild.md",
+    "_World/___Factions/Bromzheath Arc/Ebenezer's Pack.md",
+    "_World/___Factions/Bromzheath Arc/Cult of Talona.md",
+    "_World/___Factions/Bromzheath Arc/Centaur Tribe.md",
     "_World/___Characters/Malachi.md",
-    "_World/___Characters/Lucian Castemur Duskwood.md",
     "_World/___Characters/Zod Byldamur.md",
+    "_World/___Characters/Lucian Castemur Duskwood.md",
+    "_World/___Characters/Calendula Serenada.md",
+    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/zone-of-truth-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/word-of-recall-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/wish-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/wind-wall-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/weird-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/web-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/wind-walk-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/water-breathing-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/water-walk-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/warding-bond-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/wall-of-stone-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/spells/wall-of-thorns-xphb.md",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/undead",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/ooze",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/plant",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/monstrosity",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/giant",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/humanoid",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/fiend",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/fey",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/elemental",
+    "DM/Mechanics/z_Templates/dm/compendium/bestiary/dragon",
+    "DM/Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
+    "DM/Mechanics/z_Assets/Images/Dionaea.png",
     "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
-    "Untitled",
-    "Mechanics/DM/Scenes",
-    "DM/Session Prep",
-    "DM",
-    "Mechanics/z_Assets/Images/Dionaea.png",
-    "_World/___Terms/Races&People/Categories",
-    "_World/Plot"
+    "Mechanics/z_Assets/Images/Dionaea.png"
   ]
 }
