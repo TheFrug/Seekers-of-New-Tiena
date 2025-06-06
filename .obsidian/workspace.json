@@ -77,7 +77,8 @@
               "title": "The Code"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -275,13 +276,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9524aa3141486c39",
+  "active": "8ff0dd2dde51262b",
   "lastOpenFiles": [
+    "DM/Session Prep/One Shots/Captain Cardbeard and the Gem at the Bottom of the Whale.md",
     "_World/___NPCs/One Shots/Captain Cardbeard.md",
     "The Code.md",
     "The Istalean Coalition.md",
     "Istalean Sea.md",
-    "DM/Session Prep/One Shots/Captain Cardbeard and the Gem at the Bottom of the Whale.md",
     "03-yarr-roman-tishenin.jpg",
     "e15eb3e250b32673cc9114507515d9b5.jpg",
     "tumblr_ok24yzUlGA1t09ew6o1_r1_500.jpg",

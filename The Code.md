@@ -1,4 +1,4 @@
-A set of laws important to life in the [[Istalean Sea]]. Failure to follow its tenants brands one a pirate, which is quite the dishonor. The key tenents are as follows:
+A set of laws established by the [[Istalean Coalition]] and important to life in the [[Istalean Sea]]. Failure to follow its tenants brands one a pirate, which is quite the dishonor. The key tenents are as follows:
 
 - **The Sea Belongs to None, is Governed by All**
 	- No single island or power may claim ownership of the Sea. Sea lanes, neutral anchorages, and currents are public property, subject to Coalition oversight.
