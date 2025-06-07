@@ -1,0 +1,1 @@
+A relic belonging to Baphomet, the demon lord Prince of Beasts. The Geas takes the shape of an obsidian stake. By stabbing it into a beast, it allows the user to completely control that creature, body and mind.
