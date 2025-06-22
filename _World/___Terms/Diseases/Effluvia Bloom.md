@@ -3,7 +3,7 @@ Effluvia Bloom is a [[Disease]] created by the [[Cult of Talona]] as a form of b
 ### Effects
 
 - Until the disease is cured, infected can't regain hit points except by magical means, and their hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point max drops to 0 as a result of this disease, they die
-Effluvia Bloom has a rapid incubation, with the heal-block effect taking place almost instantly after contraction. The effects worsen over time, and can be fatal if left untreated for many days.
+- Effluvia Bloom has a rapid incubation, with the heal-block effect taking place almost instantly after contraction. The effects worsen over time, and can be fatal if left untreated for many days.
 
 ### Symptoms
 

@@ -24,12 +24,12 @@ Only a week back, the party was hired by Captain Cardbeard, a heavyset dwarf cap
 ### Interest
 - **Hook:** Hired by Captain Cardbeard
 - **Rewards:** A share of the treasure once pawned by Captain Cardbeard
-- **Perils:** Kuo-Toa cultists, Booga-Booga's digestive system.
+- **Perils:** Kuo-Toa cultists, [[Booga-Booga]]'s digestive system.
 
 
 ### Secrets
 **Twist:** 
-- Secret 1: Captain Cardbeard has been to Littlerock Island before. In fact, his blunder here is why that big whale started mind controlling its denizens and working its tentacles around to eat stuff
+- Secret 1: Captain Cardbeard has been to [[Littlerock Island]] before. In fact, his blunder here is why that big whale started mind controlling its denizens and working its tentacles around to eat stuff
 - Secret 2: Grimm, the solitary orc fisherman, is one of the survivors of Cardbeard's crew. He resents Cardbeard for abandoning them in the whale cave.
 - Secret 3: The Kuo-Toa Shaman leading the cult is actually a Sea Hag in disguise who has concocted a scheme to fish out this whale's belly for treasure, and plans to continue doing so, draining one island at a time.
 

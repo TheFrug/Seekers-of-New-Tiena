@@ -1,3 +1,35 @@
+---
+type: character
+is-npc: true
+player: 
+status: Dead
+groups: Istalean Sea
+job-title: Hag
+Race: Hag
+---
+# Sea Hag Tiffany
+
+## Description
+- **Name:** Sea Hag Tiffany
+- **Race/Species:** 
+- **Gender:** Female
+- **Age:** It's rude to ask, sweetie
+- **Occupation/Class:** 
+- **Affiliation:** [[Istalean Sea]], [[Cult of Booga-Booga]]
+- **Alignment:** Neutral Evil
+- **Appearance:** Blue like a drowned sailor, with a bloated stomach to match. Conversely, her arms and legs are long, gaunt, and slimy, ending in claws rather than nails. 
+
+## Summary
+
+Tiffany is a Sea Hag living in the Istalean Sea. She takes the disguise of a Kuo-Toa Shaman to control the Cult of Booga-Booga, which operates inside, outside, and around the massive mystical whale [[Booga-Booga]]. 
+
+Using the [[Geas of the Horned King]], Tiffany manipulated Booga-Booga to do her bidding, mind body and soul. She event went so far as to convert the beautiful beast into a Lair, a base of operations from which to study and cast her magics.
+
+The Kuo-Toa, who worship Booga-Booga, trust their Archpriest (Tiffany in a magical disguise), who tells them to sift through the swallowed ships for treasure, and to bring all the sailors and villagers they can find back to the whale to enslave them. 
+
+This was all going swimmingly, with [[Littlerock Island]] nearly wiped out before four adventurers came along to put a stop to Tiffany's villainy and recover the Geas, which their employer, [[Captain Cardbeard]], had lost some weeks earlier. 
+
+
 ```statblock  
 name: Sea Hag Tiffany  
 size: Medium
