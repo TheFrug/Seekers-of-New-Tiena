@@ -2,13 +2,12 @@
 ## Page Summary
 
 - **Focus:**
-
+A wedding between a princess of the Manster District and a prince of the Kingdom of Thracia
 - **Location:**
-
+A lavish wedding venue featuring a mish-mash of decor, with beautiful marble statues adjacent to ever-burning effigies constructed from bone. 
 - **Mission:**
-
-- **Tier:** 
-
+Assist with Wedding preparations, attend the ceremony
+- **Tier:** 1 (Level 3)
 
 ---
 
@@ -16,14 +15,14 @@
 _What happened before the session starts? Summarize the catalyst or world state._  
 (1-2 Sentences)
 
-In the Thracian Peninsula, many traditions predate the [[Tragedy of Gae Bolg]] that saw the region sundered into Manster District and the Kingdom of Thracia. One of these is the chaos that is Orc weddings! On this day, the much anticipated marriage of [[Selfina]] of Alster and [[Magorn]] of Kapathogia will be commenced! This will see the first international union of lords seen since before the Tragedy, and is a historic political event. 
+In the Thracian Peninsula, many traditions predate the [[Tragedy of Gae Bolg]] that saw the region sundered into Manster District and the Kingdom of Thracia. One of these is chaotic Orc weddings! On this day in particular, the much anticipated marriage of [[Selfina]] of Alster and [[Magorn]] of Kapathogia will be commenced! This will see the first international union of lords seen since before the Tragedy, and is a historic political event. 
 
-One of the traditions that predate the rift between the two nations is the [[Hombyld]], a tradition where the prospective Bride and Groom work for several months before the wedding to construct a house from wood, which will be the future home of the couple. This one is built atop a mountain with the Kingdom on one side, and the District on the other. With Selfina's magic, she can even see as far as Alster castle and Kapathogia palace.
+One of the traditions that predate the rift between the two nations is the [[Hombyld]], a ritual where the prospective Bride and Groom work for several months before the wedding to construct a house from wood, which will be the future home of the couple. This one is built atop a mountain with the Kingdom on one side, and the District on the other. With Selfina's magic, she can even see as far as Alster castle and Kapathogia palace.
 
 ### Interest
-- **Hook:** 
-- **Rewards:** 
-- **Perils:** 
+- **Hook:** A legendary wedding and the meeting of many politically significant people
+- **Rewards:** Political gain, monetary reward, firsthand account of historic wedding
+- **Perils:** Stated: Thracian interlopers, Goblin troublemakers, the odd wyvern, **the drama**
 
 ### Secrets
 **Twist:** 
@@ -57,30 +56,28 @@ _How does the session begin?_
 
 #### Act I — Introduction
 **Time:** _~30 mins_  
-**Goals:** Introduce setting, player motivations, Establish diverse wedding guests, funny interactions
-
+**Goals:** Introduce setting, player motivations, Establish diverse wedding guests, funny interactions, establish Thracians as suspicious
 
 **Read Aloud**
 In the Southern half of the Manster District, in the state of Alster, there is a beautiful lake called [[the Pearlescent]]. Its shimmering waters provide nourishment to the beautiful greenery surrounding it. 
 
 Just West of the Pearlescent is a decadent [[Bothie]], a kind of waystation for knight-errants to rest between adventures. This one has more rooms than any you've seen, as well as what seems to be a fully-stocked service staff of squires and trainees, mostly goblinoids, with a pair of bugbears standing watch beside the doors to the small office sequestered in a corner of the pseudo-mansion. 
 
-Inside, you three, [Playernames], sit across from Sir [[Conomor]] of Ulster, an imposing Orc with black hair and a powerful moustache.  He stands in between his chair and the desk, eyeing the three of you analytically. Finally, he breaks the stillness of the room with: 
+Inside, you three, PLAYERNAMES, sit across from Sir [[Conomor]] of Ulster, an imposing Orc with black hair and a powerful moustache.  He stands in between his chair and the desk, eyeing the three of you analytically. Finally, he breaks the stillness of the room with: 
 "So, you three are the help?"
-
--  
-
 
 
 #### Act II — Wedding Preparations - Selfina and Magorn
 **Time:** _~1hr 30 mins_  
 _Rising tension, major choice, key location_  
--  
+
+##### Encounters
+-  Magorn needs to find and obtain a Troll Heart for one of the wedding ceremonies. A couple of Thracian dracoknights happen to know the location of one nearby, and 
 -  
 
 #### Act III — Bonfire -or- Ceremony
 **Time:** _~45 mins_  
-_Climax, twist, and resolution_  
+_Climax, twist, and resolution_ 
 -  
 -  
 
