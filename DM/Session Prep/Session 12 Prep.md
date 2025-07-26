@@ -62,9 +62,9 @@ Defendants: [[Pastor Edith]] (now missing)
 
 ### READ ALOUD
 
-As you approach the center of town, an unusual scent wafts into your nose, a mix of musty decay and a powerful floral fragrance. As you crest over the  last hill before the town square, you can see the [[Church of Chauntea]], now roofless, with a steady stream of traffic in and out as a pile of slumped grey grows larger.
+As you approach the center of town, an unusual scent wafts into your nose, a mix of musty decay and a powerful floral fragrance. As you crest over the last hill before the town square, you can see the [[Church of Chauntea]], now roofless, with a steady stream of traffic in and out as a pile of slumped grey heaped just outside the front garden grows larger.
 
-Passing through the large doors of the church, the party now sees the beautiful stained-glass mural of Chauntea shining over the the wreckage they fought in the night prior: the pews were disorderly, many still unseen, buried under the collapsed ceiling. Children of many ages quietly pick up what little wilted wood they can in their small hands, as they join the brown-cloaked adults in loading heaps onto a wagon to add to the pile outside.
+Passing through the large doors of the church, the party now sees the beautiful stained-glass mural of Chauntea shining over the the wreckage they fought in the night prior: the pews many disorderly, many still unseen, buried under the collapsed ceiling. Children of many ages quietly pick up what little wilted wood they can in their small hands, as they join the brown-cloaked adults in loading heaps onto a wagon to add to the pile outside.
 
 *Ask the party how they feel*
 
@@ -77,7 +77,7 @@ A small fuzzy child stops to look up at the party, his attention focused on Mala
 
 ### Secrets & Clues
 - Pastor Edith kept a prayer journal. Her recent entries are beaming with pride in Merric. There are also many confessions of doubt in her nephew Clungunford Rose's plan, mentioning the Scythe.
-- Cultists of Talona have the ability to resurrect after death
+- Cultists of Talona have the ability to resurrect after death.
 
 ### NPCs Involved
 
@@ -89,7 +89,7 @@ A small fuzzy child stops to look up at the party, his attention focused on Mala
 		- Kids might get hurt by Risen Cultists
 	- Secret/Challenge: The kids are afraid of [[Fiona]], the newest and oldest orphan girl. She works as an apprentice for [[Bevin Gladstar]].
 - **[[Vernon]]:** An older Firbolg devout who sits on one of the cleaned pews and contemplates. Whether he likes it or not, he takes more of a "sit and rest" role, as the oldest kids and many adults don't allow him to get up to help.
-	- Appearance: Overalls with flowers lovingly embroidered onto them by children, has a bum leg assisted by crooked, near-broken cane.
+	- Appearance: Overalls with flowers lovingly embroidered onto them by children, has a peg leg assisted by crooked, near-broken cane.
 	- Role: Neutral, kind
 	- Motivation: Hopefully make some sense of all this, or at least come to accept it.
 	- Purpose: 
