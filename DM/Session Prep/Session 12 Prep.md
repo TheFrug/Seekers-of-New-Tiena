@@ -168,8 +168,6 @@ Inside,
 
 ### Scene Goals
 - Establish Merric's concern
-- Can this scene's goals be accomplished in another scene or in an easier way?
-- I'm sure it'll be fun either way!
 
 ### Key Details
 - **Location:** The Smokehouse/ The holding block
@@ -179,7 +177,7 @@ Inside,
 ### Secrets & Clues
 - Merric knows the location of the [[Temple of Talona]]
 - The [[Cult of Talona]] wants to use [[Pastor Edith]] for some form of nefarious magic, likely a ritual given Edith's connection to Talona's enemy [[Chauntea]]
-- 
+- Merric is a vegetarian, so being inside the Smokehouse is upsetting for him!
 
 ### NPCs Involved
 
@@ -191,49 +189,63 @@ Inside,
 
 ### Encounters / Challenges
 
-- Describe what challenge the party is trying to overcome here, and make it really clear.
+- The party needs Merric's help, and he needs theirs. Impress on them the direness of the situation, and what could happen to Merric if he is found guilty (exile and likely death)
+
 
 ## The Trial
 
 ### Scene Goals
-- Why is this scene in the session?
-- Can this scene's goals be accomplished in another scene or in an easier way?
-- I'm sure it'll be fun either way!
-
-### READ ALOUD
-
-Big boy prose opportunity! Set the scene, fill the senses, you know how it is.
-
-*Ask the party how they feel*
-
----Include a line to signal to players that they have control again---
+- Emotional climax of the session, as Merric's life hangs in the balance
+- Involve many NPCs, making clear the allegiances
 
 ### Key Details
-- **Location:** 
-- **Time of Day**:
-- **Mood/Atmosphere:**
+- **Location:** a dirt circle a short walk from the center of town. The roofless church sits underneath the setting sun.
+- **Time of Day**: Sunset
+- **Mood/Atmosphere:** Dramatic 
 
-## Secrets & Clues
-- What additional info can the party learn through active play?
-- This section is meant to reward the players
-- 
+### NPCs Involved
 
-## NPCs Involved
+####
 
-- **NPC Name:** Description
-	- Role: 
-	- Motivation: 
-	- Purpose:
-	- Secret/Challenge:
+#### Accusers
+- **Clungunford Rose:** The chief elder of the circle
+	- Role: Residing chair
+	- Motivation: Lock Merric away, truly believes that Merric is a spy from the [[Cult of Talona]]
+	- Secret/Challenge: Is manipulating the village (Conspiracy of the Earthmother's Scythe)
+- **The Whip:** The law around here
+	- Role: Self-appointed Guard, testimony, prosecution
+	- Motivation: Feel like somebody important, obtain justice for Edith and the church
+	- Secret/Challenge: [[Walter 'The Whip' Wadsworth]] is following the footsteps of his father, the actual [[Whip]]
+- **Orrick Peatbelly,Clungunford's Boy**
+	- Role: Witness/Testimony
+	- Personality: Bumbkin, very southern
+	- Motivation: Lock Merric up! He is afraid after being almost killed by him.
+	- Secret/Challenge: None. He's a simply farmhand
 
-## Encounters / Challenges
+#### Elders
+- **Turlough Axetooth:**
+	- Role: Elder
+	- Personality: Aggressive old man, doesn't seem too bright
+	- Motivation: Loyal to Clungunford, believes in the dominance of the strong (him and his family)
+	- Secret/Challenge: Knows about the Conspiracy of the Earthmother's Scythe, actively benefits from keeping it secret, and doesn't mind
+- **Wintha Dovemeal:**
+	- Role: Elder
+	- Personality: Kind older lady, like Lena from [[Disco Elysium]]
+	- Motivation: Friend of Pastor Edith, wants more than anything for her to be saved
+	- Secret/Challenge: Knows about the Conspiracy of the Earthmother's Scythe, but is 
+### Encounters / Challenges
 
-- Describe what challenge the party is trying to overcome here, and make it really clear.
+**Opening:** The party comes to see the villagers gathered at the dirt circle, with Merric bound by silver chains to a sump at the center. Before him, there are three large modest seats, the central one Clungunford sits in. He is flanked by two older-looking Firbolgs, a man and a woman. Behing Merric, there are two makeshift podiums bannered with the symbol of Chauntea. People sit and stand around the circle's edge.
 
-```statblock
-monster: 
-```
+Clungunford gives an opening statement, mourning the tragedy that befell Bromzheath the night prior, from the Bulette attack to the attack on Pastor Edith. He explains the rule of the trial, that The Whip will be acting as the prosecution for this trial, and asks if anyone(s) would like to step forward to act as Merric's defense. 
 
+**The Rules:** The trial of Merric will consist of three rounds of witness testimony. Each round, a 
+Each round runs as follows:
+- NPC gives testimony: 
+	- First Orrick, then the Whip, then Clungunford Rose, who speaks on behalf of Pastor Edith
+- Players can **question**, **object**, or **defend** (RP + Persuasion/Insight/Deception/Intimidation checks)
+- Other townsfolk murmur/react depending on outcome
+- Clungunford (and maybe others) _comment_ or push back narratively
 
 # Define Secrets and Clues
 
@@ -244,25 +256,6 @@ Tip
 - The true [[Earthmother’s Scythe]] is not in Zod's possession or stolen by the Talona Cultists, it is in the possession of Baron Clungunford Rose
 - [[Baron Clungunford Rose]] has been selectively using the Earthmother's Scythe to use as a political tool, purposefully skipping [[Bevin Gladstar]]'s herb garden
 - 
-
-
-# Outline Important NPCs
-
-%%
-Tip
-![[The Eight Steps of Lazy RPG Prep#Outline Important NPCs]]
-%%
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-# Choose Relevant Monsters
-
-%%
-Tip
-![[The Eight Steps of Lazy RPG Prep#Choose Relevant Monsters]]
-%%
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Select Magic Item Rewards
 
