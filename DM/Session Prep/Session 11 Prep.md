@@ -170,7 +170,7 @@ Tip
 	 - Evidence: Blocking entry into the church, being a rat
 	 - Tells party to return home for rest and asks that they investigate in the morning.
  - Calendula's Nightmare manipulated by [[Dionaea]]
- - [[Brenwin Al-avik]] has [[Bantium Sandpaper]] for Zod!, Ricky might be in chains to be cured in [[Brenwin's homeland]], which has advanced healing magic owing to their worship of the [[Sun God]] and the [[Wind God]].
+ - [[Brenwin Al-avik]] has [[Bantium Sander]] for Zod!, Ricky might be in chains to be cured in [[Al Qonidar]], which has advanced healing magic owing to their worship of the [[Sun God]] and the [[Wind God]].
  - Clungunford mourns his dead giant boar and his prized boar, [[old Mabel]], who has gone missing. DC 18 survival check to discern that the boar was eaten by something other than swarm of rats. Clungunford insists the incidents were connected, and directs the party to find the hideout of the [[Cult of Talona]].
  - If party tracks boar out of town and towards forest, they can potentially run into:
 	 - A Troupe of Goblins hopelessly attacks the party, claiming “Boss said if I sacked ya, I’d get five promotions!”
@@ -231,7 +231,7 @@ Tip
 
 - **Zod:** 
 	- Magic Salamander that does something useful and eats wood!
-	- [[Bantium Sandpaper]]: Sandpaper that can smooth *any* surface 
+	- [[Bantium Sander]]: Sandpaper that can smooth *any* surface 
 - **Calendula:** 
 	- [[bag-of-tricks-rust-xdmg|Bag of Tricks (Rust)]]
 	- 

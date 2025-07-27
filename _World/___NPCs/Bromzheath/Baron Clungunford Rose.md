@@ -13,7 +13,7 @@ Race: "[[Firbolg]]"
 - **Name:** Clungunford Rose
 - **Race/Species:** Firbolg
 - **Gender:** Male
-- **Age:** Mid-thirties
+- **Age:** Early-forties
 - **Occupation/Class:** Earl
 - **Affiliation:** [[Bromzheath]], [[Rose Family]]
 - **Alignment:** Neutral Evil

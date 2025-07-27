@@ -48,8 +48,8 @@ The entire session will be the players gathering testimony for the trial of Merr
 
 Merric will either be exiled, or he will be freed. There is a chance if he is freed that the Firbolgs will require that he undergo treatment for his lycanthropy, which the party can weigh in on.
 
-Plaintiffs: [[Walter 'The Whip' Wadsworth|The Whip]], [[Baron Clungunford Rose|Clungunford]], concerned townsfolk
-Defendants: [[Pastor Edith]] (now missing)
+Plaintiffs: [[Walter 'The Whip' Wadsworth|The Whip]], [[Baron Clungunford Rose|Clungunford]], Clungunford's Boy, concerned townsfolk
+Defendants: [[Pastor Edith]] (now missing), The Party
 
 
 ## Church of Chauntea Wreckage
@@ -68,7 +68,7 @@ Passing through the large doors of the church, the party now sees the beautiful 
 
 *Ask the party how they feel*
 
-A small fuzzy child stops to look up at the party, his attention focused on Malachi. He approaches Malachi clumsily, his crutch finding uneven footing on the slippery detritus.
+
 
 ### Key Details
 - **Location:** [[Church of Chauntea]]
@@ -107,17 +107,45 @@ A small fuzzy child stops to look up at the party, his attention focused on Mala
 monster: Zombie
 ```
 
+## Brenwin's Reward
+
+### Scene Goals
+- Give the party some cool stuff
+- Set up Brenwin's concern about the Bulette attack and the Fae
+
+### READ ALOUD
+
+In the town square, on the opposite side as the church, there is chatter around Brenwin's caravan. 
+
+### Key Details
+- **Location:** Bromzheath town square
+- **Time of Day**: Midday
+- **Mood/Atmosphere:** Jovial, trusting, concerned
+
+### Secrets & Clues
+- Brenwin is a prince from a far away Desert land called [[Al Qonidar]]
+- [[Ricky Rat]] is back in the caravan, having reverted to human form. He is bound by silvered rope to the back of one of the caravans, but calls out to the party when he smells [[Malachi]]
+
+### Treasures Given
+- For Zod: [[Bantium Sander]]: Made from the scales of the dragon Bant, this sander can smooth any surface
+- For the party: a 15% discount on anything in the limited stock category: https://drive.google.com/file/d/11cn7EmHDQpCzYWqqQ4BTMbmAA61oxtTv/view
+- For the party: A [[Sun Medallion]]. If the party ever finds themselves in Al Qonidar, they can flash that medallion anywhere and the people will trust them.
+
 ## Herbalist Shop
 
 ### Scene Goals
-- Cure Malachi of his [[Effluvia Bloom]]
+- Help Malachi cure his [[Effluvia Bloom]]
 - Teach Malachi how he can cure his wererat lycanthropy
 - Introduce [[Bevin Gladstar]], and by extension the story of [[Airmed]], a benevolent Seelie fey
 - Establish that the [[Cult of Talona]] has been a cause of strife in the region for decades, but hasn’t been stopped
 
 ### READ ALOUD
 
-[[Bevin Gladstar]] is a [[Firbolg]] who has more devotion to a different spirit of agriculture than [[Chauntea]], who is revealed to be her patron, a Fey named Airmed who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
+At the end of a row of small shophouses, there is one built out of a gnarled tree stump with a bend so strong it almost looks like an 'L'. Dangling from the bent part is a large sign that reads [[Gladstar Balms]], and the door is only 6 ft tall.
+
+Inside, 
+
+[[Bevin Gladstar]] is a [[Firbolg]] who has more devotion to a different spirit of agriculture ([[Airmed]])than [[Chauntea]], who is revealed to be her patron, a Fey named Airmed who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
 
 ### Secrets & Clues
 
@@ -129,11 +157,11 @@ monster: Zombie
 ### NPCs
 
 - [[Bevin Gladstar]]: A Firbolg woman with fey markings and tattoos across her hands and face, although her face is partially obscured by a mysterious shroud. Bevin is gruff, and has been in a slump since their herb garden stopped developing as they wish. 
-- [[Fiona]], Firbolg teen girl who has a bit of a 'ttude. She is an orphan who lives at the Church after her parents contracted the same disease that killed their crops. Fiona accidentally worsened her parents condition with a bad remedy before taking them to Bevin. Since then, Fiona has been learning from Bevin since, seeking to atone for what she sees as the murder of her parents
+- [[Fiona]], Firbolg teen girl who has a bit of a 'ttude. She is an orphan who lives at the Church after her parents contracted the same disease that killed their crops. Fiona accidentally worsened her parents condition with a bad remedy before taking them to Bevin. Since then, Fiona has been learning from Bevin since, seeking to atone for what she sees as the murder of her parents.
 
 
 ### Encounters / Challenges
-
+- The cure for [[Malachi]]'s [[Effluvia Bloom]] is a potion that [[Bevin Gladstar]] can make, 
 
 ## The Holding Block
 
@@ -185,14 +213,8 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Define Secrets and Clues]]
 %%
 - The true [[Earthmother’s Scythe]] is not in Zod's possession or stolen by the Talona Cultists, it is in the possession of Baron Clungunford Rose
+- [[Baron Clungunford Rose]] has been selectively using the Earthmother's Scythe to use as a political tool, purposefully skipping [[Bevin Gladstar]]'s herb garden
 - 
-
-# Develop Fantastic Locations
-
-%%
-Tip
-![[The Eight Steps of Lazy RPG Prep#Develop Fantastic Locations]]
-%%
 
 
 # Outline Important NPCs
