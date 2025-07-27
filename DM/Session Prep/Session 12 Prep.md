@@ -117,7 +117,7 @@ monster: Zombie
 
 ### READ ALOUD
 
-[[Bevin Gladstar]] is a [[Firbolg]] who has more devotion to a new god of agriculture, who is revealed to be her patron, a Fey named Airmed who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
+[[Bevin Gladstar]] is a [[Firbolg]] who has more devotion to a different spirit of agriculture than [[Chauntea]], who is revealed to be her patron, a Fey named Airmed who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
 
 ### Secrets & Clues
 
