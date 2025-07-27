@@ -161,9 +161,39 @@ Inside,
 
 
 ### Encounters / Challenges
-- The cure for [[Malachi]]'s [[Effluvia Bloom]] is a potion that [[Bevin Gladstar]] can make, 
+- The cure for [[Malachi]]'s [[Effluvia Bloom]] is a potion that [[Bevin Gladstar]] can make, but requires a mushroom that grows on the back of a [[shambling-mound-xmm|Shambling Mound]], which Bevin Gladstar can magically locate via divination spell [[locate-creature-xphb|Locate Creature]].
+- The cure for [[Malachi]]'s lycanthropy requires the blood of his sire, [[Brother Merric]], and will likely only be successful if Merric is free after the trial
 
 ## The Holding Block
+
+### Scene Goals
+- Establish Merric's concern
+- Can this scene's goals be accomplished in another scene or in an easier way?
+- I'm sure it'll be fun either way!
+
+### Key Details
+- **Location:** The Smokehouse/ The holding block
+- **Time of Day**: Early afternoon
+- **Mood/Atmosphere:** Tense, kinda sad :(
+
+### Secrets & Clues
+- Merric knows the location of the [[Temple of Talona]]
+- The [[Cult of Talona]] wants to use [[Pastor Edith]] for some form of nefarious magic, likely a ritual given Edith's connection to Talona's enemy [[Chauntea]]
+- 
+
+### NPCs Involved
+
+- **NPC Name:** [[Brother Merric]]
+	- Role: Prisoner
+	- Motivation: To be freed, to be forgiven by the villagers, to atone for Edith's capture
+	- Purpose: Can help the party make it to the 
+	- Secret/Challenge: Merric knows the location of the [[Temple of Talona]]
+
+### Encounters / Challenges
+
+- Describe what challenge the party is trying to overcome here, and make it really clear.
+
+## The Trial
 
 ### Scene Goals
 - Why is this scene in the session?
@@ -203,7 +233,6 @@ Big boy prose opportunity! Set the scene, fill the senses, you know how it is.
 ```statblock
 monster: 
 ```
-
 
 
 # Define Secrets and Clues
