@@ -151,7 +151,7 @@ Inside,
 
 - [[Bevin Gladstar]] knows about Merric because Pastor Edith brought Merric to Bevin to ask if they could cure him, but Merric never went through with the treatment, as he likes being a Wererat
 - [[Bevin Gladstar]] had a [[Fey]] friend named [[Airmed]], a beautiful [[Seelie Court|Seelie]] pixie who devoted her life to herbalism, learning the medicinal and poisoning properties of 365 different herbs across [[Tiena]]. She became Bevin Gladstar's patron on a whim, and while Bevin has been provided the powers of a low-level warlock, they have lost touch with these since Airmed became impossible to reach.
-- The reason Bevin's garden is not doing well is because they are one of the citizens of Bromzheath targeted by [[Baron Clungunford Rose]]'s selective use of the [[Earthmother’s Scythe]]. The Rose family conspired to ruin their herbology shop because of A. its connection to the Fey and B. because the more effective it became, the less that the people of Bromzheath would have need for the [[Church of Chauntea]]'s magic. This is all what Bevin suspects, although they have no proof.
+- The reason Bevin's garden is not doing well is because they are one of the citizens of Bromzheath targeted by [[Baron Clungunford Rose]]'s selective use of the [[Earthmother's Scythe]]. The Rose family conspired to ruin their herbology shop because of A. its connection to the Fey and B. because the more effective it became, the less that the people of Bromzheath would have need for the [[Church of Chauntea]]'s magic. This is all what Bevin suspects, although they have no proof.
 - Merric's compost farm has been helpful to [[Bevin Gladstar]]'s garden ever since Clungunford stopped consecrating it. This might help the players convince them to testify.
 
 ### NPCs
@@ -211,7 +211,7 @@ Inside,
 - **Clungunford Rose:** The chief elder of the circle
 	- Role: Residing chair
 	- Motivation: Lock Merric away, truly believes that Merric is a spy from the [[Cult of Talona]]
-	- Secret/Challenge: Is manipulating the village (Conspiracy of the Earthmother's Scythe)
+	- Secret/Challenge: Is manipulating the village ([[Conspiracy of the Earthmother's Scythe]])
 - **The Whip:** The law around here
 	- Role: Self-appointed Guard, testimony, prosecution
 	- Motivation: Feel like somebody important, obtain justice for Edith and the church
@@ -235,7 +235,7 @@ Inside,
 	- Secret/Challenge: Knows about the Conspiracy of the Earthmother's Scythe, but is 
 ### Encounters / Challenges
 
-**Opening:** The party comes to see the villagers gathered at the dirt circle, with Merric bound by silver chains to a sump at the center. Before him, there are three large modest seats, the central one Clungunford sits in. He is flanked by two older-looking Firbolgs, a man and a woman. Behing Merric, there are two makeshift podiums bannered with the symbol of Chauntea. People sit and stand around the circle's edge.
+**Opening:** The party comes to see the villagers gathered at the dirt circle, with Merric bound by silver chains to a stump at the center. Before him, there are three modest thrones, [[Baron Clungunford Rose]] sits in the central one. He is flanked by two older-looking Firbolgs, Turlough, the portly noble and a large female Firbolg. Behing Merric, there are two makeshift podiums bannered with the symbol of Chauntea. People sit and stand around the circle's edge.
 
 Clungunford gives an opening statement, mourning the tragedy that befell Bromzheath the night prior, from the Bulette attack to the attack on Pastor Edith. He explains the rule of the trial, that The Whip will be acting as the prosecution for this trial, and asks if anyone(s) would like to step forward to act as Merric's defense. 
 
@@ -253,7 +253,7 @@ Each round runs as follows:
 Tip
 ![[The Eight Steps of Lazy RPG Prep#Define Secrets and Clues]]
 %%
-- The true [[Earthmother’s Scythe]] is not in Zod's possession or stolen by the Talona Cultists, it is in the possession of Baron Clungunford Rose
+- The true [[Earthmother's Scythe]] is not in Zod's possession or stolen by the Talona Cultists, it is in the possession of Baron Clungunford Rose
 - [[Baron Clungunford Rose]] has been selectively using the Earthmother's Scythe to use as a political tool, purposefully skipping [[Bevin Gladstar]]'s herb garden
 - 
 

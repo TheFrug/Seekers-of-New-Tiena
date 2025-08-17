@@ -44,4 +44,4 @@ Race: "[[Firbolg]]"
 
 Clungunford Rose is a wealthy [[Firbolg|Firbolg]] landowner and a local community leader in [[Bromzheath]].  He is descended from the last chieftain of the Firbolgs, [[Brave Rose]]. 
 
-Clungunford is the owner of the [[Earthmother’s Scythe]], which he uses to consecrate land, enriching the soil and producing incredible harvests. Clungunford is meant to use the scythe on every farm in Bromzheath, but in reality he uses it primarily for his own field as well as for other elite properties in exchange for goods and favors.
+Clungunford is the owner of the [[Earthmother's Scythe]], which he uses to consecrate land, enriching the soil and producing incredible harvests. Clungunford is meant to use the scythe on every farm in Bromzheath, but in reality he uses it primarily for his own field as well as for other elite properties in exchange for goods and favors.

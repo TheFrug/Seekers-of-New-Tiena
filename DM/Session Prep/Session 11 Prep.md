@@ -32,12 +32,12 @@ Tip
 
 - [[Malachi]]: The sole survivor of his [[Xenobium]] of [[Tellers]], the monk Malachi, is a passive observer most of the time, but he sometimes acts in unexpected ways when his heart directs it, which runs counter to the beliefs that were ingrained in him since childhood. 
 	- Wants to learn about [[Bromzheath]] and its history
-	- Wants to figure out how the party can leave with the relic they seek (the [[Earthmother’s Scythe]])
+	- Wants to figure out how the party can leave with the relic they seek (the [[Earthmother's Scythe]])
 - [[Calendula Serenada]]: After being soft-exiled from her [[Seelie Court|Seelie]] [[Feywild]] home, Calendula spent some years among mortals, capturing their attention and swindling them for her amusement. However, now that she's caught wind of her best friend, [[Flint Reverie]] being alive after years missing, she is determined to find him, although doing so will lead her back into the Seelie-Unseelie conflict that saw her exiled.
 	- Learn anything she can about [[Flint Reverie]]
 - [[Zod Byldamur]]: Imposing in stature, Zod Byldamur is a mountain built upon years of labor as a construction worker, craftsman, and community pillar. After his resurrection, Zod was crushed by the despair of the fall of his life's work, [[Androticus]], as well as the deaths of his family. However, now that he has discovered his sister, [[Kotiri Byldamur|Kotiri]], after years apart, he has found a new motivation to use his intellect and talents to improve the lives of others.
 	- Get ready to beat up whatever is in Edith's office!
-	- Brainstorm a plan to get the [[Earthmother’s Scythe]]
+	- Brainstorm a plan to get the [[Earthmother's Scythe]]
 	- Get a new cool item!
 
 # Create a Strong Start
@@ -141,12 +141,12 @@ reactions:
 
 NPCs: 
  - [[Ricky Rat]]: Caravan guard who has now turned into a [[wererat-xmm|Wererat]] and is desperately trying to break into the office at the command of his new master, a cultist who can psychically control rats and wererats.
-	 - Goal: Get into Edith's Office and steal the [[Earthmother’s Scythe]]
+	 - Goal: Get into Edith's Office and steal the [[Earthmother's Scythe]]
 	 - Ricky Rat is being controlled by the [[Ratmancer]], a [[Cult of Talona|cultist]] of [[Talona]]
 	 - If Ricky gets inside, he inspects the scythe for a moment before escaping through the stained-glass window in her office
 	 - If the Ratmancer is killed or is otherwise unable to maintain control of Ricky, he will turn himself in
  - [[Ratmancer]]: Is sitting on a swarm of rats atop the roof of the church commanding all nearby rats to do their bidding. Relishing in death and plague, the Ratmancer grins at the flowers around them as they slowly wilt from their mere presence
-	 - Goal: Use [[Ricky Rat]], the caravan guard the Ratmancer attacked the previous night, in order to steal the [[Earthmother’s Scythe]]
+	 - Goal: Use [[Ricky Rat]], the caravan guard the Ratmancer attacked the previous night, in order to steal the [[Earthmother's Scythe]]
 	 - The Ratmancer stays hidden atop the roof until discovered, at which point they will fight for as long as they still think they can attain the Earthmother’s Scythe
 	 - The Ratmancer hates Chauntea, and will not hesitate to ruin the gardens with their plague abilities to hasten their escape
  - Clungunford's Farmboys: Four Firbolg farmhands went into town to investigate the situation with Edith and Merric. They are loyal to Clungunford first, but two are also devout Chaunteand.
@@ -190,7 +190,7 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Define Secrets and Clues]]
 %%
 
- - [[Baron Clungunford Rose|Clungunford Rose]] has the real [[Earthmother’s Scythe]]
+ - [[Baron Clungunford Rose|Clungunford Rose]] has the real [[Earthmother's Scythe]]
 
 # Develop Fantastic Locations
 
