@@ -1,8 +1,3 @@
-%%
-> [!summary] About This Template This template uses the [[The Eight Steps of Lazy RPG Prep]] document to lay out steps to preparing a game session. The template also includes Obsidian [comments](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Comments) to generate linked [embeds](https://help.obsidian.md/Linking+notes+and+files/Embed+files#Embed+a+note+in+another+note)from that document as helpful reminders for each step.
-> 
-> > [!tip] You will only see comments in Editing view and the embeds will only render if your Default Editing Mode is set to `Live Preview` (Settings > Editor > Default editing mode).
-%%
 
 # Review the Characters
 
@@ -10,6 +5,7 @@
 Tip
 ![[The Eight Steps of Lazy RPG Prep#Review the Characters]]
 %%
+
 - [[Lucian Castemur Duskwood]]: A human wizard of noble blood, Lucian is driven to learn the precise truth behind the blast that ended his life ten years ago, hoping to one day restore his family's prestige.
 	- Search and Rescue [[Pastor Edith]]
 - [[Malachi]]: The sole survivor of his [[Xenobium]] of [[Tellers]], the monk Malachi, is a passive observer most of the time, but he sometimes acts in unexpected ways when his heart directs it, which runs counter to the beliefs that were ingrained in him since childhood. 
@@ -18,22 +14,13 @@ Tip
 - [[Calendula Serenada]]: After being soft-exiled from her [[Seelie Court|Seelie]] [[Feywild]] home, Calendula spent some years among mortals, capturing their attention and swindling them for her amusement. However, now that she's caught wind of her best friend, [[Flint Reverie]] being alive after years missing, she is determined to find him, although doing so will lead her back into the Seelie-Unseelie conflict that saw her exiled.
 	- Head to: Rose Estate or Wererat Hideout
 	- Claudia: Get Malachi checked out
-	- Learn more from [[Holly]]: how does she know Calendula? Intel on Queen of Unseelie ([[Dionaea]]) 
+	- Learn more from [[Holly]]: how does she know Calendula? Intel on Queen of Unseelie ([[Dionaea]])
 - [[Zod Byldamur]]: Imposing in stature, Zod Byldamur is a mountain built upon years of labor as a construction worker, craftsman, and community pillar. After his resurrection, Zod was crushed by the despair of the fall of his life's work, [[Androticus]], as well as the deaths of his family. However, now that he has discovered his sister, [[Kotiri Byldamur|Kotiri]], after years apart, he has found a new motivation to use his intellect and talents to improve the lives of others.
 	- Find [[Pastor Edith]]
 	- Get Brother Merric out of jail
 	- Make gifts for everyone!
 	- Get a new cool item!
 	- Kill Stuff
-
-# Create a Strong Start
-
-%%
-Tip
-![[The Eight Steps of Lazy RPG Prep#Create a Strong Start]]
-%%
-
-
 
 # Outline Potential Scenes
 
@@ -114,7 +101,6 @@ monster: Zombie
 - Set up Brenwin's concern about the Bulette attack and the Fae
 
 ### READ ALOUD
-
 In the town square, on the opposite side as the church, there is chatter around Brenwin's caravan. 
 
 ### Key Details
@@ -140,13 +126,12 @@ In the town square, on the opposite side as the church, there is chatter around 
 - Establish that the [[Cult of Talona]] has been a cause of strife in the region for decades, but hasn’t been stopped
 
 ### READ ALOUD
-
 At the end of a row of small shophouses, there is one built out of a gnarled tree stump with a bend so strong it almost looks like an 'L'. Dangling from the bent part is a large sign that reads [[Gladstar Balms]], and the door is only 6 ft tall.
 
 Inside, 
 
 [[Bevin Gladstar]] is a [[Firbolg]] who has more devotion to a different spirit of agriculture ([[Airmed]])than [[Chauntea]], who is revealed to be her patron, a Fey named Airmed who spent her life helping mortals with medicine for her tricks. She might know of a cure for Malachi's lycanthropy, but they will have to find it in a dangerous creature's nest.
-
+ 
 ### Secrets & Clues
 
 - [[Bevin Gladstar]] knows about Merric because Pastor Edith brought Merric to Bevin to ask if they could cure him, but Merric never went through with the treatment, as he likes being a Wererat
@@ -228,6 +213,7 @@ Inside,
 	- Personality: Aggressive old man, doesn't seem too bright
 	- Motivation: Loyal to Clungunford, believes in the dominance of the strong (him and his family)
 	- Secret/Challenge: Knows about the Conspiracy of the Earthmother's Scythe, actively benefits from keeping it secret, and doesn't mind
+	- Clungunford Code Phrase Question? "Are the roses in the garden dethorned."
 - **Wintha Dovemeal:**
 	- Role: Elder
 	- Personality: Kind older lady, like Lena from [[Disco Elysium]]

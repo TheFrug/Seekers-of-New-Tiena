@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f408734aa623fe59",
+        "id": "7422162c0fa6f4af",
         "type": "tabs",
         "children": [
           {
-            "id": "e12321b47b1c0113",
+            "id": "9524aa3141486c39",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "390ae8c199474276",
+=======
+            "id": "993c7db04b0c4f23",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +40,7 @@
             }
           },
           {
-            "id": "dea82d95926829b3",
+            "id": "0e6f84d6803a7a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -256,7 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,6 +277,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
+<<<<<<< Updated upstream
   "active": "fda18e2903fd8bbe",
   "lastOpenFiles": [
     "DM/Session Prep/Session 12 Prep.md",
@@ -303,23 +308,57 @@
     "frequency.md",
     "Hombyld.md",
     "Pasted image 20250706162623.png",
+=======
+  "active": "9524aa3141486c39",
+  "lastOpenFiles": [
+    "Mechanics/z_Templates/dm/compendium/bestiary/plant/shambling-mound-xmm.md",
+    "_World/___Terms/Diseases/Effluvia Bloom.md",
+    "DM/Session Prep/Session 12 Prep.md",
+    "DM/Session Prep/Session 11 Prep.md",
+    "_World/___Locations/Bromzheath/Kotiri’s House.md",
+    "_World/___Terms/Races&People/Types of Fae/Ratoska.md",
+    "personal/July 7th, 2025.md",
+>>>>>>> Stashed changes
     "personal",
+    "frequency.md",
+    "_World/___Items/Treasure/Bantium Sander.md",
+    "_World/___Havens/Al Qonidar.md",
+    "Fiona.md",
+    "AGAIN.md",
+    "Pasted image 20250706162623.png",
+    "DM/Session Prep/One Shots/One Shot - Thracian Wedding.md",
+    "Disler.md",
+    "Mechanics/z_Assets/Images/Pasted image 20250706162623.png",
     "Mechanics/z_Assets/Images/Pasted image 20250706155823.png",
     "Mechanics/z_Assets/Images/13437ee1c557c29f9704045186955e81.jpg",
+<<<<<<< Updated upstream
+=======
+    "Hombyld.md",
+    "DM/Session Prep/One Shots/One Shot - Captain Cardbeard and the Geas.md",
+    "_World/___Havens/Littlerock Island.md",
+    "_World/___Locations/Istalean Sea.md",
+>>>>>>> Stashed changes
     "Mechanics/z_Assets/Images/tumblr_ok24yzUlGA1t09ew6o1_r1_500.jpg",
     "_World/___Characters/One Shots/Captain Cardbeard",
     "_World/___Characters/One Shots",
+<<<<<<< Updated upstream
+=======
+    "_World/___NPCs/Misc/Rifis.md",
+    "_World/___Terms/Vocab/The Code.md",
+    "_World/___NPCs/One Shots/Captain Cardbeard/Sea Hag Tiffany.md",
+>>>>>>> Stashed changes
     "_World/___NPCs/One Shots/Captain Cardbeard",
+    "_World/___Factions/One Shots/Captain Cardbeard/The Istalean Coalition.md",
     "_World/___Factions/One Shots/Captain Cardbeard",
     "_World/___Factions/One Shots",
     "_World/___Terms/Diseases",
+    "_World/___Factions/Bromzheath Arc/Bromzheath Militia.md",
     "DM/Session Prep/One Shots/Captain Cardbeard",
     "03-yarr-roman-tishenin.jpg",
     "e15eb3e250b32673cc9114507515d9b5.jpg",
     "03-yarr-roman-tishenin 1.jpg",
     "_World/___NPCs/One Shots",
     "DM/Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
-    "DM/Mechanics/z_Assets/Images/Dionaea.png",
-    "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg"
+    "DM/Mechanics/z_Assets/Images/Dionaea.png"
   ]
 }

@@ -74,7 +74,7 @@ title: Shambling Mound
 ***Engulf.*** *Strength Saving Throw:* DC 15, one Medium or smaller creature within 5 feet. *Failure:* The target is pulled into the shambling mound's space and has the [Grappled](rules/conditions.md#Grappled) condition (escape DC 14). Until the grapple ends, the target has the [Blinded](rules/conditions.md#Blinded) and [Restrained](rules/conditions.md#Restrained) conditions, and it takes 10 (`3d6`) Lightning damage at the start of each of its turns. When the shambling mound moves, the [Grappled](rules/conditions.md#Grappled) target moves with it, costing it no extra movement. The shambling mound can have only one creature [Grappled](rules/conditions.md#Grappled) by this action at a time.
 ```
 ^statblock
-
+110-15=95-1=94-10=84-9=75-10=65
 ## Environment
 
 forest, swamp
