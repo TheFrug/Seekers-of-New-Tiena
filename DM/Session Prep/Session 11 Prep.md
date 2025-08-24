@@ -246,7 +246,7 @@ Tip
 - [[The Ratmancer]] escaped, turning into a rat and heading away among his swarm of rats. [[Lucian's Summons|Owlburg]] followed the group in the night, and will report back to Lucian in the morning
 - [[Brother Merric]] bit [[Malachi]], and he contracted a dormant wererat lycanthropy. A Ratmancer aware of his condition can use their rat control powers to trigger a transformation, enthralling Malachi
 - [[The Ratmancer]], wanting to cover his escape and send a grim message, used [[blight-xphb|Blight]] to erode and destroy the roof of the [[Church of Chauntea]], collapsing the roof to the main worship area. The first to see it in the morning will likely be the orphans
-- [[Pastor Edith]] was taken by Wererat cultists who dragged her back to their [[Temple of Talona]]. Before reaching their destination, they were intercepted by Centaur Troopers from the [[Centaur Tribe]], who now have Pastor Edith as a captive.
+- [[Pastor Edith]] was taken by Wererat cultists who dragged her back to their [[Temple of Talona]]. Before reaching their destination, they were intercepted by Centaur Troopers from the [[Magram Tribe]], who now have Pastor Edith as a captive.
 	- 
 - [[Walter 'The Whip' Wadsworth|The Whip]] investigated the commotion to find the wreckage, and attempted to have Merric and Calendula arrested, but [[Zod Byldamur]]'s incredibly intimidation check prevented him from separating the party. [[Brother Merric]] was still taken in for questioning, and is currently being held at the [[Old Smokehouse]] (this is sad because Merric is a vegetarian and dislikes harming animals), awaiting his [[Merric's Trial|trial]]. 
 	- [[Session 12 Prep#Merric's Trial|Merric's Trial]] 

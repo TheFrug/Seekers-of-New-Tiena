@@ -3,14 +3,14 @@ type: character
 is-npc: true
 player: 
 status: Alive
-groups: 
-job-title: God
-Race: God
+groups: Magram Tribe
+job-title: Scout
+Race: Centaur
 ---
-# Malar
+# Sleuf Softmane
 
 ## Description
-- **Name:** Malar
+- **Name:** Sleuf Softmane
 - **Race/Species:** 
 - **Gender:** 
 - **Age:** 
@@ -21,7 +21,7 @@ Race: God
 
 ## Summary
 
-![[Malar_p44.webp]]
+
 ## Roleplaying
  - **Wants and Needs:**
  - **Secret or Obstacle:**

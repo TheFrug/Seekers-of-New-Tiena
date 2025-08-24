@@ -24,9 +24,9 @@ Race: Orc
 
 ## Roleplaying
  - **Wants and Needs:**
-	 - 
+	 - Leave Bromzheath and travel between [[Haven|havens]], spreading the techniques and teachings of the [[Byldamur Family]] along the way
  - **Secret or Obstacle:**
- - **Carrying:**
+ - **Carrying:** A well-preserved letter of recommendation from [[Kravbash Byldamur]]
 
 
 ## Involvement
@@ -36,7 +36,7 @@ Race: Orc
 
 
 ### Players:
-
+- [[Zod Byldamur]]: Kotiri (Koko as Zod calls her) is Zod's younger sister, who is now older than him thanks to his being dead for a decade.
 
 ### NPCs:
 

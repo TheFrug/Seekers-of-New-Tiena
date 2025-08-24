@@ -27,7 +27,7 @@ Race: Fae
 
 When [[Calendula Serenada]] was a young sprite, she was an outcast with very few friends save for Flint Reverie, a misunderstood punk sprite around her age with a similar penchant for getting into trouble. The two were friends for many years before being conscripted into the Seelie military, where Flint was last seen covering Calendula's escape. He has since been missing, working for the Unseelie Court who took him in and nursed him back to health.
 
-Flint is a Cultural Ambassador, responsible for communicating with "grey zone" Fae, pushing Unseelie goals forward by appealing to their shared cultural roots as Fae. His job is to make first contact with a neutral faction like the [[Centaur Tribe]], acting as the friendly face of the Unseelie Court in the region. He then enacts a plan, often twisting the target's traditions or beliefs into a form that suits the Unseelie Court, and especially [[Dionaea]]'s needs.
+Flint is a Cultural Ambassador, responsible for communicating with "grey zone" Fae, pushing Unseelie goals forward by appealing to their shared cultural roots as Fae. His job is to make first contact with a neutral faction like the [[Magram Tribe]], acting as the friendly face of the Unseelie Court in the region. He then enacts a plan, often twisting the target's traditions or beliefs into a form that suits the Unseelie Court, and especially [[Dionaea]]'s needs.
 
 ## Roleplaying
  - **Wants and Needs:** Flint wants nothing more than to be free to do as he pleases, causing some trouble and making others laugh. However, now that he owes his life to the Unseelie, he works for their goals, including their expansionism. However, he also wants to change their ways from the inside, always looking to find less violent solutions to problems.
@@ -37,7 +37,7 @@ Flint is a Cultural Ambassador, responsible for communicating with "grey zone" F
  - **Carrying:** A human's metal locket with a sketch of Calendula and Flint inside, taken when they were in disguise in a human settlement, a redwood carving of a flower.
 
 ## Involvement
-[[Flint Reverie]] is a Cultural Ambassador, responsible for communicating with "grey zone" Fae, pushing Unseelie goals forward by appealing to their shared cultural roots as Fae. His job is to make first contact with a neutral faction like the [[Centaur Tribe]], acting as the friendly face of the Unseelie Court in the region. 
+[[Flint Reverie]] is a Cultural Ambassador, responsible for communicating with "grey zone" Fae, pushing Unseelie goals forward by appealing to their shared cultural roots as Fae. His job is to make first contact with a neutral faction like the [[Magram Tribe]], acting as the friendly face of the Unseelie Court in the region. 
 
 [[Flint Reverie]] was deployed to Bromzheath to convince the [[Centuar Tribe]] to raze the town of Bromzheath during their Centennial migration, capturing Firbolgs to use as warriors for the Unseelie effort, while killing those that don't comply. In Flint's mind, this is the first step in unification, forcing the Firbolgs under the banner is a necessary evil.
 

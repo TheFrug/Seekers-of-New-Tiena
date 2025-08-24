@@ -123,7 +123,7 @@
     "state": false,
     "name": null,
     "round": 1,
-    "logFile": null,
+    "logFile": "",
     "rollHP": false
   },
   "condense": false,
