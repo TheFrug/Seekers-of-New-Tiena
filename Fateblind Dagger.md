@@ -1,0 +1,1 @@
+A +1 dagger with the unique [[fateblind]] trait, making it unable to be seen via divination magic. It does not factor into predictions of the future, nor can it be detected by anyone other than its wielder.

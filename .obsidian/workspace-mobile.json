@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_World/___Factions/_Important/The Seekers of New Tiena.md",
+                "file": "frequency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Seekers of New Tiena"
+              "title": "frequency"
+            }
+          },
+          {
+            "id": "522d94db9e71e71c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Sleuf Softmane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sleuf Softmane"
+            }
+          },
+          {
+            "id": "bdf6b160361c8be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Honeydrop Hall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Honeydrop Hall"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
@@ -175,45 +205,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5591fd165359398d",
+  "active": "bdf6b160361c8be0",
   "lastOpenFiles": [
-    "_World/___Factions/_Important/The party.md",
-    "Bevin Gladstar.md",
-    "_World/___Factions/_Important/The Seekers of New Tiena.md",
-    "_World/___NPCs/_Seekers/Seekers",
-    "_World/___NPCs/_Seekers/Operatives",
-    "_World/___Terms/Races&People/Types of Fae",
-    "_World/___NPCs/Bromzheath/Brother Merric.md",
-    "_World/___NPCs/Bromzheath/Pastor Edith.md",
-    "_World/___NPCs/_Seekers/Workforce/Zod’s Build-em-er’s.md",
-    "_World/___NPCs/_Seekers/Operatives/Rhemus Quilbeard.md",
-    "_World/___NPCs/_Seekers/Workforce",
-    "_World/___NPCs/_Seekers/Operatives/Captain Bridget.md",
-    "Mechanics/z_Templates/Markdown Templates/template-Faction.md",
-    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
-    "_World/___Factions/Bromzheath Arc/Rose Family.md",
-    "Bromzheath Militia.md",
-    "_World/___Terms/Races&People/Firbolg.md",
-    "Firbolgs.md",
-    "Baron Clungunford RoseClungunford’s.md",
-    "_World/___NPCs/Bromzheath/Baron Clungunford Rose.md",
-    "_World/___Factions/Bromzheath Arc/Ebenezer's Pack.md",
-    "Mechanics/z_Templates/Markdown Templates/template-scene outline.md",
-    "_World/___Factions/Bromzheath Arc/Centaur Tribe.md",
-    "_World/___Terms/Races&People/Types of Fae/Ratoska.md",
-    "_World/___NPCs/Bromzheath/Bywhl.md",
-    "DM/Session Prep/Session 12 Prep.md",
-    "Mechanics/z_Templates/dm/compendium/tables/choose-languages-rare-languages-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/mass-suggestion-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/incendiary-cloud-xphb.md",
-    "Mechanics/z_Templates/dm/compendium/spells/flesh-to-stone-xphb.md",
-    "Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
-    "Mechanics/z_Assets/Images/Dionaea.png",
-    "DM/Session Prep",
-    "DM",
-    "Mechanics/z_Templates/dm/compendium/bestiary/humanoid",
-    "Mechanics/z_Templates/dm/compendium/bestiary/construct",
-    "Mechanics/z_Templates/dm/compendium/bestiary/celestial",
-    "Mechanics/z_Templates/dm/compendium/bestiary/dragon"
+    "Ethereal Song.md",
+    "Honeydrop Hall.md",
+    "IMG_2900.webp",
+    "_World/___NPCs/Bromzheath/Sleuf Softmane.md",
+    "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
+    "Fateblind Dagger.md",
+    "personal/frequency.md",
+    "_World/___Locations/One Shots/Istalean Sea.md",
+    "_World/___Locations/One Shots",
+    "Mechanics/z_Assets/Images/Malar_symbol 1.webp",
+    "Mechanics/z_Assets/Images/Pasted image 20250706162623.png",
+    "Mechanics/z_Assets/Images/Malar_symbol.webp",
+    "_World/___NPCs/One Shots/Thracian Wedding/Disler.md",
+    "Mechanics/z_Assets/Images/Malar_p44.webp",
+    "/_World/___Locations/One Shots/Istalean Sea.md",
+    "/personal/frequency.md",
+    "/_World/___Terms/Events/The High Hunt.md",
+    "_World/___Terms/Events/The High Hunt.md",
+    "/_World/___Terms/Events",
+    "/_World/___NPCs/Unseelie Court/Flint Reverie.md",
+    "/_World/___NPCs/Unseelie Court",
+    "/_World/___NPCs/Pantheon/Malar.md",
+    "/_World/___NPCs/Pantheon",
+    "/_World/___NPCs/One Shots/Thracian Wedding/Disler.md",
+    "/_World/___NPCs/Bromzheath/Sleuf Softmane.md",
+    "/_World/___NPCs/Bromzheath/Kotiri Byldamur.md",
+    "/_World/___Factions/Bromzheath Arc/Magram Tribe.md",
+    "/_World/___Factions/Bromzheath Arc/Ebenezer's Pack.md",
+    "/Mechanics/z_Assets/Images/Pasted image 20250706162623.png",
+    "/Mechanics/z_Assets/Images/Malar_symbol.webp",
+    "/Mechanics/z_Assets/Images/Malar_symbol 1.webp",
+    "/Mechanics/z_Assets/Images/Malar_p44.webp",
+    "/Mechanics/z_Assets/Images/636252765573266420-2359137764.jpeg",
+    "/Mechanics/z_Assets/Images",
+    "/Mechanics/z_Assets",
+    "/Mechanics",
+    "/DM/Session Prep/Session 11 Prep.md",
+    "/DM/Session Prep",
+    "/DM",
+    "/personal/AGAIN.md",
+    "personal/AGAIN.md",
+    "/personal",
+    "/_World/___Terms/Vocab/Hombyld.md",
+    "_World/___Terms/Vocab/Hombyld.md",
+    "/_World/___NPCs/Bromzheath/Brenwin Al-avik.md"
   ]
 }
