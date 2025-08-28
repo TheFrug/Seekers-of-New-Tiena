@@ -10,7 +10,7 @@
 - **Aesthetic:** Massive tree with emerald leaves giving shade to the area below. This includes a staircase carved into the even slope facing the center of town.  The interior is colorfully decorated with flowers, ribbons, and glitter. A discerning patron will identify the glitter as far magic lingering in the tavern’s festive air.
 ![[IMG_2900.webp]]
 - **Reputation:** 
-- **History:** The Honeydrop Hall pre-dates
+- **History:** The Honeydrop Hall pre-dates [[Bromzheath]]
 ---
 
 ## Secrets
