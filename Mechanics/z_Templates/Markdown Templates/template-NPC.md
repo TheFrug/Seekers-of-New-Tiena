@@ -25,10 +25,11 @@ Race:
 ## Roleplaying
  - **Wants and Needs:**
  - **Secret or Obstacle:**
+ - **Significant Flaw:**
  - **Carrying:**
 
 
-## Involvement
+## Backstory
 
 
 ## Connections

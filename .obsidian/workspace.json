@@ -1,101 +1,80 @@
 {
   "main": {
-    "id": "9a9ee63379d3b760",
+    "id": "f7190d22f8591a60",
     "type": "split",
     "children": [
       {
-        "id": "e7383cac8a5b4d88",
+        "id": "b81e0fc07991d749",
         "type": "tabs",
         "children": [
           {
-            "id": "75b97649cd184ab4",
+            "id": "9e5ed714cfda5e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
-=======
-                "file": "DM/Session Prep/Session 13 Prep.md",
->>>>>>> Stashed changes
+                "file": "DM/Session Prep/Session 14 Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Magram Tribe"
+              "title": "Session 14 Prep"
             }
           },
           {
-            "id": "af90e16ff028eb48",
-=======
-              "title": "Session 13 Prep"
+            "id": "150faf5596b32efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Ratmancer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ratmancer"
             }
           },
           {
-            "id": "993c7db04b0c4f23",
->>>>>>> Stashed changes
+            "id": "75ccdc26732c3b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
-=======
-                "file": "Mechanics/z_Templates/dm/compendium/bestiary/plant/shambling-mound-xmm.md",
->>>>>>> Stashed changes
+                "file": "_World/___NPCs/Bromzheath/Brother Merric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Magram Tribe"
-=======
-              "title": "shambling-mound-xmm"
->>>>>>> Stashed changes
+              "title": "Brother Merric"
             }
           },
           {
-            "id": "2b4500b88ed075e4",
+            "id": "98fe1d540d6bca66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "_World/___Terms/Events/The High Hunt.md",
-=======
-                "file": "_World/___Terms/Diseases/Effluvia Bloom.md",
->>>>>>> Stashed changes
+                "file": "_World/___NPCs/Bromzheath/Ratmancer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "The High Hunt"
+              "title": "Ratmancer"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ddad59fae65cde46",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bc6dd1a22f8a29a2",
+            "id": "cfd15cbd103d1c9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/Session Prep/Session 13 Prep.md",
+                "file": "_World/___Locations/Bromzheath/Temple of Talona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 13 Prep"
-=======
-              "title": "Effluvia Bloom"
->>>>>>> Stashed changes
+              "title": "Temple of Talona"
             }
           }
         ]
@@ -104,15 +83,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8fdb9fce861417fd",
+    "id": "48fdc3bfd6660207",
     "type": "split",
     "children": [
       {
-        "id": "c65d31f484a57dd4",
+        "id": "468344da6c47948c",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ff564ae89fcd3a",
+            "id": "b3c9ada67c5a12d9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -125,7 +104,7 @@
             }
           },
           {
-            "id": "788d10ddcbd7b7e5",
+            "id": "6f8edbba8b0d7003",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -142,7 +121,7 @@
             }
           },
           {
-            "id": "e71c6eeca2715813",
+            "id": "2fe6a779d6f22fd6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -158,28 +137,20 @@
     "width": 300
   },
   "right": {
-    "id": "662b56cd50fd0c98",
+    "id": "e5e3b9d5bbc72729",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "b42d410582275c6e",
+        "id": "8b812c3fc63a96a9",
         "type": "tabs",
         "children": [
           {
-            "id": "6689932af19344fc",
-=======
-        "id": "3003c5b168328d81",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bd3cb17a0971c7ae",
->>>>>>> Stashed changes
+            "id": "c6e6fa79af2cfa08",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
+                "file": "DM/Session Prep/Session 14 Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,25 +160,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Magram Tribe"
+              "title": "Backlinks for Session 14 Prep"
             }
           },
           {
-            "id": "93424aeb28b8aff8",
+            "id": "729309dcd7d7c1e5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
+                "file": "DM/Session Prep/Session 14 Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Magram Tribe"
+              "title": "Outgoing links from Session 14 Prep"
             }
           },
           {
-            "id": "7ce6715cc35fa579",
+            "id": "10b071fc381e2501",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -222,38 +193,28 @@
             }
           },
           {
-            "id": "6dd769bda2094ea9",
+            "id": "40e0c5fac7c3ad3c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
+                "file": "DM/Session Prep/Session 14 Prep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Magram Tribe"
+              "title": "Outline of Session 14 Prep"
             }
           },
           {
-            "id": "462492996570885a",
+            "id": "2c504bb398069e88",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "2c4d76edfd4bc61e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           }
         ]
@@ -271,6 +232,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
@@ -278,90 +240,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "af90e16ff028eb48",
+  "active": "9e5ed714cfda5e47",
   "lastOpenFiles": [
-    "DM/Session Prep/Session 13 Prep.md",
-    "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
-    "_World/___Locations/One Shots",
-    "_World/___Terms/Events/The High Hunt.md",
-    "_World/___Factions/Bromzheath Arc/Bromzheath Militia.md",
-    "_World/___Terms/Events/Conspiracy of the Earthmother's Scythe.md",
-    "_World/___NPCs/Bromzheath/Kotiri Byldamur.md",
-    "_World/___Factions/_Important/Byldamur Family.md",
-    "_World/___NPCs/Bromzheath/Pastor Edith.md",
-    "_World/___NPCs/Bromzheath/Fiona.md",
-    "_World/___NPCs/Bromzheath/Bywhl.md",
-    "_World/___NPCs/Bromzheath/Brother Merric.md",
-    "_World/___NPCs/Bromzheath/Brenwin Al-avik.md",
-    "_World/___NPCs/Bromzheath/Bevin Gladstar.md",
-    "_World/___NPCs/Bromzheath/Sleuf Softmane.md",
-    "_World/___NPCs/Pantheon/Malar.md",
-    "_World/___NPCs/Pantheon/Chauntea.md",
-    "_World/___NPCs/Pantheon/Volke.md",
-    "_World/___NPCs/Pantheon/Talona.md",
-    "Mechanics/z_Assets/Images/Malar_p44.webp",
-    "_World/___Factions/Bromzheath Arc/Ebenezer's Pack.md",
-    "_World/___Factions/Bromzheath Arc/Rose Family.md",
-    "_World/___Factions/Bromzheath Arc/Cult of Talona.md",
-    "Mechanics/z_Assets/Images/636252765573266420-2359137764.jpeg",
-    "Mechanics/z_Assets/Images/Malar_symbol 1.webp",
-    "Mechanics/z_Assets/Images/Malar_symbol.webp",
-    "_World/___Terms/Vocab/Hombyld.md",
-    "_World/___Terms/Vocab/Memory Bolt.md",
-    "_World/___Terms/Vocab/The Code.md",
-    "_World/___Terms/Vocab/Haven.md",
-    "Kukulkan.md",
-    "_World/___NPCs/One Shots/Thracian Wedding"
-=======
-  "active": "9524aa3141486c39",
-  "lastOpenFiles": [
-    "DM/Session Prep/Session 12 Prep.md",
-    "_World/___Terms/Events/Conspiracy of the Earthmother's Scythe.md",
-    "_World/___Terms/Events",
-    "_World/___NPCs/Bromzheath/Fiona.md",
-    "_World/___Items/Relics/Earthmother's Scythe.md",
-    "Kukulkan.md",
-    "DM/Session Prep/Session 13 Prep.md",
-    "Brenwin Al-avik.md",
-    "Mechanics/z_Templates/dm/compendium/bestiary/plant/shambling-mound-xmm.md",
-    "_World/___Terms/Diseases/Effluvia Bloom.md",
-    "DM/Session Prep/Session 11 Prep.md",
-    "_World/___Locations/Bromzheath/Kotiri’s House.md",
-    "_World/___Terms/Races&People/Types of Fae/Ratoska.md",
-    "personal/July 7th, 2025.md",
-    "personal",
-    "frequency.md",
-    "_World/___Items/Treasure/Bantium Sander.md",
-    "_World/___Havens/Al Qonidar.md",
-    "Fiona.md",
-    "AGAIN.md",
-    "Pasted image 20250706162623.png",
-    "DM/Session Prep/One Shots/One Shot - Thracian Wedding.md",
-    "Disler.md",
-    "Mechanics/z_Assets/Images/Pasted image 20250706162623.png",
-    "Mechanics/z_Assets/Images/Pasted image 20250706155823.png",
-    "Mechanics/z_Assets/Images/13437ee1c557c29f9704045186955e81.jpg",
-    "Hombyld.md",
-    "DM/Session Prep/One Shots/One Shot - Captain Cardbeard and the Geas.md",
-    "_World/___Havens/Littlerock Island.md",
-    "_World/___Locations/Istalean Sea.md",
-    "Mechanics/z_Assets/Images/tumblr_ok24yzUlGA1t09ew6o1_r1_500.jpg",
-    "_World/___NPCs/Bromzheath/Kotiri Byldamur.md",
     "_World/___NPCs/Bromzheath/Ratmancer.md",
-    "_World/___Characters/One Shots/Captain Cardbeard",
-    "_World/___Characters/One Shots",
-    "_World/___NPCs/One Shots/Captain Cardbeard",
-    "_World/___Factions/One Shots/Captain Cardbeard",
-    "_World/___Factions/One Shots",
-    "_World/___Terms/Diseases",
-    "DM/Session Prep/One Shots/Captain Cardbeard",
-    "03-yarr-roman-tishenin.jpg",
-    "e15eb3e250b32673cc9114507515d9b5.jpg",
-    "03-yarr-roman-tishenin 1.jpg",
-    "_World/___NPCs/One Shots",
-    "DM/Mechanics/z_Assets/Images/farp,small,wall_texture,product,750x1000.jpg",
-    "DM/Mechanics/z_Assets/Images/Dionaea.png"
->>>>>>> Stashed changes
+    "DM/Session Prep/Session 14 Prep.md",
+    "_World/___Locations/Bromzheath/Temple of Talona.md",
+    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
+    "_World/___NPCs/Bromzheath/Brother Merric.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Session-prep.md",
+    "DM/Session Prep/Session 13 Prep.md"
   ]
 }
