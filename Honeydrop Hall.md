@@ -5,7 +5,6 @@
 - **Pitch:** A bright and buzzing tavern enchanted with fae magic that entrances guests and gets their feet grooving.
 
 ---
-
 ## Description
 - **Aesthetic:** Massive tree with emerald leaves giving shade to the area below. This includes a staircase carved into the even slope facing the center of town.  The interior is colorfully decorated with flowers, ribbons, and glitter. A discerning patron will identify the glitter as far magic lingering in the tavern’s festive air.
 ![[IMG_2900.webp]]

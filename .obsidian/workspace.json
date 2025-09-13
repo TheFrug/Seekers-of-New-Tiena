@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f7190d22f8591a60",
+    "id": "7cfb51b539d8e87f",
     "type": "split",
     "children": [
       {
-        "id": "b81e0fc07991d749",
+        "id": "95f124d54b7560ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9e5ed714cfda5e47",
+            "id": "e0b9616895bc4191",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +22,7 @@
             }
           },
           {
-            "id": "150faf5596b32efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_World/___NPCs/Bromzheath/Ratmancer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ratmancer"
-            }
-          },
-          {
-            "id": "75ccdc26732c3b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_World/___NPCs/Bromzheath/Brother Merric.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brother Merric"
-            }
-          },
-          {
-            "id": "98fe1d540d6bca66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_World/___NPCs/Bromzheath/Ratmancer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ratmancer"
-            }
-          },
-          {
-            "id": "cfd15cbd103d1c9a",
+            "id": "9136882dec8018e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,21 +35,22 @@
               "title": "Temple of Talona"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "48fdc3bfd6660207",
+    "id": "bf78dbdc74f34463",
     "type": "split",
     "children": [
       {
-        "id": "468344da6c47948c",
+        "id": "079cdfd3da9dca61",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c9ada67c5a12d9",
+            "id": "5deea001e3eca1a4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +63,7 @@
             }
           },
           {
-            "id": "6f8edbba8b0d7003",
+            "id": "e671d0f07bff2724",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -121,7 +80,7 @@
             }
           },
           {
-            "id": "2fe6a779d6f22fd6",
+            "id": "eb394f07409b3e9e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -137,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "e5e3b9d5bbc72729",
+    "id": "e154038abe609e49",
     "type": "split",
     "children": [
       {
-        "id": "8b812c3fc63a96a9",
+        "id": "5c77e202099ec0bd",
         "type": "tabs",
         "children": [
           {
-            "id": "c6e6fa79af2cfa08",
+            "id": "744095281a9a8429",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/Session Prep/Session 14 Prep.md",
+                "file": "_World/___Locations/Bromzheath/Temple of Talona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 14 Prep"
+              "title": "Backlinks for Temple of Talona"
             }
           },
           {
-            "id": "729309dcd7d7c1e5",
+            "id": "32e3218a383698bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM/Session Prep/Session 14 Prep.md",
+                "file": "_World/___Locations/Bromzheath/Temple of Talona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 14 Prep"
+              "title": "Outgoing links from Temple of Talona"
             }
           },
           {
-            "id": "10b071fc381e2501",
+            "id": "b1d0fa6f9b0d9dcc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -193,22 +152,22 @@
             }
           },
           {
-            "id": "40e0c5fac7c3ad3c",
+            "id": "b0e81f29a3a6accd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM/Session Prep/Session 14 Prep.md",
+                "file": "_World/___Locations/Bromzheath/Temple of Talona.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 14 Prep"
+              "title": "Outline of Temple of Talona"
             }
           },
           {
-            "id": "2c504bb398069e88",
+            "id": "6eb70befe09aeba5",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -240,14 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e5ed714cfda5e47",
+  "active": "9136882dec8018e5",
   "lastOpenFiles": [
-    "_World/___NPCs/Bromzheath/Ratmancer.md",
-    "DM/Session Prep/Session 14 Prep.md",
-    "_World/___Locations/Bromzheath/Temple of Talona.md",
-    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
-    "_World/___NPCs/Bromzheath/Brother Merric.md",
     "Mechanics/z_Templates/Markdown Templates/template-Session-prep.md",
-    "DM/Session Prep/Session 13 Prep.md"
+    "_World/___Locations/Bromzheath/Temple of Talona.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Dungeon prep.md",
+    "DM/Session Prep/Session 14 Prep.md",
+    "personal/July 7th, 2025.md",
+    "Mechanics/z_Assets/Images/IMG_2900.webp",
+    "_World/___Factions/Bromzheath Arc/Ebenezer's Pack.md",
+    "Honeydrop Hall.md",
+    "_World/___NPCs/Bromzheath/Ethereal Song.md"
   ]
 }

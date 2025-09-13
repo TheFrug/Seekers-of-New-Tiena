@@ -56,7 +56,7 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Outline Important NPCs]]
 %%
 
-- **[[Brother Merric]]:** The party's hesitant guide. Merric is afraid of what could happen if the [[Ratmancer]] gained control of him.
+- **[[Brother Merric]]:** The party's hesitant guide to the [[Temple of Talona]]. Merric is afraid of what could happen if the [[Ratmancer]] gained control of him.
 - **[[Ratmancer|The Ratmancer]]:** The leader of the remnants of the [[Cult of Talona]].
 # Choose Relevant Monsters
 
