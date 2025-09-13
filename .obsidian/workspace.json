@@ -4,23 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "95f124d54b7560ef",
+        "id": "b069173a97a725d9",
         "type": "tabs",
         "children": [
-          {
-            "id": "e0b9616895bc4191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/Session Prep/Session 14 Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 14 Prep"
-            }
-          },
           {
             "id": "9136882dec8018e5",
             "type": "leaf",
@@ -34,9 +20,50 @@
               "icon": "lucide-file",
               "title": "Temple of Talona"
             }
+          },
+          {
+            "id": "68180515b45a6f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Session Prep/Session 14 Prep.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 14 Prep"
+            }
+          },
+          {
+            "id": "1665a19d66d7ae57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Ratmancer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ratmancer"
+            }
+          },
+          {
+            "id": "3efc98b5619b03cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___Factions/Bromzheath Arc/Rose Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rose Family"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +228,22 @@
   },
   "active": "9136882dec8018e5",
   "lastOpenFiles": [
-    "Mechanics/z_Templates/Markdown Templates/template-Session-prep.md",
-    "_World/___Locations/Bromzheath/Temple of Talona.md",
-    "Mechanics/z_Templates/Markdown Templates/template-Dungeon prep.md",
     "DM/Session Prep/Session 14 Prep.md",
+    "_World/___Locations/Bromzheath/Temple of Talona.md",
+    "_World/___NPCs/Bromzheath/Ratmancer.md",
+    "_World/___Factions/Bromzheath Arc/Rose Family.md",
+    "_World/___NPCs/Bromzheath/Baron Clungunford Rose.md",
+    "_World/___NPCs/Bromzheath/Brother Merric.md",
+    "DM/Session Prep/Session 13 Prep.md",
+    "_World/___Terms/Events/Conspiracy of the Earthmother's Scythe.md",
+    "DM/Session Prep/Session 11 Prep.md",
+    "DM/Session Prep/Session 12 Prep.md",
+    "Conspiracy of the Earthmother’s Scythe.md",
+    "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
+    "_World/___NPCs/Pantheon/Talona.md",
+    "_World/___Characters/Calendula Serenada.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Session-prep.md",
+    "Mechanics/z_Templates/Markdown Templates/template-Dungeon prep.md",
     "personal/July 7th, 2025.md",
     "Mechanics/z_Assets/Images/IMG_2900.webp",
     "_World/___Factions/Bromzheath Arc/Ebenezer's Pack.md",

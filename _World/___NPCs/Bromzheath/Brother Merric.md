@@ -17,7 +17,7 @@ Race:
 - **Occupation/Class:** Cleric (Domain of Death)
 - **Affiliation:** [[Church of Chauntea]], [[Cult of Talona]] (previous)
 - **Alignment:** Neutral Good
-- **Appearance:** Shaggy hair that covers his eyes, earthen brown robes fastened with a rose pin. Has a thin moustache and slightly sharp fingernails
+- **Appearance:** Shaggy hair that covers his eyes, earthen brown robes fastened with a rose pin. Has a thin moustache and slightly sharp fingernails. Inky tattoos stretching from head to limbs, covered by robes
 
 ## Summary
 Brother Merric is a devout cleric who lives under the [[Church of Chauntea]] in [[Bromzheath]]. Merric is a [[wererat]], having gained lycanthropy during his time in the [[Cult of Talona]]. However, Merric has no loyalty to the plaguemother, and instead devotes himself to attonement through his devotion to Chauntea. Merric has drawn suspicion from more ignorant Firbolgs, such as [[Baron Clungunford Rose]], but is ultimately a good person.
