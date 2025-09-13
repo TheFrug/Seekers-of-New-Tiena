@@ -17,10 +17,9 @@ Race: "[[Firbolg]]"
 - **Occupation/Class:** Earl
 - **Affiliation:** [[Bromzheath]], [[Rose Family]]
 - **Alignment:** Neutral Evil
-- **Appearance:**
+- **Appearance:** 
 
 ## Summary
-
 
 ## Roleplaying
  - **Wants and Needs:** 
@@ -29,18 +28,15 @@ Race: "[[Firbolg]]"
  - **Secret or Obstacle:** 
  - **Carrying:** 20gp (a fortune for a Firbolg)
 
-
 ## Involvement
 
 
 ## Connections
 
-
 ### Players:
 -[[Lucian Castemur Duskwood]]: 
 
 ### NPCs:
-
 
 Clungunford Rose is a wealthy [[Firbolg|Firbolg]] landowner and a local community leader in [[Bromzheath]].  He is descended from the last chieftain of the Firbolgs, [[Brave Rose]]. 
 

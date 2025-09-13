@@ -1,13 +1,12 @@
-
 ## Overview
 - **Type**: Wealthy Landowner family whose lineage hails from the last chief of the [[Firbolg]] of [[Bromzheath]]
 - **Reputation:** 
-- Most of public respects and trusts the Rose family, as tradition holds that the Rose family is responsible for consecrating the fields which are so important to Romzheath
-- The wealthier, more educated houses respect and fear the Rose family, as they are aware of how much influence they have, including the [[Conspiracy of the Earthmother’s Scythe]]
+	- Most of public respects and trusts the Rose family, as tradition holds that the Rose family is responsible for consecrating the fields which are so important to Romzheath
+	- The wealthier, more educated houses respect and fear the Rose family, as they are aware of how much influence they have, including the [[Conspiracy of the Earthmother’s Scythe]]
 - **Aesthetic**: 
 - **Symbol/Icon**: 
-- Main: Rose 
-+ [[Baron Clungunford Rose|Clungunford’s]] branding: Boar-themed logo
+	- Main: Rose 
+	+ [[Baron Clungunford Rose|Clungunford’s]] branding: Boar-themed logo
 
 ## Leadership & Power Structure
 - **Leader**: (Name, title, personality traits)
@@ -24,9 +23,10 @@
 
 ## Means
 - **Tactics**: (How do they achieve their goals? Espionage, trade, brute force, etc.)
-- **Assets**: (Notable resources like magical items, creatures, allies, wealth)
+- **Assets**: [[Earthmother's Scythe]], lots of land, public trust
 - **Allies & Rivals**:
-  - Allies: (List of friendly factions or NPCs)
+  - Allies: 
+	  - [[Cult of Talona]]: Clungunford discovered the cult's activities shortly before rising to power, and actually used their poisons to weaken his older brother, [[Broome Rose]]. Now, as the new head of the Rose family, Clungunford has forced the Cult of Talona to serve him, lest they be eradicated by the [[Bromzheath Militia]]
   - Rivals: (Enemies, opposing coorganizations)
 
 ## Members

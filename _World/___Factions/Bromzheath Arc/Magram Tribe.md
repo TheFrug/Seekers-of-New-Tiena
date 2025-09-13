@@ -23,7 +23,8 @@
 - **Tactics**: Primitive weapons meets remarkable coordination and agility.
 - **Assets**: (Notable resources like magical items, creatures, allies, wealth)
 - **Allies & Rivals**:
-  - Rivals: [[Ebenezer's Pack]] of werehumans, who, as devotees of Malar, see the centaurs as fair game (literally!)
+	- Allies: The centaur tribe has been in contact with agents of the [[Unseelie Court]] for some time. [[Flint Reverie]] specifically has done a lot to convince the leader of the tribe, [[Garmos Anth-malar]], that the centaur must trample [[Bromzheath]] down during [[The High Hunt]], rather than simply path around it as some are suggesting (like [[Sleuf Softmane]])
+	- Rivals: [[Ebenezer's Pack]] of werehumans, who, as devotees of Malar, see the centaurs as fair game (literally!)
 
 ## Members
 - **Demographic:** Centaurs
