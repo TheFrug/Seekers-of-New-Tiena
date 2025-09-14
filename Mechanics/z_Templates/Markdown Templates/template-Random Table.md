@@ -1,7 +1,7 @@
-##### 🎲 Random Table Template
+Random Table:
 
 | Roll | Result |
-|------|--------|
+| ---- | ------ |
 | 1    |        |
 | 2    |        |
 | 3    |        |

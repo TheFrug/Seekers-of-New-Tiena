@@ -12,17 +12,77 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 
 ## Map & Layout
 - Map chosen / rough sketch:
-  ![[Temple of Talona Reference.jpg]]
-- Loops & landmarks:
-
+![[Pasted image 20250914155943.png]]
 ## Chambers
-- Tags for each chamber (copy this ↓):
+**At start**: Players choose between main entrance and sneaky entrance from [[Brother Merric]]. Merric refuses to enter the temple for fear of mind control.
+- **Entrance 1:** Top left entrance, front door type beat.
+- **Entrance 2:** Middle left entrance, sneaky-strats
 
-### Chamber 1: Narthex
-- Tag (1–2 words):
-- Notable feature:
+### Chamber 1: Cell block
+- Tag (1–2 words): Filth-ridden cells
+- Notable feature: Rusted cages, rotting straw, rat-gnawed bones. Prisoners left long overdue
+- Encounter / Challenge: 
+	- [[Barry the Quasit]]: A rathide bowtie wearing quasit of Talona whose job it is to guard the prison cell, which obviously is not a thrilling position as the job as the temple has been underused
+		- Wants: To feel important to Talona, so wants to do his job well
+		- Secret: Hasn't heard from Talona in hundreds of years, so he thinks he is doing a poor job
+- Treasure / clue: [[Joachim]] corpse with [[Silksail]]. 
+
+### Chamber 2: Hall of Bodies
+- Tag: Ossuary Flood
+- Notable feature: A hallway of standing tombs that double as altars, with the loud smacking sounds of a feasting creature at the opposite end.
 - Encounter / challenge:
-- Treasure / clue:
+	- [[Gulguthra]]: A massive beast with telepathic powers sitting atop a pile of rotting corpses, emptied from the deadpits. It feasts and guards the key to the ritual chamber. It has been trained to attack intruders, but can be communicated with somewhat.
+- Treasure / clue: Key to Chamber 5 (Key with droplets)
+
+### Chamber 3: Narthex
+- Tag (1–2 words): Desecrated Entry Hall
+- Notable feature: A cracked mosaic floor depicting a map of land being "cleansed" by Talona's long, bony arm of plague
+- Encounter / challenge: 4x [[Cultists of Talona]], 1x [[Wererat]] preaching how the time of Talona is near.
+- Treasure / clue: 
+
+### Chamber 4: Shrine of two Altars
+- Tag: Twin altars of Talona
+- Notable feature: Two altars, one clean, one filthy, decayed. Inscriptions are half-worn away.
+- Encounter / challenge: 
+	- [[Terry the Quasit]]: A rathide hat-wearing quasit of Talona whose job it is to explain the altars. Has been given special instruction to trick visitors into activating the evoke altar.
+		- Wants: To please Talona above all, in this case by tricking people into activating the evoke altar
+		- Secret: 
+	- Arcana/Religion check reveal that the decayed altar, the belaying altar, delays the ritual, and can be activated by performing some religions ceremony or via bloodletting. The other altar evokes the ritual, strengthening the [[Ratmancer]]'s spell.
+- Treasure / clue: Either delay the ritual or expedite it.
+
+### Chamber 5: Ritual Chamber (Locked)
+- Tag: Room of the Rite
+- Notable feature: Massive Altar with [[Pastor Edith]] tied to it and a mural of [[Talona]] looking over the room.
+- Encounter / challenge: Boss fight with the [[Ratmancer]], 2x [[Wererat]], whatever cultists acted as messengers
+- Treasure / clue: rescue [[Pastor Edith]]
+
+#### Ritual Clock
+- Starts at 0 if party prevents messengers from reaching the ritual room
+- Starts at 25 if messenger sent
+- Starts at 50 if party short rests
+- Reduces by 25 if belaying altar used.
+- Each turn, roll d100 to add to the count. At 100, ritual is primed.
+
+### Chamber 6: Poison Lab
+- Tag: Reeking alchemical lab
+- Notable feature: Tables of half-complete experiments, bubbling cauldrons of slime and miasma. 
+- Encounter: 2 [[cultist-fanatic-xmm|cultist alchemist]] brewing when party enters. 
+	- Special brews per alchemist: Alchemist's fire, Invisibility potion, Poison potion
+	- Hazards include unstable fumes (Con save or poisoned).
+	- Reckless fighting can smash poison all over the place
+- Treasure/clue: Bottle labeled _“Test Batch 7 – Clungunford Delivery.”_
+
+### Chamber 7: Ratmancer's Lair  (Secret)
+- Tag: Sanctum of Rot
+- Discovery: Hidden behind a carved rat statue door which opens after answering riddle:
+	Unseen I kiss the young and old 
+	Uncut by sword, unswayed by gold 
+	Priest and pauper, rich and poor 
+	All fight, bannerless, in my war 
+	Bear my footprints, chase your death 
+	Breathe my silence, cease your breath
+- Notable Features: Small bed, large bed of many small rat beds. Shelves of ancient tomes written in Talontar code, rotwood table with a map of [[Bromzheath]] with tactical markings 
+- Treasure/clue: Clungunford's contract of fealty, written in dense fake-legalese
 
 ## Inhabitants
 - Who lives here: Humanoid cultists of Talona, monsters attracted to corpses, long-abandoned servants of Talona 
@@ -33,189 +93,59 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 	- Cultists: So close to their lifelong goal, the cultists will stop at nothing to slow the advance of the party.
 	- Monsters: varies
 ### Monster List
-- Quasit: 
-```statblock
-monster: Quasit
-```
-
-- Wererat: 
-```statblock
-monster: Wererat
-```
+- 4x [[Cultists of Talona]]:
+- 3x [[quasit-xmm|Quasit]]: 
+- 2x [[Wererat]]: 
 - The [[Ratmancer]]
-```statblock  
-name: The Ratmancer
-size: Medium  
-type: humanoid  
-subtype: string  
-alignment: lawful evil  
-ac: 13 (18 with rat shield) 
-hp: 45
-hit_dice: 7d8+7
-speed: 30 ft.
-stats: [9, 15, 12, 12, 17, 16]  
-skillsaves:  
-- Arcana: 4
-- Insight: 6
-- Nature: 4
-- Religion: 4
-damage_resistances: Poison  
-condition_immunities: Poisoned, Diseased
-senses: Darkvision 60ft., Passive Perception 13
-languages: Common, Rattish
-cr: 4
-spells:  
-- The Ratmancer is a 8th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell)
-- <description>  
-- Cantrips: Decompose, Sacred Flame, Shillelagh
-- 1st level: inflict wounds, detect magic, ray of sickness, shield
-- 2nd level: spike growth, ray of enfeeblement
-- 3rd level: stinking cloud
-traits:
-- [Dark Devotion, The fanatic has advantage on saving throws against being Charmed or frightened]
-- [Diseased Blood, When struck with slashing or piercing damage, their virulent blood splatters nearby. If it comes into contact with skin, its owner must make a DC 13 Constitution check or be diseased]  
-actions: 
-- [Quarterstaff, "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d8 + 2, 2d8 + 4 with Shillelagh) bludgeoning damage. On hit, targets must make a DC 12 CON save or be poisoned"] 
-- [Poisoned Crossbow, "*Ranged Weapon Attack:* +3 to hit, reach 45 ft., one creature. *Hit:* 6 (1d8 + 2) slashing damage + 3 (1d6) poison damage."] 
-reactions:
-- [Rat Shield, When attacked the Ratmancer may command a swarm of rats to defend them, gaining +5 AC.]
-```
-- Gulguthra
-```statblock
-name: Gulguthra
-source: 5e SRD
-size: Large
-type: aberration
-subtype: ""
-alignment: neutral
-ac: 14
-hp: 114
-hit_dice: 12d10 + 48
-speed: 30 ft.
-stats:
-  - 16
-  - 11
-  - 19
-  - 6
-  - 13
-  - 6
-saves:
-  - constitution: 7
-damage_vulnerabilities: ""
-damage_resistances: "Poison"
-damage_immunities: ""
-condition_immunities: ""
-senses: darkvision 120 ft., passive Perception 11
-languages: Otyugh
-cr: "5"
-bestiary: true
-traits:
-  - name: Limited Telepathy
-    desc: The otyugh can magically transmit simple messages and images to any creature within 120 ft. of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
-    attack_bonus: 0
-actions:
-  - name: Multiattack
-    desc: "The otyugh makes three attacks: one with its bite and two with its tentacles."
-    attack_bonus: 0
-  - name: Bite
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured."
-    attack_bonus: 6
-    damage_dice: 2d8
-    damage_bonus: 3
-  - name: Tentacle
-    desc: "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The otyugh has two tentacles, each of which can grapple one target."
-    attack_bonus: 6
-    damage_dice: 1d8
-    damage_bonus: 3
-  - name: Tentacle Slam
-    desc: The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.
-    attack_bonus: 0
-  - name: Corpse Chuck
-    desc: "Ranged Weapon Attack: +3 to hit, reach 30 ft., one target. Hit: 4 (1d8 + 0) bludgeoning damage plus 10 (2d8) piercing damage. The Gulguthra throws a pestilent piece of a corpse at a target. Target must make a CON save (DC 13) or take 2d6 poison damage."
-    attack_bonus: 3
-    damage_dice: 1d8
-    damage_bonus: 0
-```
-```statblock
-name: Ghost
-source: 5e SRD
-size: Medium
-type: undead
-subtype: ""
-alignment: any alignment
-ac: 11
-hp: 45
-hit_dice: 10d8
-speed: 0 ft., fly 40 ft. It can hover.
-stats:
-  - 7
-  - 13
-  - 10
-  - 10
-  - 12
-  - 17
-damage_vulnerabilities: ""
-damage_resistances: acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons
-damage_immunities: cold, necrotic, poison
-condition_immunities: charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-senses: darkvision 60 ft., passive Perception 11
-languages: any languages it knew in life
-cr: "4"
-bestiary: true
-traits:
-  - name: Ethereal Sight
-    desc: The ghost can see 60 ft. into the Ethereal Plane when it is on the Material Plane, and vice versa.
-    attack_bonus: 0
-  - name: Incorporeal Movement
-    desc: The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
-    attack_bonus: 0
-actions:
-  - name: Withering Touch
-    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) necrotic damage."
-    attack_bonus: 5
-    damage_dice: 4d6
-    damage_bonus: 3
-  - name: Etherealness
-    desc: The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
-    attack_bonus: 0
-  - name: Horrifying Visage
-    desc: Each non-undead creature within 60 ft. of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 _ 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a greater restoration spell, but only within 24 hours of it occurring.
-    attack_bonus: 0
-  - name: Possession (Recharge 6)
-    desc: |-
-      One humanoid that the ghost can see within 5 ft. of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
-      The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, the ghost reappears in an unoccupied space within 5 ft. of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
-    attack_bonus: 0
-monster: Ghost
+- [[Gulguthra]]
 
-```
 ## Secrets
-- Short list of lore / discoveries (~10 max):
 - This temple's history shows that other than the regular cultists, there were once frequent visitors from those making offerings of appeasement to [[Talona]]. These appeasement visitations ceased sometime after Talona's death, which led to plagues declining across [[Tiena]]. After that, only the already unscrupulous [[Cult of Talona]] remained to worship her.
 	- (Religion 15) All altars come in pairs, one to belay plague, and one to evoke plague. The evoking altars are clean and show signs of use, but the belaying altars are all in states of extreme decay. 
 - The [[Cult of Talona]] has been working for [[Baron Clungunford Rose]] for years. However, having caught onto Clungunford's plan to arm the [[Bromzheath Militia]] via trade deal with [[Brenwin's Caravan]], they have decided now is the time to set their plan into motion
 	- The note [[Baron Clungunford Rose|Clungunford]] gave the party to give to the Cultists reads: ""
-- 
+- The next step in the [[Cult of Talona]]'s big plan is to take back the [[Decanter of Unending Filth]] that Clungunford took as collateral.
 
 ### Party-Specific
 - [[Zod Byldamur|Zod]]: 
-- [[Lucian Castemur Duskwood|Lucian]]: 
-- [[Malachi]]:
-- [[Calendula Serenada|Calendula]]:
+- [[Lucian Castemur Duskwood|Lucian]]: The **lab** has a book in it with the Duskwood family crest. This book, written by [[Harken Duskwood]], details best practices for death domain cleric rituals, and has a characteristic pompous writing similar to that of [[Isadora Duskwood]]
+- [[Malachi]]: The temple was visited by a lone [[Tellers|Teller]], who took it upon himself to travel the continent informing temples of the truth: that some of the gods are dead, and have been for many years. This Teller, [[Joachim]], was medically tortured to death by the [[Cult of Talona]] for spreading what they saw as heresy.
+- [[Calendula Serenada|Calendula]]: 
 
 ## Boss / Climax
 - Set piece: 
+	- Ritual to summon the [[Herald of Rot]], a massive raid-boss who will escape once summoned.
+	- Ritual progress at start of fight is based on party behavior throughout dungeon.
+	- Max time to summon: four turns? Based on rolling at start of turn? Confused
+	- Enemies: [[Ratmancer]], 
 - Terrain twist: 
+	- Altar and ritual chanters are all on the high ground, with the floor at the center being covered completely in rats, who protect the ritual circle. 
+	- (Turn 3 onwards): 4 Pillars in room are crumbling, and the Ratmancer can use his experimental 'Rat Bomb' technique to break the pillars, dealing 4d10 bludgeoning damage on a failed Dex save (DC 15)  and impassable terrain
 - Other ways to “win”: 
 
 ## Rewards
 - Loot:
+	- Need to make a table
 - Cool consumable:
+	- [[potion-of-poison-resistance-xdmg|Potion of Poison Resistance]]: Found in chamber __ 
 - Memorable item:
+	- [[Silksail]]: Found on the dead Teller [[Joachim]]'s arms, removal reveals nasty rotted flesh.
+	- [[bag-of-tricks-rust-xdmg|Bag of Tricks, Rust]]: Found in **the lab** with a label reading "Willing test subjects"
+
+| Roll | Result                                                             |
+| ---- | ------------------------------------------------------------------ |
+| 1    | Rusted dagger smeared with ichor                                   |
+| 2    | Rat skull fetish necklace                                          |
+| 3    | Pouch of dried mushrooms (poisonous and drugs)                     |
+| 4    | Note scrawled on rotten parchment "Off with the rosy bull's balls" |
+| 5    | Potion of Poison Resistance                                        |
+| 6    |                                                                    |
+
+
 
 ## Atmosphere
 - Sight:
-- Sound:
+- Sound: Putrid rot, fungal spores, and stale air.
 - Smell / vibe:
 
 ## Exit

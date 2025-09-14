@@ -1,0 +1,6 @@
+*Fist-worn weapon*, Uncommon (requires attunement by a monk)*  
+These enchanted wraps made of magically woven spider silk, sheer and light but durable. While wearing these wraps, you can unspool them to make special unarmed strikes with a reach of 15ft.
+These unarmed strikes do no damage, but if you hit a creature no more than one size larger than you, you can attempt to grapple and pull it up to 10 feet toward you using your Dexterity (Acrobatics) check contested by the target's Strength (Athletics) check. Once on each of your turns, you can instead use the wraps to replicate the effects of a successful attack with a net 
+As an action, you can fire the wrappings up to 30 feet away, anchoring them against a solid mass (such as walls or trees), a heavy object, or surfaces (such as walls, floors, and ceilings). As part of the same action, you can retract the wrappings, pulling you in to the closest unoccupied space that is adjacent to your anchor, or use the wrappings to swing yourself to another point within 30 feet of the anchor if it is attached to a ceiling. Alternatively, you can detach and anchor the other end instead, allowing creatures to climb across the length of wrapping at full movement speed.
+The material is strong enough to support up to 500lbs, has an AC of 17, and has 25 hit points.
+![[Pasted image 20250914100412.png]]

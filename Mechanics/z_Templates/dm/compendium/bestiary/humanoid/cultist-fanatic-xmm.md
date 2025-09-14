@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/xmm
-- monster/cr/2
-- monster/environment/any
-- monster/size/small-or-medium
-- monster/type/humanoid
-aliases: ["Cultist Fanatic"]
+  - compendium/src/5e/xmm
+  - monster/cr/2
+  - monster/environment/any
+  - monster/size/small-or-medium
+  - monster/type/humanoid
+aliases:
+  - Cultist Fanatic
 ---
 # Cultist Fanatic
 *Source: SRD 5.2 and the Free Rules (2024)*  
@@ -70,7 +71,6 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 > [!quote] A quote from Rites of the Cult of Elemental Evil  
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
-
 
 ## Statblock
 
