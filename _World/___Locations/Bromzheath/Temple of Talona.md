@@ -11,7 +11,7 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 - Goal / what ends the crawl: Find Pastor Edith and bring her back to Bromzheath while ensuring her safety.
 
 ## Map & Layout
-- Map chosen / rough sketch:
+- Map chosen / rough sketch: 
 ![[Pasted image 20250914155943.png]]
 ## Chambers
 **At start**: Players choose between main entrance and sneaky entrance from [[Brother Merric]]. Merric refuses to enter the temple for fear of mind control.
@@ -98,6 +98,7 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 - 2x [[Wererat]]: 
 - The [[Ratmancer]]
 - [[Gulguthra]]
+- [[darkmantle-xmm|Darkmantle]]
 
 ## Secrets
 - This temple's history shows that other than the regular cultists, there were once frequent visitors from those making offerings of appeasement to [[Talona]]. These appeasement visitations ceased sometime after Talona's death, which led to plagues declining across [[Tiena]]. After that, only the already unscrupulous [[Cult of Talona]] remained to worship her.
