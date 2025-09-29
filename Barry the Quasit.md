@@ -1,10 +1,10 @@
 ---
 type: character
 is-npc: true
-player: 
-status: 
-groups: 
-job-title: 
+player:
+status: Dead
+groups:
+job-title:
 Race:
 ---
 # Barry the Quasit

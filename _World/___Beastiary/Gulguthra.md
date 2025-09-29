@@ -48,8 +48,9 @@ actions:
     desc: The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.
     attack_bonus: 0
   - name: Corpse Chuck
-    desc: "Ranged Weapon Attack: +3 to hit, reach 30 ft., one target. Hit: 4 (1d8 + 0) bludgeoning damage plus 10 (2d8) piercing damage. The Gulguthra throws a pestilent piece of a corpse at a target. Target must make a CON save (DC 13) or take 2d6 poison damage."
+    desc: "Ranged Weapon Attack: +3 to hit, reach 30 ft., one target. Hit: 4 (1d8 + 0) bludgeoning damage plus 5 (1d8) piercing damage. The Gulguthra throws a pestilent piece of a corpse at a target. Target must make a CON save (DC 13) or take 2d6 poison damage."
     attack_bonus: 3
     damage_dice: 1d8
     damage_bonus: 0
 ```
++

@@ -32,7 +32,7 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 - Notable feature: A hallway of standing tombs that double as altars, with the loud smacking sounds of a feasting creature at the opposite end.
 - Encounter / challenge:
 	- [[Gulguthra]]: A massive beast with telepathic powers sitting atop a pile of rotting corpses, emptied from the deadpits. It feasts and guards the key to the ritual chamber. It has been trained to attack intruders, but can be communicated with somewhat.
-- Treasure / clue: Key to Chamber 5 (Key with droplets)
+- Treasure / clue: At the end of the hall, there is an altar with a chest on top. Above the altar is an inscription that on a DC 15 intelligence check reads "No key is universal but magic". Upon channeling 3 spell slots worth of magic into it, the chest opens, providing the Key to Chamber 5 (Key with droplets)
 
 ### Chamber 3: Narthex
 - Tag (1–2 words): Desecrated Entry Hall
@@ -52,8 +52,15 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 
 ### Chamber 5: Ritual Chamber (Locked)
 - Tag: Room of the Rite
-- Notable feature: Massive Altar with [[Pastor Edith]] tied to it and a mural of [[Talona]] looking over the room.
-- Encounter / challenge: Boss fight with the [[Ratmancer]], 2x [[Wererat]], whatever cultists acted as messengers
+- Entrance: Massive double-doors with three square impressions that dig into the door around 2 feet in. At the end of each is a keyhole that matches the key the players picked up. 
+	- Above each is a different symbol: 
+	- If the players try to insert the key and aren't diseased, noxious gas hisses from the keyhole hole all over the person's arm, dealing Next to the keyhole is an inscription 
+- Notable feature: Massive Altar with [[Pastor Edith]] tied to it and a mural of [[Talona]] looking over the room. Around the Altar is three ritualists and the [[Ratmancer]] feverishly chanting.
+- Encounter / challenge: Boss fight!
+- [[Ratmancer]], 3x Ritualists 
+- 3x [[Wererat]]
+- At initiative count 20 each round, the **altar pulses**, releasing a **wave of necrotic rot**. Anyone within 10 ft. of it must succeed a **DC 14 Dex save** or take **2d6 necrotic damage** and be **slowed** until the end of their next turn.
+- **Ratmancer's Ritual:** On initiative count 20, the Ratmancer continues his incantation, rolling  4d10 to progress the ritual counter by the result+5 for each cultist assisting him. This starts at 50 because they were warned. At 100, Pastor Edith is killed, summoning the [[Herald of Rot]]
 - Treasure / clue: rescue [[Pastor Edith]]
 
 #### Ritual Clock
@@ -111,7 +118,7 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 - [[Zod Byldamur|Zod]]: 
 - [[Lucian Castemur Duskwood|Lucian]]: The **lab** has a book in it with the Duskwood family crest. This book, written by [[Harken Duskwood]], details best practices for death domain cleric rituals, and has a characteristic pompous writing similar to that of [[Isadora Duskwood]]
 - [[Malachi]]: The temple was visited by a lone [[Tellers|Teller]], who took it upon himself to travel the continent informing temples of the truth: that some of the gods are dead, and have been for many years. This Teller, [[Joachim]], was medically tortured to death by the [[Cult of Talona]] for spreading what they saw as heresy.
-- [[Calendula Serenada|Calendula]]: 
+- [[Calendula Serenada|Calendula]]: [[Ratmancer]] perceives Calendula as an [[Unseelie Court|Unseelie]] Fae because of her [[Redwood Panpipes]] 
 
 ## Boss / Climax
 - Set piece: 
@@ -140,7 +147,7 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 | 3    | Pouch of dried mushrooms (poisonous and drugs)                     |
 | 4    | Note scrawled on rotten parchment "Off with the rosy bull's balls" |
 | 5    | Potion of Poison Resistance                                        |
-| 6    |                                                                    |
+| 6    | Antidote                                                           |
 
 
 
@@ -157,3 +164,4 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 - Random encounter table:
 - Reskin rooms:
 - Spare names:
+
