@@ -52,6 +52,7 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 
 ### Chamber 5: Ritual Chamber (Locked)
 - Tag: Room of the Rite
+<<<<<<< Updated upstream
 - Entrance: Massive double-doors with three square impressions that dig into the door around 2 feet in. At the end of each is a keyhole that matches the key the players picked up. 
 	- Above each is a different symbol: 
 	- If the players try to insert the key and aren't diseased, noxious gas hisses from the keyhole hole all over the person's arm, dealing Next to the keyhole is an inscription 
@@ -61,6 +62,10 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 - 3x [[Wererat]]
 - At initiative count 20 each round, the **altar pulses**, releasing a **wave of necrotic rot**. Anyone within 10 ft. of it must succeed a **DC 14 Dex save** or take **2d6 necrotic damage** and be **slowed** until the end of their next turn.
 - **Ratmancer's Ritual:** On initiative count 20, the Ratmancer continues his incantation, rolling  4d10 to progress the ritual counter by the result+5 for each cultist assisting him. This starts at 50 because they were warned. At 100, Pastor Edith is killed, summoning the [[Herald of Rot]]
+=======
+- Notable feature: Massive Altar with [[Pastor Edith]] tied to it and a mural of [[Talona]] looking over the room. Carved stone stalactites hang from the ceiling dripping bile-colored poison onto the diseased pools beneath.
+- Encounter / challenge: Boss fight with the [[Ratmancer]], 2x [[Wererat]], whatever cultists acted as messengers
+>>>>>>> Stashed changes
 - Treasure / clue: rescue [[Pastor Edith]]
 
 #### Ritual Clock
@@ -151,8 +156,6 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 | 4    | Note scrawled on rotten parchment "Off with the rosy bull's balls" |
 | 5    | Potion of Poison Resistance                                        |
 | 6    | Antidote                                                           |
-
-
 
 ## Atmosphere
 - Sight:
