@@ -88,6 +88,9 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 	All fight, bannerless, in my war 
 	Bear my footprints, chase your death 
 	Breathe my silence, cease your breath
+	- Answer: Plague
+- Once open, there is a second carved rat statue door with a different riddle, etched in noticeably different handwriting:
+	- Easy question done, now for the hard one: 
 - Notable Features: Small bed, large bed of many small rat beds. Shelves of ancient tomes written in Talontar code, rotwood table with a map of [[Bromzheath]] with tactical markings 
 - Treasure/clue: Clungunford's contract of fealty, written in dense fake-legalese
 
