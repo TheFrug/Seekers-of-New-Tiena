@@ -15,10 +15,18 @@ Tip
 	- Key Moments this Session: Discovery in the lab/ratmancer's lair 
 - [[Malachi]]: Understanding the new wrist warps as Malachi never has owned magical equipment. I would think he has seen/been around a ton but never owned himself.
 	- Key Moments this Session: Attuning with [[Silksail]] and learning that the Sundering of [[Androticus]] was not an accident; it was caused by the Gods
-- [[Calendula Serenada]]: ???
+- [[Calendula Serenada]]: Calendula wants her reward for saving the big mama jama. I want to see if theres anything we’ve missed in the dungeon or any areas we havent explored
 	- Key Moments this Session: Seeing [[Flint Reverie]] leading negotiations with the [[Magram Tribe]], trying to convince them to trample through [[Bromzheath]] because "That's what happens when you defy the Unseelie" + to steal the [[Earthmother's Scythe]] + kill [[Ethereal Song]] and reclaim the treasures he stole hundreds of years ago + to turn [[Bromzheath]] into more [[Feywild]]
 - [[Zod Byldamur]]
-	- Key Moments this Session: 
+	- Key Moments this Session: Zod's wild magic has finally revealed his eighth effect, which deals necrotic damage. This leads Zod to meet his most evil ancestor, [[Ner'gall]], an ancient warlock pacted to several masters and loyal to none. This guy introduces the [[Umbral Conclave]] when Zod asks about [[Talona]]
+
+# Opening Scene
+
+The dust settles on the splattered ritual chamber. The air is heavy with the scent of bloody-soaked fur and rotting flesh. 
+{Describe with the party what they are all doing}
+As Zod's wild magic is about to fade, it surges and streams into Zod's head, putting him in a trance. DC 15 Wisdom save to not drop [[Pastor Edith]]. 
+The next time Zod long rests, he has a strange dream and glows with wild magic energy.
+In his mind, Zod is standing on a dry cliff in a mountainous region with a hazy green sky. Before him stands [[Ner'gall]], who is a spirit of the same color as Zod's wild magic surge. 
 
 # Outline Potential Scenes
 
@@ -27,19 +35,20 @@ Tip
 ### Scene Goals
 - Players explore the Lab-O-Rat-Ory of the [[Temple of Talona]] and discover the Spreadsheet
 - If players access the Ratmancer's Lair, they can find a journal with frantic scrawling about the "Rosy Bull" ([[Clungunford Rose]]) and how the [[Cult of Talona]] will reclaim their lost [[Relic]]: the [[Decanter of Unending Filth]], from him no matter the cost.
-- I'm sure it'll be fun either way!
 
 ### READ ALOUD
 
-You enter through the cramped stone archway into a small laboratory. The stagnant stench of the rest of the dungeon now pales in comparison to the multifaceted, nuanced rankness of this chamber. Inside there are bubbling cauldrons with various hues of muck encrusted around the rims, body parts lying on tables with pins holding them in place, and vials of empty and full potion bottles lining the shelves on the walls. At the opposite end of the room, there is a stone statue of a Rat statue. At one table, a rat in a lab coat haunches over a collection of bubbling vials and test tubes. With a twitch, he turns towards the party with a crazed look in his eye before loading his automatic crossbow with vials. 
+You enter through the cramped stone archway into a small laboratory. The stagnant stench of the rest of the dungeon now pales in comparison to the multifaceted, nuanced rankness of this chamber. Inside there are bubbling cauldrons with various hues of muck encrusted around the rims, body parts lying on tables with pins holding them in place, and vials of empty and full potion bottles lining the shelves on the walls. At the opposite end of the room, there is a stone statue of a Rat statue. 
+At one table, a rat in a lab coat haunches over a collection of bubbling vials and test tubes. With a twitch, he turns towards the party with a crazed look in his eye before loading his automatic crossbow with vials and screeching: "Sewer skewers for everyone!"
 
 ### Key Details
-- **Location:** 
-- **Time of Day**:
-- **Mood/Atmosphere:**
 
 #### NPCs Involved
-- **NPC Name:** [[Dan the Lab Rat]]
+- **NPC Name:** [[Pastor Edith]]
+	- Catch-up: Edith has just been rescued from having her soul drained as part of a ritual to summon the [[Herald of Rot]]. However, she is in a bad state and will need medicine, likely from [[Bevin Gladstar]] to heal. This is a sick narrative moment because Edith and the [[Conspiracy of the Earthmother's Scythe]] are the reason for [[Bevin Gladstar]]'s outdoor farm doing so poorly these past few years, as well as [[Fiona]]'s parents who were actually killed via poison from eating crops [[Clungunford Rose]] had given Talonan poison
+	- Motivation: 
+	- Secret/Challenge: 
+- **NPC Name:** [[Twitch the Lab Rat]]
 	- Motivation: To finish his last experiment: to combine as many of the poisons and toxins as possible on one person and see what happens.
 	- Secret/Challenge: The party is about to kill him lmao
 
@@ -50,6 +59,7 @@ You enter through the cramped stone archway into a small laboratory. The stagnan
 	- [[Felix Duskwood]], written in a cipher familiar to [[Lucian Castemur Duskwood]], older order
 	- [[Theron Ashford]], written without Cipher, and dated for sometime in the last few months
 - On one of the cleaner shelves, the party finds a beautiful-looking bottle with a label that reads "Test Batch 7 – Clungunford Delivery"
+- DC 15 Investigation check: A locked box sealed with a tar-black wax that burns to the touch and displays the mark of [[Talona]]. It can be opened via magic of a cleric or devotee of [[Talona]] (like [[Brother Merric]] or forced open by powerful tools.
 - The rat statue has a riddle engraved in it. Tracing the answer in diseased blood opens the door to the Ratmancer's lair
 	- Riddle:
 		Unseen I kiss the young and old 
@@ -60,10 +70,10 @@ You enter through the cramped stone archway into a small laboratory. The stagnan
 		Breathe my silence, cease your breath
 
 ### Encounters / Challenges
-- Combat in the Lab
+- Combat with [[Twitch the Lab Rat]]
 
 ```statblock
-name: Dan the Lab Rat
+name: Twitch the Lab Rat
 source: 5e SRD
 size: Medium
 type: humanoid
@@ -124,7 +134,46 @@ monster: Wererat
 		Bear my footprints, chase your death 
 		Breathe my silence, cease your breath
 - Answer: Plague
-	- 
+
+## Meeting with the Magram Tribe
+
+## Scene Name
+
+### Scene Goals
+- Re-introduce the centaurs from earlier as part of the [[Magram Tribe]] while introducing their motivations
+- While meeting them, 
+- I'm sure it'll be fun either way!
+
+### READ ALOUD
+
+Big boy prose opportunity! Set the scene, fill the senses, you know how it is.
+
+*Ask the party how they feel*
+
+---Include a line to signal to players that they have control again---
+
+### Key Details
+- **Location:** 
+- **Time of Day**:
+- **Mood/Atmosphere:**
+
+#### NPCs Involved
+- **NPC Name:** 
+	- Motivation: 
+	- Secret/Challenge:
+
+### Secrets & Clues
+- What additional info can the party learn through active play?
+- This section is meant to reward the players
+- 
+
+### Encounters / Challenges
+- Describe what challenge the party is trying to overcome here, and make it really clear.
+
+```statblock
+monster: 
+```
+
 
 ## Clungunford's Ball
 
