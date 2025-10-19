@@ -46,8 +46,9 @@ At one table, a rat in a lab coat haunches over a collection of bubbling vials a
 #### NPCs Involved
 - **NPC Name:** [[Pastor Edith]]
 	- Catch-up: Edith has just been rescued from having her soul drained as part of a ritual to summon the [[Herald of Rot]]. However, she is in a bad state and will need medicine, likely from [[Bevin Gladstar]] to heal. This is a sick narrative moment because Edith and the [[Conspiracy of the Earthmother's Scythe]] are the reason for [[Bevin Gladstar]]'s outdoor farm doing so poorly these past few years, as well as [[Fiona]]'s parents who were actually killed via poison from eating crops [[Clungunford Rose]] had given Talonan poison
-	- Motivation: 
-	- Secret/Challenge: 
+	- Motivation: Survive. If can be communicated with, will ask if '[[Clungunford Rose|lil' Gunford]]' sent for them, if he's worrying about his auntie. She is grateful for the party's help
+	- Secret/Challenge: She doesn't want to believe that [[Clungunford Rose]] set her up to be killed in order to monopolize the [[Earthmother's Scythe]]. 
+		- If she realizes her life was given up for his plans, DC 20 Persuasion check: she can see reason and agree tell the party what she knows about the [[Conspiracy of the Earthmother's Scythe]], which is that [[Clungunford Rose]] has the true scythe and uses it selectively to gain power and control the people of [[Bromzheath]].
 - **NPC Name:** [[Twitch the Lab Rat]]
 	- Motivation: To finish his last experiment: to combine as many of the poisons and toxins as possible on one person and see what happens.
 	- Secret/Challenge: The party is about to kill him lmao
@@ -58,8 +59,10 @@ At one table, a rat in a lab coat haunches over a collection of bubbling vials a
 	- [[Clungunford Rose]]
 	- [[Felix Duskwood]], written in a cipher familiar to [[Lucian Castemur Duskwood]], older order
 	- [[Theron Ashford]], written without Cipher, and dated for sometime in the last few months
-- On one of the cleaner shelves, the party finds a beautiful-looking bottle with a label that reads "Test Batch 7 – Clungunford Delivery"
-- DC 15 Investigation check: A locked box sealed with a tar-black wax that burns to the touch and displays the mark of [[Talona]]. It can be opened via magic of a cleric or devotee of [[Talona]] (like [[Brother Merric]] or forced open by powerful tools.
+- On one of the cleaner shelves, the party finds a beautiful-looking bottle with a label that reads "Test Batch 7 – Clungunford Delivery", as well as three unlabeled potions of positive effect.
+	- https://randomtablesrpg.com/fantasy/ultimate-random-potion-table-for-dnd-5e/
+- DC 15 Investigation check: A locked box sealed with a tar-black wax that burns to the touch and displays the mark of [[Talona]]. It can be opened via magic of a cleric or devotee of [[Talona]] (like [[Brother Merric]]) or forced open by powerful tools.
+	- Inside, there is a vial of an insanely potent and contagious illness, which is the [[Opus of Contagion]]. Merric sees it as incredibly dangerous and deserving of being destroyed.
 - The rat statue has a riddle engraved in it. Tracing the answer in diseased blood opens the door to the Ratmancer's lair
 	- Riddle:
 		Unseen I kiss the young and old 
@@ -135,32 +138,49 @@ monster: Wererat
 		Breathe my silence, cease your breath
 - Answer: Plague
 
-## Meeting with the Magram Tribe
+### Leaving the Temple
+- Sleuf Softmane stands over reeking the corpse of a lab rat, telling the party that he needs their help. He is accompanied by [[Reynauld Stonehoof]]. 
+	- Sleuf was given their location by the Unseelie Fae, as the [[Redwood Panpipes]] give [[Dionaea]] and by extension [[Flint Reverie]] insight into [[Calendula Serenada]]'s location.
+- He can carry [[Pastor Edith]] home, as he can tell she needs help. 
+- Along the way, he explains his people, the [[Magram Tribe]], are staying nearby
+	- [[Bromzheath]] stands in the way of their [[High Hunt]]. 
+	- The wardens are recommending a slight re-route, but the [[Unseelie Court]] operatives helping the Centuars rest are suggesting a violent trampling of [[Bromzheath]] to occur the following night.
+- During the ride home, [[Calendula Serenada]] falls asleep and speaks to [[Dionaea]]
+- [[Dionaea]] commends Calendula on defeating the [[Cult of Talona]], and tells her she can be rewarded if she likes.
+	- If she says yes, on next long rest: A [[Charlatan's Die]] under her pillow
 
-## Scene Name
+### When Malachi attunes with Silksail
+
+
+
+## Meeting with the Magram Tribe
 
 ### Scene Goals
 - Re-introduce the centaurs from earlier as part of the [[Magram Tribe]] while introducing their motivations
-- While meeting them, 
-- I'm sure it'll be fun either way!
+- While meeting them, introduce the [[Unseelie Court]]'s involvement, as they have a revenge plot against [[Ethereal Song]] for stealing valuable treasures from the [[Dionaea]]
 
 ### READ ALOUD
 
-Big boy prose opportunity! Set the scene, fill the senses, you know how it is.
-
-*Ask the party how they feel*
-
----Include a line to signal to players that they have control again---
+You follow Sleuf's soft and swift stride through the forest. Slowly, the bark on trees passing by tints more and more yellow, and the leaves more and more pink. Eventually, you come to a beautiful clearing with a spring of running fresh water, large mushrooms sprouting under shady rocks, fae flitting about, and centaurs working on carving up a massive boar. 
 
 ### Key Details
-- **Location:** 
-- **Time of Day**:
-- **Mood/Atmosphere:**
+- **Location:** Feywild grove in the middle of the woods near [[Bromzheath]]
+- **Time of Day**: Cool Daytime
+- **Mood/Atmosphere:** Beauty meets mystery, as the centaur are an imposing presence with an unfamiliar culture, and the Unseelie are an eminent threat to [[Calendula Serenada]].
 
 #### NPCs Involved
-- **NPC Name:** 
-	- Motivation: 
-	- Secret/Challenge:
+- **NPC Name:** [[Flint Reverie]]
+	- Motivation: Convince [[Garmos Anth-Malar]] to rampage through [[Bromzheath]]. He explains that this is as punishment for building on their sacred land. 
+	- Motivation: Convince [[Calendula Serenada]] to join the Unseelie, by force if he must. He will even cast enchantment spells on her to convince her of her potential with [[Dionaea]], and references their history together.
+	- Secret/Challenge: Flint actually wants the [[Magram Tribe]] to rampage through [[Bromzheath]] in order to:
+		- Raid the [[Honeydrop Hall]], kill [[Ethereal Song]], and seize the treasures he stole from [[Dionaea]]
+		- capture [[Firbolg]] to re-integrate into the [[Unseelie Court]]
+- **NPC Name:** [[Garmos Anth-Malar]]
+	- Motivation: Carry out the [[High Hunt]] to glorify [[Malar]]
+	- Secret/Challenge: Is being enchanted by [[Flint Reverie]] to feel bloodthirsty towards the [[Firbolg]] and [[Bromzheath]]
+- **NPC Name:** [[Sleuf Softmane]]
+	- Motivation: Carry out the chief's wishes without destroying [[Bromzheath]] or doing harm to civilizations, only wild beasts.
+	- Secret/Challenge: Only has so much pull in the tribe as a younger warden. Has a fondness for non-migratory civilizations.
 
 ### Secrets & Clues
 - What additional info can the party learn through active play?
