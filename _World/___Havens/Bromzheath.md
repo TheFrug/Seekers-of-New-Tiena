@@ -3,4 +3,4 @@
 ### History
 
 ### Inhabitants
-- [[Baron Clungunford Rose]]  
+- [[Clungunford Rose]]  

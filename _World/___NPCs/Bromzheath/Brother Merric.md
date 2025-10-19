@@ -20,7 +20,7 @@ Race:
 - **Appearance:** Shaggy hair that covers his eyes, earthen brown robes fastened with a rose pin. Has a thin moustache and slightly sharp fingernails. Inky tattoos stretching from head to limbs, covered by robes
 
 ## Summary
-Brother Merric is a devout cleric who lives under the [[Church of Chauntea]] in [[Bromzheath]]. Merric is a [[wererat]], having gained lycanthropy during his time in the [[Cult of Talona]]. However, Merric has no loyalty to the plaguemother, and instead devotes himself to attonement through his devotion to Chauntea. Merric has drawn suspicion from more ignorant Firbolgs, such as [[Baron Clungunford Rose]], but is ultimately a good person.
+Brother Merric is a devout cleric who lives under the [[Church of Chauntea]] in [[Bromzheath]]. Merric is a [[wererat]], having gained lycanthropy during his time in the [[Cult of Talona]]. However, Merric has no loyalty to the plaguemother, and instead devotes himself to attonement through his devotion to Chauntea. Merric has drawn suspicion from more ignorant Firbolgs, such as [[Clungunford Rose]], but is ultimately a good person.
 
 ## Roleplaying
  - **Wants and Needs:** Rescue [[Pastor Edith]], Research cool decay plants, and use his findings to improve the lives of Bromzheath, and especially [[Pastor Edith]]
@@ -46,4 +46,4 @@ The next day, the party testified in Brother Merric's defense during the trial o
 
 ### NPCs:
 
-**[[Baron Clungunford Rose]]:** Clungunford has never treated Merric with much respect, and this only got worse after Edith's kidnapping. Clungunford tried every manipulative trick in the book to ensure that Merric would be found guilty and exiled, hoping he would take the fall for the attack on Pastor Edith, which Clungunford had orchestrated alongside the Cult of Talona.
+**[[Clungunford Rose]]:** Clungunford has never treated Merric with much respect, and this only got worse after Edith's kidnapping. Clungunford tried every manipulative trick in the book to ensure that Merric would be found guilty and exiled, hoping he would take the fall for the attack on Pastor Edith, which Clungunford had orchestrated alongside the Cult of Talona.

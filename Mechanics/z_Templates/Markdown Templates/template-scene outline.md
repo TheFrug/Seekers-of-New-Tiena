@@ -18,21 +18,17 @@ Big boy prose opportunity! Set the scene, fill the senses, you know how it is.
 - **Time of Day**:
 - **Mood/Atmosphere:**
 
-## Secrets & Clues
+#### NPCs Involved
+- **NPC Name:** 
+	- Motivation: 
+	- Secret/Challenge:
+
+### Secrets & Clues
 - What additional info can the party learn through active play?
 - This section is meant to reward the players
 - 
 
-## NPCs Involved
-
-- **NPC Name:** Description
-	- Role: 
-	- Motivation: 
-	- Purpose:
-	- Secret/Challenge:
-
-## Encounters / Challenges
-
+### Encounters / Challenges
 - Describe what challenge the party is trying to overcome here, and make it really clear.
 
 ```statblock

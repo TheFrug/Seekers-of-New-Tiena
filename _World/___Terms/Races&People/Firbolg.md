@@ -6,5 +6,5 @@ The Firbolgs are a race of [[Fey]] [[giantkin]] who inhabit both the [[Feywild]]
 
 ### Important Firbolgs
 
-- [[Baron Clungunford Rose]]
+- [[Clungunford Rose]]
 - 

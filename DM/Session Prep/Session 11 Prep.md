@@ -30,7 +30,7 @@ Tip
 	- Hopes to find [[Pastor Edith]] in the church ASAP
 	- Wants to discover what's up with the [[Holly|pixie that was inside the Bulette]] 
 
-- [[Malachi]]: The sole survivor of his [[Xenobium]] of [[Tellers]], the monk Malachi, is a passive observer most of the time, but he sometimes acts in unexpected ways when his heart directs it, which runs counter to the beliefs that were ingrained in him since childhood. 
+- [[Malachi]]: The sole survivor of his [[Xenobium]] of [[Teller]], the monk Malachi, is a passive observer most of the time, but he sometimes acts in unexpected ways when his heart directs it, which runs counter to the beliefs that were ingrained in him since childhood. 
 	- Wants to learn about [[Bromzheath]] and its history
 	- Wants to figure out how the party can leave with the relic they seek (the [[Earthmother's Scythe]])
 - [[Calendula Serenada]]: After being soft-exiled from her [[Seelie Court|Seelie]] [[Feywild]] home, Calendula spent some years among mortals, capturing their attention and swindling them for her amusement. However, now that she's caught wind of her best friend, [[Flint Reverie]] being alive after years missing, she is determined to find him, although doing so will lead her back into the Seelie-Unseelie conflict that saw her exiled.
@@ -166,7 +166,7 @@ Tip
  - [[Holly]] the [[Ratoska]] reveals that her employer was [[Bobby Sparkles]]
  - Ricky Rat's Break-in and Ratmancer's attempted escape 
  - Brother Merric's arrest:
-	 - Upon arrival to the scene, [[Baron Clungunford Rose]] demands that Brother Merric be detained in the holding house on suspicion of enabling an attack on the [[Church of Chauntea]]
+	 - Upon arrival to the scene, [[Clungunford Rose]] demands that Brother Merric be detained in the holding house on suspicion of enabling an attack on the [[Church of Chauntea]]
 	 - Evidence: Blocking entry into the church, being a rat
 	 - Tells party to return home for rest and asks that they investigate in the morning.
  - Calendula's Nightmare manipulated by [[Dionaea]]
@@ -190,7 +190,7 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Define Secrets and Clues]]
 %%
 
- - [[Baron Clungunford Rose|Clungunford Rose]] has the real [[Earthmother's Scythe]]
+ - [[Clungunford Rose|Clungunford Rose]] has the real [[Earthmother's Scythe]]
 
 # Develop Fantastic Locations
 

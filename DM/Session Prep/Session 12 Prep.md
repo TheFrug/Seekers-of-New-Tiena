@@ -8,7 +8,7 @@ Tip
 
 - [[Lucian Castemur Duskwood]]: A human wizard of noble blood, Lucian is driven to learn the precise truth behind the blast that ended his life ten years ago, hoping to one day restore his family's prestige.
 	- Search and Rescue [[Pastor Edith]]
-- [[Malachi]]: The sole survivor of his [[Xenobium]] of [[Tellers]], the monk Malachi, is a passive observer most of the time, but he sometimes acts in unexpected ways when his heart directs it, which runs counter to the beliefs that were ingrained in him since childhood. 
+- [[Malachi]]: The sole survivor of his [[Xenobium]] of [[Teller]], the monk Malachi, is a passive observer most of the time, but he sometimes acts in unexpected ways when his heart directs it, which runs counter to the beliefs that were ingrained in him since childhood. 
 	- Had a bad time in the Church last session, and has been both bit by [[Wererat]] [[Brother Merric]], as well as swallowed an entire diseased rat, contracting [[Effluvia Bloom]] 
 	- Observe [[Brother Merric]]'s trail, but probably not fight for him (we can convince him otherwise!)
 - [[Calendula Serenada]]: After being soft-exiled from her [[Seelie Court|Seelie]] [[Feywild]] home, Calendula spent some years among mortals, capturing their attention and swindling them for her amusement. However, now that she's caught wind of her best friend, [[Flint Reverie]] being alive after years missing, she is determined to find him, although doing so will lead her back into the Seelie-Unseelie conflict that saw her exiled.
@@ -35,7 +35,7 @@ The entire session will be the players gathering testimony for the trial of Merr
 
 Merric will either be exiled, or he will be freed. There is a chance if he is freed that the Firbolgs will require that he undergo treatment for his lycanthropy, which the party can weigh in on.
 
-Plaintiffs: [[Walter 'The Whip' Wadsworth|The Whip]], [[Baron Clungunford Rose|Clungunford]], Clungunford's Boy, concerned townsfolk
+Plaintiffs: [[Walter 'The Whip' Wadsworth|The Whip]], [[Clungunford Rose|Clungunford]], Clungunford's Boy, concerned townsfolk
 Defendants: [[Pastor Edith]] (now missing), The Party
 
 
@@ -136,7 +136,7 @@ Inside,
 
 - [[Bevin Gladstar]] knows about Merric because Pastor Edith brought Merric to Bevin to ask if they could cure him, but Merric never went through with the treatment, as he likes being a Wererat
 - [[Bevin Gladstar]] had a [[Fey]] friend named [[Airmed]], a beautiful [[Seelie Court|Seelie]] pixie who devoted her life to herbalism, learning the medicinal and poisoning properties of 365 different herbs across [[Tiena]]. She became Bevin Gladstar's patron on a whim, and while Bevin has been provided the powers of a low-level warlock, they have lost touch with these since Airmed became impossible to reach.
-- The reason Bevin's garden is not doing well is because they are one of the citizens of Bromzheath targeted by [[Baron Clungunford Rose]]'s selective use of the [[Earthmother's Scythe]]. The Rose family conspired to ruin their herbology shop because of A. its connection to the Fey and B. because the more effective it became, the less that the people of Bromzheath would have need for the [[Church of Chauntea]]'s magic. This is all what Bevin suspects, although they have no proof.
+- The reason Bevin's garden is not doing well is because they are one of the citizens of Bromzheath targeted by [[Clungunford Rose]]'s selective use of the [[Earthmother's Scythe]]. The Rose family conspired to ruin their herbology shop because of A. its connection to the Fey and B. because the more effective it became, the less that the people of Bromzheath would have need for the [[Church of Chauntea]]'s magic. This is all what Bevin suspects, although they have no proof.
 - Merric's compost farm has been helpful to [[Bevin Gladstar]]'s garden ever since Clungunford stopped consecrating it. This might help the players convince them to testify.
 
 ### NPCs
@@ -221,7 +221,7 @@ Inside,
 	- Secret/Challenge: Knows about the Conspiracy of the Earthmother's Scythe, but is 
 ### Encounters / Challenges
 
-**Opening:** The party comes to see the villagers gathered at the dirt circle, with Merric bound by silver chains to a stump at the center. Before him, there are three modest thrones, [[Baron Clungunford Rose]] sits in the central one. He is flanked by two older-looking Firbolgs, Turlough, the portly noble and a large female Firbolg. Behing Merric, there are two makeshift podiums bannered with the symbol of Chauntea. People sit and stand around the circle's edge.
+**Opening:** The party comes to see the villagers gathered at the dirt circle, with Merric bound by silver chains to a stump at the center. Before him, there are three modest thrones, [[Clungunford Rose]] sits in the central one. He is flanked by two older-looking Firbolgs, Turlough, the portly noble and a large female Firbolg. Behing Merric, there are two makeshift podiums bannered with the symbol of Chauntea. People sit and stand around the circle's edge.
 
 Clungunford gives an opening statement, mourning the tragedy that befell Bromzheath the night prior, from the Bulette attack to the attack on Pastor Edith. He explains the rule of the trial, that The Whip will be acting as the prosecution for this trial, and asks if anyone(s) would like to step forward to act as Merric's defense. 
 
@@ -240,7 +240,7 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Define Secrets and Clues]]
 %%
 - The true [[Earthmother's Scythe]] is not in Zod's possession or stolen by the Talona Cultists, it is in the possession of Baron Clungunford Rose
-- [[Baron Clungunford Rose]] has been selectively using the Earthmother's Scythe to use as a political tool, purposefully skipping [[Bevin Gladstar]]'s herb garden
+- [[Clungunford Rose]] has been selectively using the Earthmother's Scythe to use as a political tool, purposefully skipping [[Bevin Gladstar]]'s herb garden
 - 
 
 # Select Magic Item Rewards

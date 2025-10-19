@@ -86,7 +86,7 @@ The party walks Westward along the soft dirt path leading to the
 
 **Goal:** Exonerate Brother Merric from guilt while also concealing the fact that the party swiped the [[False Earthmother’s Scythe]]
 
-**Opening:** The party comes to see the villagers gathered at the dirt circle, with Merric bound by silver chains to a stump at the center. Before him, there are three modest thrones, [[Baron Clungunford Rose]] sits in the central one. He is flanked by two older-looking Firbolgs, Turlough, the portly noble and a large female Firbolg. Behind Merric, there are two makeshift podiums bannered with the symbol of [[Chauntea]]. People sit and stand around the circle's edge.
+**Opening:** The party comes to see the villagers gathered at the dirt circle, with Merric bound by silver chains to a stump at the center. Before him, there are three modest thrones, [[Clungunford Rose]] sits in the central one. He is flanked by two older-looking Firbolgs, Turlough, the portly noble and a large female Firbolg. Behind Merric, there are two makeshift podiums bannered with the symbol of [[Chauntea]]. People sit and stand around the circle's edge.
 
 Clungunford gives an opening statement, mourning the tragedy that befell [[Bromzheath]] the night prior, from the Bulette attack to the attack on [[Pastor Edith]]. He explains the rule of the trial, that The Whip will be acting as the prosecution for this trial, and asks if anyone(s) would like to step forward to act as Merric's defense, else Merric be defenseless in this trial.
 

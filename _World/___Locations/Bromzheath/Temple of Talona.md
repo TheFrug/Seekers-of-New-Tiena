@@ -82,7 +82,7 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 	- Special brews per alchemist: Alchemist's fire, Invisibility potion, Poison potion
 	- Hazards include unstable fumes (Con save or poisoned).
 	- Reckless fighting can smash poison all over the place
-- Treasure/clue: Bottle labeled _“Test Batch 7 – Clungunford Delivery.”_
+- Treasure/clue: Bottle labeled “Test Batch 7 – Clungunford Delivery.”
 
 ### Chamber 7: Ratmancer's Lair  (Secret)
 - Tag: Sanctum of Rot
@@ -118,14 +118,14 @@ As such, the Temple of Talona near [[Bromzheath]], which had historically been o
 ## Secrets
 - This temple's history shows that other than the regular cultists, there were once frequent visitors from those making offerings of appeasement to [[Talona]]. These appeasement visitations ceased sometime after Talona's death, which led to plagues declining across [[Tiena]]. After that, only the already unscrupulous [[Cult of Talona]] remained to worship her.
 	- (Religion 15) All altars come in pairs, one to belay plague, and one to evoke plague. The evoking altars are clean and show signs of use, but the belaying altars are all in states of extreme decay. 
-- The [[Cult of Talona]] has been working for [[Baron Clungunford Rose]] for years. However, having caught onto Clungunford's plan to arm the [[Bromzheath Militia]] via trade deal with [[Brenwin's Caravan]], they have decided now is the time to set their plan into motion
-	- The note [[Baron Clungunford Rose|Clungunford]] gave the party to give to the Cultists reads: ""
+- The [[Cult of Talona]] has been working for [[Clungunford Rose]] for years. However, having caught onto Clungunford's plan to arm the [[Bromzheath Militia]] via trade deal with [[Brenwin's Caravan]], they have decided now is the time to set their plan into motion
+	- The note [[Clungunford Rose|Clungunford]] gave the party to give to the Cultists reads: ""
 - The next step in the [[Cult of Talona]]'s big plan is to take back the [[Decanter of Unending Filth]] that Clungunford took as collateral.
 
 ### Party-Specific
 - [[Zod Byldamur|Zod]]: 
 - [[Lucian Castemur Duskwood|Lucian]]: The **lab** has a book in it with the Duskwood family crest. This book, written by [[Harken Duskwood]], details best practices for death domain cleric rituals, and has a characteristic pompous writing similar to that of [[Isadora Duskwood]]
-- [[Malachi]]: The temple was visited by a lone [[Tellers|Teller]], who took it upon himself to travel the continent informing temples of the truth: that some of the gods are dead, and have been for many years. This Teller, [[Joachim]], was medically tortured to death by the [[Cult of Talona]] for spreading what they saw as heresy.
+- [[Malachi]]: The temple was visited by a lone [[Teller|Teller]], who took it upon himself to travel the continent informing temples of the truth: that some of the gods are dead, and have been for many years. This Teller, [[Joachim]], was medically tortured to death by the [[Cult of Talona]] for spreading what they saw as heresy.
 - [[Calendula Serenada|Calendula]]: [[Ratmancer]] perceives Calendula as an [[Unseelie Court|Unseelie]] Fae because of her [[Redwood Panpipes]] 
 
 ## Boss / Climax

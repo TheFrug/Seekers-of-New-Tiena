@@ -6,19 +6,19 @@
 - **Aesthetic**: 
 - **Symbol/Icon**: 
 	- Main: Rose 
-	+ [[Baron Clungunford Rose|Clungunford’s]] branding: Boar-themed logo
+	+ [[Clungunford Rose|Clungunford’s]] branding: Boar-themed logo
 
 ## Leadership & Power Structure
-- **Leader**: (Name, title, personality traits)
+- **Leader**: [[Clungunford Rose]]
 - **Chain of Command**:
-  - (2nd in command and notable lieutenants)
+  - Other members of the Rose family like [[]]
   - (Field agents, foot soldiers, etc.)
 - **Base of Operations**: (Headquarters, territory, influence zones)
 
 ## Goals
 - **Primary Objective**: Maintain reputation and control over [[Bromzheath]] while steadily consolidating power to eventually establish a kingdom.
 - **Long-Term Agenda**: Baron Clungunford Rose’s agenda is to be the first king of [[Bromzheath]], establishing a hierarchy with himself at the top.
-- **Current Activities**: [[Baron Clungunford Rose]] has been preparing for a grand feast celebrating the butchering of [[old Mabel]], an elderly, yet healthy boar. This is planned by Clungunford to invite [[Brenwin's Caravan]] to a delicious meal, hoping to strike a deal for a large delivery of armor to arm the [[Bromzheath Militia]]. 
+- **Current Activities**: [[Clungunford Rose]] has been preparing for a grand feast celebrating the butchering of [[old Mabel]], an elderly, yet healthy boar. This is planned by Clungunford to invite [[Brenwin's Caravan]] to a delicious meal, hoping to strike a deal for a large delivery of armor to arm the [[Bromzheath Militia]]. 
 - Quests: 
 
 ## Means

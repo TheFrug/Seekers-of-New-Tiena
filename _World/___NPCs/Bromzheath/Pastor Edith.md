@@ -24,7 +24,7 @@ The head of the [[Church of Chauntea]]. Kindly explained what she knew of the Ea
 
 ## Roleplaying
  - **Wants and Needs:** To safeguard the people of [[Bromzheath]], especially its orphans and downtrodden
- - **Secret or Obstacle:** [[Pastor Edith]] knows that [[Baron Clungunford Rose]] has been making selective use of the  [[Earthmother's Scythe]], but does not know to what extent.
+ - **Secret or Obstacle:** [[Pastor Edith]] knows that [[Clungunford Rose]] has been making selective use of the  [[Earthmother's Scythe]], but does not know to what extent.
  - **Carrying:** A rough draft of a book on the aromatics of flowerbeds, 8 sp, a small wand with a rose at its tip.
 
 
@@ -37,5 +37,5 @@ The head of the [[Church of Chauntea]]. Kindly explained what she knew of the Ea
 
 
 ### NPCs:
-- [[Baron Clungunford Rose]]: Aunt, spiritual mentor, co-conspirator and victim of the [[Conspiracy of the Earthmother's Scythe]]
+- [[Clungunford Rose]]: Aunt, spiritual mentor, co-conspirator and victim of the [[Conspiracy of the Earthmother's Scythe]]
 - [[Brother Merric]]: Mentor, guardian, confidant
