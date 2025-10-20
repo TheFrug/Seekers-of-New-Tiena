@@ -37,15 +37,13 @@ In his mind, Zod is standing on a dry cliff in a mountainous region with a hazy 
 - If players access the Ratmancer's Lair, they can find a journal with frantic scrawling about the "Rosy Bull" ([[Clungunford Rose]]) and how the [[Cult of Talona]] will reclaim their lost [[Relic]]: the [[Decanter of Unending Filth]], from him no matter the cost.
 
 ### READ ALOUD
-
 You enter through the cramped stone archway into a small laboratory. The stagnant stench of the rest of the dungeon now pales in comparison to the multifaceted, nuanced rankness of this chamber. Inside there are bubbling cauldrons with various hues of muck encrusted around the rims, body parts lying on tables with pins holding them in place, and vials of empty and full potion bottles lining the shelves on the walls. At the opposite end of the room, there is a stone statue of a Rat statue. 
 At one table, a rat in a lab coat haunches over a collection of bubbling vials and test tubes. With a twitch, he turns towards the party with a crazed look in his eye before loading his automatic crossbow with vials and screeching: "Sewer skewers for everyone!"
-
 ### Key Details
 
 #### NPCs Involved
 - **NPC Name:** [[Pastor Edith]]
-	- Catch-up: Edith has just been rescued from having her soul drained as part of a ritual to summon the [[Herald of Rot]]. However, she is in a bad state and will need medicine, likely from [[Bevin Gladstar]] to heal. This is a sick narrative moment because Edith and the [[Conspiracy of the Earthmother's Scythe]] are the reason for [[Bevin Gladstar]]'s outdoor farm doing so poorly these past few years, as well as [[Fiona]]'s parents who were actually killed via poison from eating crops [[Clungunford Rose]] had given Talonan poison
+	- Catch-up: Edith has just been rescued from having her soul drained as part of a ritual to summon the [[Herald of Rot]]. However, she is in a bad state and will need medicine, likely from [[Bevin Gladstar]] to heal. This is a sick narrative moment because Edith and the [[Conspiracy of the Earthmother's Scythe]] are the reason for [[Bevin Gladstar]]'s outdoor farm doing so poorly these past few years, as well as [[Fiona]]'s parents who were actually killed via poison from eating crops [[Clungunford Rose]] had given Talonian poison
 	- Motivation: Survive. If can be communicated with, will ask if '[[Clungunford Rose|lil' Gunford]]' sent for them, if he's worrying about his auntie. She is grateful for the party's help
 	- Secret/Challenge: She doesn't want to believe that [[Clungunford Rose]] set her up to be killed in order to monopolize the [[Earthmother's Scythe]]. 
 		- If she realizes her life was given up for his plans, DC 20 Persuasion check: she can see reason and agree tell the party what she knows about the [[Conspiracy of the Earthmother's Scythe]], which is that [[Clungunford Rose]] has the true scythe and uses it selectively to gain power and control the people of [[Bromzheath]].
@@ -57,12 +55,12 @@ At one table, a rat in a lab coat haunches over a collection of bubbling vials a
 - Spreadsheet of poisons/diseases requested by various sources, including powerful families and royalty from across [[Tiena]]. Columns: Ingredients and Dosages, recipient name, craftsman's signature, date, and status of completion.
 	- Notable names: 
 	- [[Clungunford Rose]]
-	- [[Felix Duskwood]], written in a cipher familiar to [[Lucian Castemur Duskwood]], older order
-	- [[Theron Ashford]], written without Cipher, and dated for sometime in the last few months
+	- [[Isadora Duskwood]], written in a cipher familiar to [[Lucian Castemur Duskwood]], older order
+	- [[Desmond Ashford]], written without Cipher, and dated for sometime in the last few months
 - On one of the cleaner shelves, the party finds a beautiful-looking bottle with a label that reads "Test Batch 7 – Clungunford Delivery", as well as three unlabeled potions of positive effect.
 	- https://randomtablesrpg.com/fantasy/ultimate-random-potion-table-for-dnd-5e/
 - DC 15 Investigation check: A locked box sealed with a tar-black wax that burns to the touch and displays the mark of [[Talona]]. It can be opened via magic of a cleric or devotee of [[Talona]] (like [[Brother Merric]]) or forced open by powerful tools.
-	- Inside, there is a vial of an insanely potent and contagious illness, which is the [[Opus of Contagion]]. Merric sees it as incredibly dangerous and deserving of being destroyed.
+	- Inside, there is a vial of an insanely potent and contagious illness, which is the [[Opus of Contagion]]. Merric sees it as incredibly dangerous and deserving of being destroyed. 
 - The rat statue has a riddle engraved in it. Tracing the answer in diseased blood opens the door to the Ratmancer's lair
 	- Riddle:
 		Unseen I kiss the young and old 
@@ -71,10 +69,8 @@ At one table, a rat in a lab coat haunches over a collection of bubbling vials a
 		All fight, bannerless, in my war 
 		Bear my footprints, chase your death 
 		Breathe my silence, cease your breath
-
 ### Encounters / Challenges
 - Combat with [[Twitch the Lab Rat]]
-
 ```statblock
 name: Twitch the Lab Rat
 source: 5e SRD
@@ -139,19 +135,17 @@ monster: Wererat
 - Answer: Plague
 
 ### Leaving the Temple
-- Sleuf Softmane stands over reeking the corpse of a lab rat, telling the party that he needs their help. He is accompanied by [[Reynauld Stonehoof]]. 
-	- Sleuf was given their location by the Unseelie Fae, as the [[Redwood Panpipes]] give [[Dionaea]] and by extension [[Flint Reverie]] insight into [[Calendula Serenada]]'s location.
+- [[Sleuf Softmane]] stands over reeking the corpse of a lab rat, telling the party that he needs their help. He is accompanied by [[Reynauld Stonehoof]]. 
+	- Sleuf was given their location by the Unseelie Fae, as the [[Redwood Panpipes]] give [[Dionaea]] and by extension [[Flint Reverie]] insight into [[Calendula Serenada]]'s location. 
 - He can carry [[Pastor Edith]] home, as he can tell she needs help. 
 - Along the way, he explains his people, the [[Magram Tribe]], are staying nearby
 	- [[Bromzheath]] stands in the way of their [[High Hunt]]. 
 	- The wardens are recommending a slight re-route, but the [[Unseelie Court]] operatives helping the Centuars rest are suggesting a violent trampling of [[Bromzheath]] to occur the following night.
 - During the ride home, [[Calendula Serenada]] falls asleep and speaks to [[Dionaea]]
 - [[Dionaea]] commends Calendula on defeating the [[Cult of Talona]], and tells her she can be rewarded if she likes.
-	- If she says yes, on next long rest: A [[Charlatan's Die]] under her pillow
+	- If she says yes, on next long rest: A [[Charlatan's Die]] under her pillow.
 
 ### When Malachi attunes with Silksail
-
-
 
 ## Meeting with the Magram Tribe
 

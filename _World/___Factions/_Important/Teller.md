@@ -6,6 +6,6 @@ Tellers wear a pin crafted from resources local to wherever that Teller started 
 
 ###  Notable Tellers
 - [[Malachi]]
-- [[Haggai]]
+- [[Haggai 1]]
 - [[Hosea, the Earful]]
 - [[Durin the Lash]]

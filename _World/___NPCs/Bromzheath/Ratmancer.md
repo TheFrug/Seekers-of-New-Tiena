@@ -1,6 +1,3 @@
-
-
-
 The Ratmancer is a [[Talona]] cultist who has a supernatural ability to control a swarm of rats. He can also transform into a rat to hide amongst his swarm
 
 ```statblock  

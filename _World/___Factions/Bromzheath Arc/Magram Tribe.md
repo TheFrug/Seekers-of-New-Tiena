@@ -7,7 +7,7 @@
 ![[latest-1993141531.webp]]
 ## Leadership & Power Structure
 - **Leader**: [[Garmos Anth-Malar]]
-- **Power Structure**:
+- **Power Structure**: 
   - Alpha Horse: Leads and protects the herd. Often a strong, dominant figure
   - Wardens: Herd strategists, responsible for directing the herd's travel to new sources of food/water. Wardens lead scout troops, handle negotiations with other civilizations, and in general take on the more stressful tasks so their herdmates can focus on the hunt
 	  - [[Sleuf Softmane]]
