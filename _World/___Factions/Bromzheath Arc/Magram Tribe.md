@@ -24,7 +24,7 @@
 - **Tactics**: Primitive weapons meet remarkable coordination and agility.
 - **Assets**:
 - **Allies & Rivals**:
-	- Allies: The centaur tribe has been in contact with agents of the [[Unseelie Court]] for some time. [[Flint Reverie]] specifically has done a lot to convince the leader of the tribe, [[Garmos Anth-malar]], that the centaur must trample [[Bromzheath]] down during [[High Hunt]], rather than simply path around it as some are suggesting (like [[Sleuf Softmane]])
+	- Allies: The centaur tribe has been in contact with agents of the [[Unseelie Court]] for some time. [[Flint Reverie]] specifically has done a lot to convince the leader of the tribe, [[Garmos Anth-Malar]], that the centaur must trample [[Bromzheath]] down during [[High Hunt]], rather than simply path around it as some are suggesting (like [[Sleuf Softmane]])
 	- Rivals: [[Ebenezer's Pack]] of werehumans, who, as devotees of Malar, see the centaurs as fair game (literally!)
 
 ## Members
@@ -41,7 +41,7 @@
 ## Hooks & Notes
 - **Adventure Hooks**: (Ways the party might get involved)
 - **Secrets**: (Hidden goals, betrayals, forbidden knowledge)
-- **DM Notes**: The centaur tribe has been in contact with agents of the [[Unseelie Court]] for some time. [[Flint Reverie]] specifically has done a lot to convince the leader of the tribe, [[Garmos Anth-malar]], that the centaur must trample [[Bromzheath]] down during [[High Hunt]], rather than simply path around it as some are suggesting (like [[Sleuf Softmane]])
+- **DM Notes**: The centaur tribe has been in contact with agents of the [[Unseelie Court]] for some time. [[Flint Reverie]] specifically has done a lot to convince the leader of the tribe, [[Garmos Anth-Malar]], that the centaur must trample [[Bromzheath]] down during [[High Hunt]], rather than simply path around it as some are suggesting (like [[Sleuf Softmane]])
 
 ---
 

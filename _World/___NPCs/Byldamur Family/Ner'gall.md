@@ -33,7 +33,6 @@ He now possesses Zod Byldamur alongside seven other ancestors of the [[Byldamur 
  - **Significant Flaw:** Evil as fuck and not subtle about it. Has totally gone insane over the course of his rule and relishes doing bad stuff
  - **Carrying:**
 
-
 ## Backstory
 
 
