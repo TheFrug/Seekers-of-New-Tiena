@@ -3,7 +3,6 @@
 > 
 > > [!tip] You will only see comments in Editing view and the embeds will only render if your Default Editing Mode is set to `Live Preview` (Settings > Editor > Default editing mode).
 %%
-
 # Review the Characters
 
 %%
@@ -14,7 +13,6 @@ Tip
 - [[Zod Byldamur]]: Reconnect with Ner'Gall + investigate other family members spirits.
 - [[Calendula Serenada]]: See [[Flint Reverie]]
 - [[Malachi]]: 
-
 
 # Create a Strong Start
 

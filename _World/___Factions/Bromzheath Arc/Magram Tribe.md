@@ -44,5 +44,3 @@
 - **DM Notes**: The centaur tribe has been in contact with agents of the [[Unseelie Court]] for some time. [[Flint Reverie]] specifically has done a lot to convince the leader of the tribe, [[Garmos Anth-Malar]], that the centaur must trample [[Bromzheath]] down during [[High Hunt]], rather than simply path around it as some are suggesting (like [[Sleuf Softmane]])
 
 ---
-
-

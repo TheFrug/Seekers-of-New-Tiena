@@ -1,7 +1,7 @@
 ## Overview
 - **Type**: Wealthy Landowner family whose lineage hails from the last chief of the [[Firbolg]] of [[Bromzheath]]
 - **Reputation:** 
-	- Most of public respects and trusts the Rose family, as tradition holds that the Rose family is responsible for consecrating the fields which are so important to Romzheath
+	- Most of public respects and trusts the Rose family, as tradition holds that the Rose family is responsible for consecrating the fields which are so important to Bromzheath
 	- The wealthier, more educated houses respect and fear the Rose family, as they are aware of how much influence they have, including the [[Conspiracy of the Earthmother’s Scythe]]
 - **Aesthetic**: 
 - **Symbol/Icon**: 
@@ -33,7 +33,7 @@
 - **Demographic:** (characteristics, races, classes)
 - **Culture & Values**: (Code of conduct, internal beliefs)
 - **Notable Members**:
-  - Name – Role (Short note about them)
+  - [[Primrose Rose]]: [[Clungunford Rose]]'s daughter. Clungunford wants to arrange for her to be wed to a noble like [[Lucian Castemur Duskwood]].
 
 ## Hooks & Notes
 - **Adventure Hooks**: (Ways the party might get involved)

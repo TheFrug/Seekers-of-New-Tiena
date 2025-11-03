@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "798ebafd34fba925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/Session Prep/Session 17 Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 17 Prep"
-            }
-          },
-          {
             "id": "1a46dcf9fe416ba2",
             "type": "leaf",
             "state": {
@@ -48,8 +34,142 @@
               "icon": "lucide-file",
               "title": "Leaf Dancer"
             }
+          },
+          {
+            "id": "75f1c4865c7e692c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Brother Merric.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brother Merric"
+            }
+          },
+          {
+            "id": "2052b77c2e524121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Ricky Rat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ricky Rat"
+            }
+          },
+          {
+            "id": "d92874d629fec56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Bevin Gladstar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bevin Gladstar"
+            }
+          },
+          {
+            "id": "527ced7615542d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Session Prep/Session 12 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 12 Prep"
+            }
+          },
+          {
+            "id": "3026b1f46abaa059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___Factions/Bromzheath Arc/Rose Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rose Family"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "5d17d3116388ba28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "798ebafd34fba925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Session Prep/Session 17 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 17 Prep"
+            }
+          },
+          {
+            "id": "2e367397cf849113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Ethereal Song.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ethereal Song"
+            }
+          },
+          {
+            "id": "1891ad60c0ccf0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Clungunford Rose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clungunford Rose"
+            }
+          },
+          {
+            "id": "fb9f1154d4244a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Brenwin Al-avik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brenwin Al-avik"
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/Session Prep/Session 16 Prep.md",
+                "file": "_World/___Factions/Bromzheath Arc/Rose Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 16 Prep"
+              "title": "Backlinks for Rose Family"
             }
           },
           {
@@ -212,9 +332,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d71497787c7cfa0",
+  "active": "3026b1f46abaa059",
   "lastOpenFiles": [
+    "_World/___NPCs/Bromzheath/Brenwin Al-avik.md",
+    "Brenwin.md",
+    "_World/___Factions/Bromzheath Arc/Rose Family.md",
+    "DM/Session Prep/Session 17 Prep.md",
+    "_World/___NPCs/Bromzheath/Ethereal Song.md",
     "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
+    "_World/___Locations/Bromzheath/Honeydrop Hall.md",
+    "DM/Session Prep/Session 12 Prep.md",
+    "_World/___NPCs/Bromzheath/Clungunford Rose.md",
+    "Leaf Dancer.md",
+    "_World/___NPCs/Bromzheath/Ricky Rat.md",
+    "_World/___NPCs/Bromzheath/Bevin Gladstar.md",
+    "_World/___Factions/Bromzheath Arc/Bromzheath Militia.md",
+    "_World/___NPCs/Bromzheath/Brother Merric.md",
+    "DM/Session Prep/Session 13 Prep.md",
+    "Airmed.md",
+    "DM/Session Prep/Session 11 Prep.md",
     "_World/___NPCs/Important/Desmond Ashford.md",
     "_World/___NPCs/Bromzheath/Kotiri Byldamur.md",
     "Pasted image 20251023165147.png",
@@ -226,20 +362,7 @@
     "Mechanics/z_Templates/dm/compendium/items/alchemists-fire-xphb.md",
     "_World/___Factions/Bromzheath Arc/Cult of Talona.md",
     "_World/___NPCs/Pantheon/Talona.md",
-    "_World/___Items/Treasure/Charlatan's Die.md",
-    "_World/___NPCs/Unseelie Court/Flint Reverie.md",
-    "_World/___NPCs/Bromzheath/Garmos Anth-Malar.md",
-    "_World/___Terms/Events/High Hunt.md",
-    "_World/___Items/Treasure/Opus of Contagion.md",
-    "_World/___NPCs/Bromzheath/Sleuf Softmane.md",
-    "_World/___NPCs/Bromzheath/Reynauld Stonehoof.md",
     "Mechanics/z_Assets/Images/latest-1993141531.webp",
-    "_World/___NPCs/Bromzheath/Fiona.md",
-    "_World/___Terms/Events/Conspiracy of the Earthmother’s Scythe.md",
-    "Ner'gall.md",
-    "Mechanics/z_Assets/Images/Gul'dan_WoD-36740279.png",
-    "_World/___NPCs/Bromzheath/Pastor Edith.md",
-    "Twitch the Lab Rat.md",
-    "Reckoners.md"
+    "Mechanics/z_Assets/Images/Gul'dan_WoD-36740279.png"
   ]
 }

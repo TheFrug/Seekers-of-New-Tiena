@@ -19,6 +19,9 @@ Race:
 - **Alignment:** Neutral Good
 - **Appearance:** Shaggy hair that covers his eyes, earthen brown robes fastened with a rose pin. Has a thin moustache and slightly sharp fingernails. Inky tattoos stretching from head to limbs, covered by robes
 
++6 Gold
+Make disguises for Lucian and party. Uses cloaks from [[Brenwin Al-avik]]'s caravan.  [[Brenwin]]
+
 ## Summary
 Brother Merric is a devout cleric who lives under the [[Church of Chauntea]] in [[Bromzheath]]. Merric is a [[wererat]], having gained lycanthropy during his time in the [[Cult of Talona]]. However, Merric has no loyalty to the plaguemother, and instead devotes himself to attonement through his devotion to Chauntea. Merric has drawn suspicion from more ignorant Firbolgs, such as [[Clungunford Rose]], but is ultimately a good person.
 
@@ -37,7 +40,6 @@ After many years living amongst cultists of [[Talona]], and growing increasingly
 Settling in [[Bromzheath]], Merric was subject of both curiosity and suspicion from the native [[Firbolg|Firbolgs]] of Bromzheath. This came to an end (at least publicly) precisely when [[Pastor Edith]] took Brother Merric in as a cleric of [[Chauntea]]. Merric was moved to tears by Edith's sermons, and was granted a home in the basement of the church, where he would grow mushrooms and other corpse flowers with help from Edith.
 
 ## Connections
-
 
 ### Players:
 **The Party:** Brother Merric met the party shortly after their arrival in Bromzheath. He quickly explained to them his past as a wererat and the presence of the [[Cult of Talona]] near Bromzheath. After the [[memory bolt]] incident with Pastor Edith, Merric stayed behind and kept the church closed while the party went to Clungunford, allowing the Cult of Talona to attack in the night, kidnapping Pastor Edith to use in a ritual.

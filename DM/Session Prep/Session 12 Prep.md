@@ -115,7 +115,7 @@ In the town square, on the opposite side as the church, there is chatter around 
 ### Treasures Given
 - For Zod: [[Bantium Sander]]: Made from the scales of the dragon Bant, this sander can smooth any surface
 - For the party: a 15% discount on anything in the limited stock category: https://drive.google.com/file/d/11cn7EmHDQpCzYWqqQ4BTMbmAA61oxtTv/view
-- For the party: A [[Sun Medallion]]. If the party ever finds themselves in Al Qonidar, they can flash that medallion anywhere and the people will trust them.
+- For the party: A [[Sun Medallion]]. If the party ever finds themselves in [[Al-Qonidar]], they can flash that medallion anywhere and the people will trust them.
 
 ## Herbalist Shop
 
