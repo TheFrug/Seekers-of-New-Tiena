@@ -43,7 +43,7 @@ Holly is a [[Ratoska]], a kind of faerie that loves to tell the truth. She was f
 
 #### Players:
 - [[Calendula Serenada]]: Holly has heard about Calendula from [[Flint Reverie]]
-- [[Bobby Sparkles]]: Works under an [[Eladrin]] of the Unseelie court who  
+- [[Bobby Sparkles]]: Works under an [[Eladrin]] of the Unseelie court who
 
 
 #### NPCs:
