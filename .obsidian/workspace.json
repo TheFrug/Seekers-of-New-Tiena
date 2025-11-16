@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "5d17d3116388ba28",
@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_World/___NPCs/Bromzheath/Brenwin Al-avik.md",
+                "file": "DM/Session Prep/Session 17 Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brenwin Al-avik"
+              "title": "Session 17 Prep"
             }
           }
         ],
@@ -304,23 +304,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d92874d629fec56c",
+  "active": "fb9f1154d4244a5d",
   "lastOpenFiles": [
-    "_World/___Terms/Events/Conspiracy of the Earthmother's Scythe.md",
-    "_World/___Terms/Events/War of the Gods.md",
-    "_World/___Terms/Events/Patchwork Apotheosis.md",
-    "Leaf Dancer.md",
-    "Brenwin.md",
+    "_World/___NPCs/Bromzheath/Ricky Rat.md",
     "DM/Session Prep/Session 17 Prep.md",
-    "_World/___NPCs/Bromzheath/Bevin Gladstar.md",
-    "DM/Session Prep/Session 12 Prep.md",
-    "_World/___Factions/Bromzheath Arc/Rose Family.md",
     "_World/___NPCs/Bromzheath/Brenwin Al-avik.md",
-    "_World/___NPCs/Bromzheath/Ethereal Song.md",
     "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
+    "_World/___Factions/Bromzheath Arc/Rose Family.md",
+    "Brenwin.md",
+    "_World/___NPCs/Bromzheath/Ethereal Song.md",
     "_World/___Locations/Bromzheath/Honeydrop Hall.md",
     "_World/___NPCs/Bromzheath/Clungunford Rose.md",
-    "_World/___NPCs/Bromzheath/Ricky Rat.md",
+    "Leaf Dancer.md",
+    "_World/___NPCs/Bromzheath/Bevin Gladstar.md",
     "_World/___Factions/Bromzheath Arc/Bromzheath Militia.md",
     "_World/___NPCs/Bromzheath/Brother Merric.md",
     "DM/Session Prep/Session 13 Prep.md",
