@@ -11,9 +11,10 @@
 ## Leadership & Power Structure
 - **Leader**: [[Clungunford Rose]]
 - **Chain of Command**:
-  - Other members of the Rose family like [[]]
+  - Other older members of the Rose family like [[Pastor Edith]], [[Broome Rose]]. 
+  - Clungunford's Parents
   - (Field agents, foot soldiers, etc.)
-- **Base of Operations**: (Headquarters, territory, influence zones)
+- **Base of Operations**: [[Rose Estate]], [[Bromzheath]]
 
 ## Goals
 - **Primary Objective**: Maintain reputation and control over [[Bromzheath]] while steadily consolidating power to eventually establish a kingdom.
@@ -33,8 +34,9 @@
 - **Demographic:** (characteristics, races, classes)
 - **Culture & Values**: (Code of conduct, internal beliefs)
 - **Notable Members**:
-  - [[Primrose Rose]]: [[Clungunford Rose]]'s daughter. Clungunford wants to arrange for her to be wed to a noble like [[Lucian Castemur Duskwood]].
-
+  - [[Primrose Rose]]: [[Clungunford Rose]]'s daughter. Clungunford wants to arrange for her to be wed to a noble like [[Lucian Castemur Duskwood]]
+  - [[Brave Rose]]: 
+  - [[Broome Rose]]: Clungunford Rose's 
 ## Hooks & Notes
 - **Adventure Hooks**: (Ways the party might get involved)
 - **Secrets**: (Hidden goals, betrayals, forbidden knowledge)

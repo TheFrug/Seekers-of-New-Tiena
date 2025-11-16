@@ -46,6 +46,8 @@ Settling in [[Bromzheath]], Merric was subject of both curiosity and suspicion f
 
 The next day, the party testified in Brother Merric's defense during the trial of Brother Merric. Despite his unwanted transformation, the party was able to convince the elders that he was instrumental to the party locating the [[Temple of Talona]]. He is now assigned as the party's guide on their next mission.
 
+After helping the party take down the Temple of Talona, Merric returned to the [[Church of Chauntea]] to lead rebuilding efforts and return to his hovel, which had been trashed by [[Clungunford Rose]]'s boys. 
+
 ### NPCs:
 
 **[[Clungunford Rose]]:** Clungunford has never treated Merric with much respect, and this only got worse after Edith's kidnapping. Clungunford tried every manipulative trick in the book to ensure that Merric would be found guilty and exiled, hoping he would take the fall for the attack on Pastor Edith, which Clungunford had orchestrated alongside the Cult of Talona.

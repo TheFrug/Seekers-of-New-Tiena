@@ -76,7 +76,7 @@ The party walks Westward along the soft dirt path leading to the
 	- Personality: Aggressive old man, doesn't seem too bright
 	- Motivation: Loyal to Clungunford, believes in the dominance of the strong (him and his family)
 	- Secret/Challenge: Knows about the Conspiracy of the Earthmother's Scythe, actively benefits from keeping it secret, and doesn't mind
-- **Wintha Dovemeal:**
+- **[[Wintha Dovemeal]]:**
 	- Role: Elder
 	- Personality: Kind older lady, like Lena from [[Disco Elysium]]
 	- Motivation: Friend of Pastor Edith, wants more than anything for her to be saved

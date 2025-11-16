@@ -11,7 +11,7 @@ Race: "[[Firbolg]]"
 
 ## Description
 - **Name:** Clungunford Rose
-- **Race/Species:** Firbolg
+- **Race/Species:** [[Firbolg]]
 - **Gender:** Male
 - **Age:** Early-forties
 - **Occupation/Class:** Earl
