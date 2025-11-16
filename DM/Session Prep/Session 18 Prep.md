@@ -20,12 +20,7 @@ Tip
 
 # Create a Strong Start
 
-%%
-Tip
-![[The Eight Steps of Lazy RPG Prep#Create a Strong Start]]
-%%
-
-The party awakes in Koko's guest bedroom. They are still groggy from last night's escapades, but are happy to be back among family.
+With their new clothes and equipment bought, 
 
 # Outline Potential Scenes
 
@@ -71,6 +66,49 @@ Tip
 - **[[Brother Merric]]**
 	- Motivation: Help the party with the negotiations by channeling his inner Talonan cultist, which is easy as he is an ex-member
 	- Secret/Challenge: Acting like a cultist after having to prove his innocence just days ago is messing with Merric's head, and kind of sucks for him tbh.
+
+### Encounters / Challenges
+- The Magram tribe has many powerful Centaurs, but the party would only ever fight a soft-hoof squad if ever a fight broke out, as the Magram would use it as a chance to test their young.
+
+```statblock
+monster: Centaur
+```
+- The Fae that are stationed in the Magram Tribe's territory are fearsome, and are also the squad that will raid the [[Honeydrop Hall]] when the chance arises. They are led by [[Flint Reverie]], a powerful user of enchantment magic.
+```statblock  
+name: Flint Reverie
+size: Small  
+type: Fey  
+alignment: lawful evil  
+ac: 15
+hp: 90
+hit_dice: 20d6+20
+speed: 30 ft., Flight 20ft.
+stats: [10, 18, 14, 16, 14, 20]  
+skillsaves:  
+- Deception: 13
+- Perception: 8
+- Stealth:7
+- Sleight of Hand: 7
+damage_resistances: Necrotic, Radiant
+condition_immunities: Charmed, Frightened
+senses: Darkvision 60ft., Passive Perception 12
+languages: Common, Sylvan
+cr: 5
+traits:
+- [Legendary Resistance (3/Day), If Flint Reverie fails a saving throw, it can choose to succeed instead.]
+actions: 
+- [Multiattack, Flint Reverie makes two attacks and a Beguiling Whisper every turn]
+- [Poison Blade, "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 7 (1d4 + 3) piercing damage plus 7 (2d6) poison damage."] 
+- [Spectral Card. _Melee or Ranged Spell Attack:_ +6 to hit, reach 5 ft. or range 60 ft., one target. _Hit:_ 8 (1d10 + 3) force damage plus 5 (1d10) damage that is radiant if the d10 roll is an even number and necrotic if it's odd.] 
+reactions:
+- [Shuffle Destiny, When a creature the Flint can see within 30 feet of itself makes an ability check, an attack roll, or a saving throw, the riffler can magically force that creature to roll a d6 and either add the number rolled to the total or subtract it from the total (Flint's choice), potentially changing the outcome.]
+legendary_actions:
+  - name: Destined Jaunt
+    desc: Flint magically teleports to an unoccupied space he can see within 30 feet
+  - name: Cunning
+    desc: Flint Reverie escapes nonmagical restraints and ends the grappled condition on himself, then moves up to his speed without provoking opportunity attacks.
+```
+
 ## Rose Estate Ball
 
 ### Scene Goals

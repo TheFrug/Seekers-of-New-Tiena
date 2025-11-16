@@ -29,6 +29,8 @@ When [[Calendula Serenada]] was a young sprite, she was an outcast with very few
 
 Flint is a Cultural Ambassador, responsible for communicating with "grey zone" Fae, pushing Unseelie goals forward by appealing to their shared cultural roots as Fae. His job is to make first contact with a neutral faction like the [[Magram Tribe]], acting as the friendly face of the Unseelie Court in the region. He then enacts a plan, often twisting the target's traditions or beliefs into a form that suits the Unseelie Court, and especially [[Dionaea]]'s needs.
 
+Flint's pact with [[Dionaea]] has given him some dominion over the forces of fate and chance, in part thanks to his longstanding relationship with chance via gambling. Thematically, this reflects Flint's desire to have control over his own fate. Having spent his life with others expectations looming over him, he craves control, but his way of gaining it has left him dancing on Dionaea's puppet strings.
+
 ## Roleplaying
  - **Wants and Needs:** Flint wants nothing more than to be free to do as he pleases, causing some trouble and making others laugh. However, now that he owes his life to the Unseelie, he works for their goals, including their expansionism. However, he also wants to change their ways from the inside, always looking to find less violent solutions to problems.
  - **Secret or Obstacle:** 
@@ -51,46 +53,37 @@ Flint is a Cultural Ambassador, responsible for communicating with "grey zone" F
 - [[Dionaea]]: Unseelie Queen and Flint's patron, providing him with incredible Fae power.
 
 ## Statblock
-
-statblock
+```statblock  
 name: Flint Reverie
-source: BMT p.46
-size: Small or Medium  
-type: fey  
-alignment: typically neutral evil  
-ac: 18 (Veiled Presence)  
-hp: 156  
-hit_dice: 24d8 + 48  
-speed: 40 ft.  
-stats: [10, 20, 15, 20, 16, 18]  
-saving_throws:  
-- DEX: +9  
-- INT: +9  
+size: Small  
+type: Fey  
+alignment: lawful evil  
+ac: 15
+hp: 90
+hit_dice: 20d6+20
+speed: 30 ft., Flight 20ft.
+stats: [10, 18, 14, 16, 14, 20]  
 skillsaves:  
-- Deception: +12  
-- Perception: +7  
-- Stealth: +13  
-condition_immunities: Charmed, Frightened  
-senses: Blindsight 30 ft., Passive Perception 17  
-languages: Common, Thieves' Cant, one additional language  
-cr: 11  
-xp: 7,200 (8,400 in lair)  
-pb: +4  
-
-traits:  
-- [Legendary Resistance (3/Day), If Flint fails a saving throw, he can choose to succeed instead.]  
-- [Veiled Presence, Flint’s AC includes his Wisdom modifier. He can’t be targeted by divination magic or features that would read his mind or determine his creature type.]  
-
-actions:  
-- [Multiattack, Flint makes two **Poison Blade** attacks and can use **Beguiling Whisper**.]  
-- [Poison Blade, *Melee or Ranged Weapon Attack:* +9 to hit, reach 5 ft. or range 60 ft., one target. *Hit:* 7 (1d4 + 5) piercing damage plus 11 (2d10) poison damage.]  
-- [Beguiling Whisper, Flint magically whispers to a creature he can see within 30 ft. The target must succeed on a DC 17 Wisdom saving throw or be **stunned** (from fear or delight, Flint’s choice) until the end of its next turn. The target is immune to this effect for 24 hours afterward.]  
-
-reactions:  
-- [Uncanny Dodge, When an attacker Flint can see hits him with an attack, he halves the attack’s damage.]  
-
-legendary_actions:  
-- Flint can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. He regains spent actions at the start of his turn.  
-- [Cunning, Escapes nonmagical restraints and ends the grappled condition, then moves up to his speed without provoking opportunity attacks.]  
-- [Stab (Costs 2 Actions), Makes one **Poison Blade** attack.]  
-- [Misdirecting Escape (Costs 3 Actions), Flint becomes **invisible**, creates an illusory duplicate, and teleports up to 15 ft. The image flings illusory blades at two creatures within 20 ft. of it. Each must make a DC 17 Wisdom saving throw, taking 13 (3d8) psychic damage on a failed save, or half as much on success. Invisibility lasts until the end of Flint’s next turn.]
+- Deception: 13
+- Perception: 8
+- Stealth:7
+- Sleight of Hand: 7
+damage_resistances: Necrotic, Radiant
+condition_immunities: Charmed, Frightened
+senses: Darkvision 60ft., Passive Perception 12
+languages: Common, Sylvan
+cr: 5
+traits:
+- [Legendary Resistance (3/Day), If Flint Reverie fails a saving throw, it can choose to succeed instead.]
+actions: 
+- [Multiattack, Flint Reverie makes two attacks and a Beguiling Whisper every turn]
+- [Poison Blade, "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 7 (1d4 + 3) piercing damage plus 7 (2d6) poison damage."] 
+- [Spectral Card. _Melee or Ranged Spell Attack:_ +6 to hit, reach 5 ft. or range 60 ft., one target. _Hit:_ 8 (1d10 + 3) force damage plus 5 (1d10) damage that is radiant if the d10 roll is an even number and necrotic if it's odd.] 
+reactions:
+- [Shuffle Destiny, When a creature the Flint can see within 30 feet of itself makes an ability check, an attack roll, or a saving throw, the riffler can magically force that creature to roll a d6 and either add the number rolled to the total or subtract it from the total (Flint's choice), potentially changing the outcome.]
+legendary_actions:
+  - name: Destined Jaunt
+    desc: Flint magically teleports to an unoccupied space he can see within 30 feet
+  - name: Cunning
+    desc: Flint Reverie escapes nonmagical restraints and ends the grappled condition on himself, then moves up to his speed without provoking opportunity attacks.
+```
