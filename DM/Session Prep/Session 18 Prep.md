@@ -37,11 +37,11 @@ Tip
 - Figure out what side centaur will be on in final conflict
 
 ### READ ALOUD
-
+ 
 ### Key Details
 - **Location:** Unseelie Oasis in the woods near [[Bromzheath]]
 - **Time of Day**: Early afternoon, with sunlight beaming in through the trees and bouncing of the multicolored fungi and flowers at their bases.
-- **Mood/Atmosphere:** Tense. The party is entering a foreign species' camp, and they are visibly sharpening weapons and feasting on raw meat to prepare for the evening hunt. Effigies to Malar burn, the smoke carrying the stench of flesh and incense.
+- **Mood/Atmosphere:** Tense. The party is entering a foreign species' camp, and they are visibly sharpening weapons and feasting on raw meat to prepare for the evening hunt. Effigies to Malar burn, the smoke carrying the stench of flesh and incense. 
 
 #### NPCs Involved
 - **[[Flint Reverie]]:** 
@@ -73,7 +73,7 @@ Tip
 ```statblock
 monster: Centaur
 ```
-- The Fae that are stationed in the Magram Tribe's territory are fearsome, and are also the squad that will raid the [[Honeydrop Hall]] when the chance arises. They are led by [[Flint Reverie]], a powerful user of enchantment magic.
+- The Fae that are stationed in the Magram Tribe's territory are fearsome, and are also the squad that will raid the [[Honeydrop Hall]] when the chance arises. They are led by [[Flint Reverie]], a powerful user of enchantment magic. 
 ```statblock  
 name: Flint Reverie
 size: Small  

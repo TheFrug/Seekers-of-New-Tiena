@@ -35,7 +35,7 @@
 	- **Important:** Malar is worshipped to some degree by all in the tribe, but is unpopular among some for his brutality. Still, the alpha Mare of the Tribe is also always the most devoted to Malar.
   - [[Reynauld Stonehoof]]: Nearly perished in the T-Rex attack, but was saved by the party. Allowed [[Lucian Castemur Duskwood]] to ride atop him as a show of gratitude and respect. 
   - [[Osian]]: Silly party horse
-  - [[Marty]]: 
+  - [[Marty]]: Dumb horse
   - [[Glade Runehorn]]: Warden leader of mystic troupe
 
 ## Hooks & Notes
