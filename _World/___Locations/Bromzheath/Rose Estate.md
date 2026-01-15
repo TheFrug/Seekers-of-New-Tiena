@@ -10,6 +10,8 @@
 ## Map & Layout
 - Map chosen / rough sketch:
 - Loops & landmarks:
+https://dysonlogos.blog/2021/04/15/tarsakh-manor/
+https://dysonlogos.blog/2021/05/13/tarsakh-manor-upstairs/
 
 ## Chambers
 - Tags for each chamber (copy this ↓):

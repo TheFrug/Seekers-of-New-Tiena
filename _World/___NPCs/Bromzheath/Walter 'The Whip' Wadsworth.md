@@ -17,14 +17,14 @@ Race: "[[Firbolg]]"
 - **Occupation/Class:** [[ranger-xphb|Ranger]]
 - **Affiliation:** 
 - **Alignment:** Lawful Neutral
-- **Appearance:**
+- **Appearance:** 
 
 ## Summary
 
 
 ## Roleplaying
- - **Wants and Needs:**
- - **Secret or Obstacle:**
+ - **Wants and Needs:** Feel like somebody important
+ - **Secret or Obstacle:** [[Walter 'The Whip' Wadsworth]] is following the footsteps of his father, the actual [[Whip]] and a local legend who disappeared some time ago.
  - **Carrying:**
 
 

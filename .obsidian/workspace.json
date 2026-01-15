@@ -4,39 +4,128 @@
     "type": "split",
     "children": [
       {
-        "id": "5d17d3116388ba28",
+        "id": "a2f4cc0513d5e19b",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9f1154d4244a5d",
+            "id": "d7f41ec5fbef3baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jorundarholt.md",
+                "file": "DM/Session Prep/Session 19 Prep - Bromzheath Finale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jorundarholt"
+              "title": "Session 19 Prep - Bromzheath Finale"
             }
           },
           {
-            "id": "b146e5c93236e5b5",
+            "id": "89417916d75f67fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rasaad yn Yoko.md",
+                "file": "_World/___Factions/_Important/Unseelie Court.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rasaad yn Yoko"
+              "title": "Unseelie Court"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "9a4af84aeba4889b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce41972761e543a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___Locations/Bromzheath/Rose Estate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rose Estate"
+            }
+          },
+          {
+            "id": "748a42a0a85aa451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Session Prep/Session 13 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 13 Prep"
+            }
+          },
+          {
+            "id": "0f864e6e4f806ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Session Prep/Session 18 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 18 Prep"
+            }
+          },
+          {
+            "id": "03346b949f663864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Session Prep/Session 13 Prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 13 Prep"
+            }
+          },
+          {
+            "id": "13f15b10dfc4b2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_World/___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Walter 'The Whip' Wadsworth"
+            }
+          },
+          {
+            "id": "cb98ca78cbb91033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Whip.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whip"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "walter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +178,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,34 +299,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b146e5c93236e5b5",
+  "active": "d7f41ec5fbef3baf",
   "lastOpenFiles": [
-    "Mechanics/z_Templates/Markdown Templates/template-NPC.md",
-    "Rasaad yn Yoko.md",
-    "Kolbein Ironfist.md",
-    "Skiptaheimr.md",
-    "The Spirit of Alfheim.md",
+    "_World/___Locations/Bromzheath/Rose Estate.md",
+    "DM/Session Prep/Session 19 Prep - Bromzheath Finale.md",
+    "_World/___Factions/_Important/Unseelie Court.md",
+    "_World/___NPCs/Bromzheath/Walter 'The Whip' Wadsworth.md",
+    "Whip.md",
+    "DM/Session Prep/Session 13 Prep.md",
+    "DM/Session Prep/Session 12 Prep.md",
+    "DM/Session Prep/Session 11 Prep.md",
+    "DM/Session Prep/Session 18 Prep.md",
+    "_World/___NPCs/Bromzheath/Primrose Rose.md",
+    "DM/Session Prep/Session 14 Prep.md",
+    "_World/___NPCs/Unseelie Court/Flint Reverie.md",
     "Tipsy Warbler.md",
-    "DM/Session Prep/One Shots/One Shot - Thracian Wedding.md",
-    "Jorundarholt.md",
-    "DM/Session Prep/One Shots/One Shot -.md",
-    "Grimbald Ironfist.md",
-    "Elenara Dawnstride.md",
+    "_World/___NPCs/People of Interest",
+    "_World/___NPCs/Jorundarholt/Kolbein Ironfist.md",
+    "_World/___NPCs/Jorundarholt/Grimbald Ironfist.md",
+    "_World/___NPCs/Jorundarholt/Elenara Dawnstride.md",
+    "_World/___Havens/Jorundarholt.md",
+    "_World/___NPCs/Al Qonidar",
+    "_World/___NPCs/Jorundarholt",
+    "_World/___Havens/Skiptaheimr.md",
+    "_World/___Characters/One Shots/Jorundarholt",
+    "_World/___NPCs/People of Interest/Rasaad yn Yoko.md",
     "DM/Session Prep/One Shots/One Shot - Justice in Jorundarholt (Working Title).md",
-    "Alfheim.md",
+    "_World/___NPCs/Unseelie Court/The Spirit of Alfheim.md",
+    "_World/___Havens/Alfheim.md",
+    "DM/Session Prep/One Shots/One Shot - Thracian Wedding.md",
     "DM/Session Prep/One Shots/One Shot - Captain Cardbeard and the Geas.md",
     "_World/___Factions/Bromzheath Arc/Magram Tribe.md",
-    "_World/___Locations/Bromzheath/Rose Estate.md",
-    "DM/Session Prep/Session 18 Prep.md",
-    "_World/___NPCs/Unseelie Court/Flint Reverie.md",
     "_World/___NPCs/Bromzheath/Garmos Anth-Malar.md",
-    "_World/___NPCs/Bromzheath/Leaf Dancer.md",
-    "_World/___NPCs/Brenwin's Caravan.md",
-    "_World/___NPCs/Bromzheath/Ratmancer.md",
-    "_World/___Locations/Bromzheath/Temple of Talona.md",
-    "Mechanics/z_Templates/dm/compendium/bestiary/aberration/otyugh-xmm.md",
-    "_World/___Locations/Bromzheath/Honeydrop Hall.md",
-    "_World/___Items/Relics/Decanter of Unending Filth.md",
     "Mechanics/z_Assets/Images/Pasted image 20251023165147.png",
     "Mechanics/z_Assets/Images/Pasted image 20251023165102.png",
     "Mechanics/z_Assets/Images/latest-1993141531.webp",
