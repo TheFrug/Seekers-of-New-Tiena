@@ -22,7 +22,8 @@
 ## NPCs
 - **Owner/Leader:** [[Ethereal Song]]
 - **Supporting Cast:** 
-- Animated tiny servants managed by [[Nizzo]], the high-elven general manager of the bar and longtime friend of Ethereal’s. Lost his voice in a bet with Ethereal.
+	- [[Nizzo]], the high-elven (Eladrin) general manager of the bar and longtime friend of Ethereal’s. Lost his voice in a bet with Ethereal.
+- Animated tiny servants managed by Ethereal and Nizzo
 - **Visitors/Regulars:** [[Bromzheath Militia]], [[Ricky Rat]]
 
 ---

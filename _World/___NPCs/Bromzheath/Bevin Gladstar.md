@@ -11,13 +11,13 @@ Race: "[[Firbolg]]"
 
 ## Description
 - **Name:** Bevin Gladstar
-- **Race/Species:** 
-- **Gender:** 
-- **Age:** 
-- **Occupation/Class:** 
-- **Affiliation:** 
-- **Alignment:** 
-- **Appearance:**
+- **Race/Species:** [[Firbolg]]
+- **Gender:** Non-binary
+- **Age:** Old as fuck
+- **Occupation/Class:** Herbalist
+- **Affiliation:** [[Bromzheath]], [[Seelie Court]]
+- **Alignment:** Chaotic Neutral
+- **Appearance:** Elderly firbolg with fey markings all over their body, mostly kept hidden by baggy and comfortable robes.
 
 ## Summary
 
@@ -28,7 +28,7 @@ Race: "[[Firbolg]]"
 Merric's compost farm has been helpful to [[Bevin Gladstar]]'s garden ever since Clungunford stopped consecrating it. This might help the players convince them to testify.
 ## Roleplaying
  - **Wants and Needs:** Re-create Airmed's herb collection
- - **Secret or Obstacle:** 
+ - **Secret or Obstacle:** Bevin's herbalism has, for many years, been the target of subtle interference from [[Clungunford Rose]], and this is what strained Bevin and [[Pastor Edith]]'s budding relationship 
  - **Carrying:** 
 
 

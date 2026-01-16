@@ -10,7 +10,7 @@ aliases:
 ---
 # Elephant
 *Mount*  
-
+[[elephant-xmm|Elephant]]
 - **Cost**: 200 gp
 
 *Source: SRD 5.2*

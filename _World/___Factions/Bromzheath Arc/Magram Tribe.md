@@ -12,6 +12,7 @@
   - Wardens: Herd strategists, responsible for directing the herd's travel to new sources of food/water. Wardens lead scout troops, handle negotiations with other civilizations, and in general take on the more stressful tasks so their herdmates can focus on the hunt.
 	  - [[Sleuf Softmane]]
 	  - [[Leaf Dancer]]
+	  - [[Nikia Stonehoof]]
   - Others: Partake in the hunt, can act as desired
 - **Base of Operations**: No centralized home, but the Magram tribe travels anywhere there is open space to see prey as well as potential predators. Right now, the Magram Tribe is staying near an [[Unseelie Court]] encampment a few dozen miles from Bromzheath.
 

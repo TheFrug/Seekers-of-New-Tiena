@@ -1,4 +1,3 @@
-
 ## Overview
 - **Type**: (Guild, Cult, Mercenary Band, Noble House, etc.)
 - **Reputation**: (Feared, Respected, Secretive, etc.)

@@ -64,7 +64,7 @@ The party walks Westward along the soft dirt path leading to the
 	- Role: Self-appointed Guard, testimony, prosecution
 	- Motivation: Feel like somebody important, obtain justice for Edith and the church
 	- Secret/Challenge: [[Walter 'The Whip' Wadsworth]] is following the footsteps of his father, the actual [[Whip]]
-- **Orrick Peatbelly,Clungunford's Boy**
+- **Orrick Peatbelly/Clungunford's Boy**
 	- Role: Witness/Testimony
 	- Personality: Bumbkin, very southern
 	- Motivation: Lock Merric up! He is afraid after being almost killed by him.
