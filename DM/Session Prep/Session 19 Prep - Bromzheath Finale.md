@@ -26,7 +26,15 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Create a Strong Start]]
 %%
 
-The party walks along the dirt path to the Garden District, where the [[Rose Estate Ball]] is taking place at the [[Rose Estate]] [[Rose Estate Ball]]
+We open this scene with the smell of flowers and manure, the crunch of stiff, fresh-cobbled leather shoes on the dirt path to the Garden District, where the [[Rose Estate Ball]] is taking place at Clungunford's mansion. You approach from the west, your backs to the setting sun shining warm light on the tree-stump houses and newly bare fields of [[Bromzheath]]. On your way here, you passed by the [[Church of Chauntea]], its new garden roof still in reconstruction, the [[Honeydrop Hall]], its ever-lively music barely audible from outside, and the trial grounds, where a silver-lined pillory has yet to be taken down. 
+
+Much has happened in your six days in town. You have made yourselves out to be local legends, first with your encounter with the Bulette, then stopping the [[Cult of Talona]] in its tracks and rescuing [[Pastor Edith]], and now you've gone so far as to take charge in a tense negotiation with the Magram Tribe of centaurs, having an unexpected run-in with the Unseelie in the process. Undoubtedly, you've done much for the Firbolgs of Bromzheath, and have garnered the trust of most, except one: Duke [[Clungunford Rose]], whose intentions and opinions went mostly unknown, often hidden behind the façade of a magnanimous and devout noble. That was, until recently, when documents found in the [[Temple of Talona]] revealed his high-handed cooperation with the Cult of Talona in exchange for something powerful, something the rat-folk were planning to take back from him. 
+
+Clungunford's involvement with the cult smells more rank than the corpse-laden sewers the Talontar found home, yet you have been invited to a party at his home all the same. As you near the [[Rose Estate]], you are passed by adorned wagons of downsized Firbolgs in fancy clothes being pulled by elephants painted with old fae markings. They sometimes look at you four, and some seem to sneer at your freshly-bought, not-yet-laundered attire. 
+[Invite players to narrate their outfits]
+1. What color is dominant in your fit. 2. Kinds of clothes examples. 3. How do they wear it?
+
+Now approaching the manor's outer walls, the Rose Estate emanates candlelight from inside, emanating even past the towering walls that guard the property like a castle. Inside, you hear sounds of life, music, and Firbolgs laughing. It seems like a joyous night, a time to celebrate a plentiful harvest and acts of good, but there is a creeping feeling all the same. You must leave early in the morning tomorrow to catch your ride back to [[Seeker's Roost]] from [[Earl]]. Before then, you must be sure that your mission to recover the relic is completed successfully. But, with the Earthmother's Scythe in your back pocket, you might just be able to enjoy the feast ahead of you. Only the next few hours will be able to tell.
 
 # Outline Potential Scenes
 
@@ -35,7 +43,7 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Outline Potential Scenes]]
 %%
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 # Define Secrets and Clues
 
@@ -44,7 +52,7 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Define Secrets and Clues]]
 %%
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 # Develop Fantastic Locations
 
@@ -53,7 +61,12 @@ Tip
 ![[The Eight Steps of Lazy RPG Prep#Develop Fantastic Locations]]
 %%
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[[Rose Estate]]
+- Feast Hall of unlikely decadence for a hick town
+- Secret study lined with books of varying foreign sources
+- 
+
+[[Honeydrop Hall]]
 
 # Outline NPCs
 
