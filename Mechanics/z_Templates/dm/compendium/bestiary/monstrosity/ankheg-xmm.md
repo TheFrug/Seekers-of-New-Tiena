@@ -45,7 +45,6 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 | 7 | A stray farm or woodland animal. |
 | 8 | A viciously mauled scarecrow. |
 ^ankheg-tunnel-discoveries
-
 ```ad-statblock
 title: Ankheg
 ![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Ankheg.webp#token)
@@ -77,7 +76,6 @@ title: Ankheg
 ***Acid Spray (Recharge 6).*** *Dexterity Saving Throw:* DC 12, each creature in a 30-foot-long, 5-foot-wide <span title="Player's Handbook (2024)">Line</span>. *Failure:* 14 (`4d6`) Acid damage. *Success:* Half damage.
 ```
 ^statblock
-
 ## Environment
 
 forest, grassland
