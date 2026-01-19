@@ -71,7 +71,7 @@ The party walks Westward along the soft dirt path leading to the
 	- Secret/Challenge: None. He's a simply farmhand
 
 #### Elders
-- **Turlough Axetooth:**
+- **[[Turlough Axetooth]]:**
 	- Role: Elder
 	- Personality: Aggressive old man, doesn't seem too bright
 	- Motivation: Loyal to Clungunford, believes in the dominance of the strong (him and his family)

@@ -36,14 +36,37 @@ Clungunford's involvement with the cult smells more rank than the corpse-laden s
 
 Now approaching the manor's outer walls, the Rose Estate emanates candlelight from inside, emanating even past the towering walls that guard the property like a castle. Inside, you hear sounds of life, music, and Firbolgs laughing. It seems like a joyous night, a time to celebrate a plentiful harvest and acts of good, but there is a creeping feeling all the same. You must leave early in the morning tomorrow to catch your ride back to [[Seeker's Roost]] from [[Earl]]. Before then, you must be sure that your mission to recover the relic is completed successfully. But, with the Earthmother's Scythe in your back pocket, you might just be able to enjoy the feast ahead of you. Only the next few hours will be able to tell.
 
-# Outline Potential Scenes
+# Outline Events
 
 %%
 Tip
 ![[The Eight Steps of Lazy RPG Prep#Outline Potential Scenes]]
 %%
+- Kitchen sends someone outside to fetch food from the pantry, leading to an Ankheg attack
+- Bevin and [[Pastor Edith]] arrive, greeting the party and informing them of the plan.
+- [[Brenwin Al-avik]] arrives with [[Ko'Chira]] and [[Salazar]].
+- Brenwin is invited into the meeting room with [[Clungunford Rose]]
+- [[Turlough Axetooth]] is invited into the meeting room with [[Clungunford Rose]]
+- [[Wintha Dovemeal]] is invited into the meeting room with [[Clungunford Rose]], but does not come out (poisoned)
+- [[Suryis]] challenges the biggest person in the room to a duel, staking his honor on the line
+- [[Primrose Rose]] invites [[Lucian Castemur Duskwood]] to read with her via magical message
+- [[Desmond Ashford]] arrives, walks directly to the meeting room with [[Clungunford Rose]], and does not come out (teleport)
+- [[Walter 'The Whip' Wadsworth]] Gets so drunk that he begins crying about his father
+
+- The feast begins and all guests are brought into the feast hall for food
+- Everyone is served a mug of water, except a scant few grow sick afterwards with a long-incubation illness. 
 
 
+[[Brenwin's Caravan]]
+
+# Conversation Topics
+
+- [[Pell Underoot]]'s field was nearly fallow around harvest time.
+- [[Pastor Edith]]'s disappearance was scary!
+- The caravan leaving in a few days
+- Ethereal Song looked right pissed earlier that night
+- Elephants have been acting up in this area
+- Bulette + rat attack on the [[Church of Chauntea]]
 
 # Define Secrets and Clues
 
@@ -51,29 +74,22 @@ Tip
 Tip
 ![[The Eight Steps of Lazy RPG Prep#Define Secrets and Clues]]
 %%
+- [[Clungunford Rose]] used the [[Cult of Talona]]'s poisons to weaken his cousin and [[Pastor Edith]]'s son, [[Broome Rose]]. 
+- [[Clungunford Rose]] held control over the [[Cult of Talona]], using their [[Decanter of Unending Filth]] as collateral.
+- [[Primrose Rose]] is being made to develop a bond with [[Lucian Castemur Duskwood]] by her father, who is hoping to connect the [[Rose Family]] to the [[Duskwood Clan]] via marriage.
 
 
-
-# Develop Fantastic Locations
-
-%%
-Tip
-![[The Eight Steps of Lazy RPG Prep#Develop Fantastic Locations]]
-%%
-
+# Relevant Locations
 [[Rose Estate]]
 - Feast Hall of unlikely decadence for a hick town
 - Secret study lined with books of varying foreign sources
-- 
+- Busy kitchen loaded with talented chefs
+- Secret meeting room where visitors come and go until they don't
+- Guard house filled with lazy militia on watch for unwanted guests.
 
 [[Honeydrop Hall]]
-
+- 
 # Outline NPCs
-
-%%
-Tip
-![[The Eight Steps of Lazy RPG Prep#Outline Important NPCs]]
-%%
 
 ## Important People
 - **[[Clungunford Rose]]:** 
@@ -81,22 +97,32 @@ Tip
 		- Use the recent kidnapping of [[Pastor Edith]] to justify arming the [[Bromzheath Militia]] further, while suggesting also that more hierarchichal leadership might also act as a good defense
 		- Secure a trade deal with [[Brenwin Al-avik]] to gain arms and armor from [[Al-Qonidar]] in exchange for plentiful food.
 	- Secret/Challenge: The party's presence is somewhat unwanted, as Clungunford is paranoid that they know of his plans based on their connection to [[Bevin Gladstar]]
-- **[[Wintha Dovemeal]]:**
+- [[Wintha Dovemeal]]:
 	- Motivation: To relax at the party and distract herself from [[Pastor Edith]]'s condition. Is very concerned with Edith's health
 	- Secret/Challenge: Is suspicious of Clungunford's nature
-- **[[Brenwin Al-avik]]:** 
+- [[Turlough Axetooth]]: 
+	- Motivation: Support Clungunford in his plans
+	- Secret/Challenge: Is in on the [[Conspiracy of the Earthmother's Scythe]] and plans to be first general of the Kingdrom of Bromzheath. Power-hungry cretin.
+- [[Brenwin Al-avik]]: 
 	- Motivation: Eat some good food, learn local customs, and perhaps secure a lucrative trade deal with [[Clungunford Rose]] or someone else, since he knows Clungunford is bad news.
 	- Secret/Challenge: Is afraid of Clungunford, especially knowing he poisoned people in the past.
-- **[[Primrose Rose]]:** 
-	- Motivation: 
+- [[Primrose Rose]]: 
+	- Motivation: Seduce [[Lucian Castemur Duskwood]] in order to bring him into the family fold
 	- Secret/Challenge: 
 
 ## Misc. Guests
-- [[Bevin Gladstar]]: Elder herbalist firbolg who is somewhat disliked by [[Clungunford Rose]], although he must do his best not to show it
+- [[Bevin Gladstar]]: Elder herbalist firbolg who is somewhat disliked by [[Clungunford Rose]], although they must do his best not to show it
 	- Role: Quiet Dissenter
 	- Motivation: Ensure [[Pastor Edith]]'s safety and observe Clungunford. By this point, Bevin knows something is up with the Rose family.
 	- Secret/Challenge: Is suppressing their romantic feelings for [[Pastor Edith]] 
-
+- [[Brother Merric]]: Halfling cleric of Chauntea who recently survived a trial for his relation to the [[Cult of Talona]]. Now, Merric is doing his best to lie low.
+	- Role: Unwanted guest
+	- Motivation: Protect Bevin and Pastor Edith, as Merric at this point cares for both of them.
+	- Secret/Challenge: Fearful of Clungunford finding him, so hides from the Duke.
+- [[Pastor Edith]]: Firbolg priest of Chauntea who has just been nursed to health by Bevin. Now returns to the people of Bromzheath on the day of the party, but now knows that Clungunford is suspicious.
+	- Role: Guest of Honor
+	- Motivation: Reassure her people that she is alive while keeping an eye on her nephew.
+	- Secret/Challenge: Realizing what Clungunford did to Bevin's garden, Edith is beginning to lose faith in the [[Conspiracy of the Earthmother's Scythe]], and might spill the beans.
 - [[Vernon]]: Elder firbolg known for his participation in the community and [[Church of Chauntea]]. Wears a lovingly carved peg leg and overalls with flowers patched onto them. Loved by children of all kinds.
 	- Role: Honored Guest
 	- Motivation: Enjoy himself and ensure the youngin's aren't getting in the way of adult stuff
@@ -105,9 +131,14 @@ Tip
 	- Role: Honored guest's +1
 	- Motivation: 
 	- Secret/Challenge: While technically a member of the Unseelie Court, Suryis doesn't care to push the Unseelie agenda. Rather, Suryis is looking for love. And to burn Clungunford's house down, but that comes later. 
-- [[Walter 'The Whip' Wadsworth]]: 
-	- Motivation: 
-	- Secret/Challenge: 
+- [[Walter 'The Whip' Wadsworth]]: The Whip is at this party primarily to keep an eye on the party, as he doesn't entirely trust them. He wants to look good to his betters.
+	- Role: Militia Officer
+	- Motivation: Look tough and important
+	- Secret/Challenge: The Whip can't handle his liquor, and gets emotional about his dad, 'Whip'
+- [[Kotiri Byldamur]]: 
+	- Role: Valued guest
+	- Motivation: Enjoy the party as thanks for her years of service in Bromzheath. She is popular here!
+	- Secret/Challenge: Misses her husband and kids, and wonders why they weren't invited.
 - **Use more from the NPC book. Just jam some randos in here**
 Random Table:
 
